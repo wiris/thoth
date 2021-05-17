@@ -1,0 +1,1 @@
+<span>This is a commercial <span class="color:red">message</span> with <strong>HTML tags</strong> in it!</span>
