@@ -1,1 +1,1 @@
-<span>This is a commercial <span style="color:red">message</span> with <strong>HTML tags</strong> in it!</span>
+<span>Bienvenidos al complemento de <span style="color:red">MathType</span>  para <strong>Microsoft Office!</strong>!</span>
