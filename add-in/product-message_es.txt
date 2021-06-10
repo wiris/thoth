@@ -1,1 +1,1 @@
-<span>Bienvenidos al complemento de <span style="color:red">MathType</span>  para <strong>Microsoft Office!</strong>!</span>
+<span>Prueba MathType para Microsoft 365 beta de forma gratuita. <strong>MathType para Microsoft Office</strong> estará incluido en la suscripción de MathType Office Tools</span>.
