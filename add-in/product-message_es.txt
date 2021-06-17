@@ -1,1 +1,1 @@
-<span>Prueba la Beta de MathType para Word en Microsoft 365 de forma gratuita. MathType para Word en Microsoft 365 estará incluido en nuestra suscripción de MathType para Office Tools.</span>
+<span style="font-size: 10pt;">Prueba la Beta de MathType para Word en Microsoft 365 de forma gratuita. MathType para Word en Microsoft 365 estará incluido en nuestra suscripción de MathType para Office Tools.</span>
