@@ -1,1 +1,1 @@
-<p style="font-size: 10pt;">Try MathType Add-In for Microsoft 365 free Beta version. This product will be included in our MathType for Office Tools subscription.<p style="font-size: 10pt;">Now also compatible with Office2021!</p>
+<p><span style="font-size: 10pt;">Try MathType Add-In for Microsoft 365 free Beta version. This product will be included in our MathType for Office Tools subscription.<br><br>Now also compatible with Office2021!</span></p>
