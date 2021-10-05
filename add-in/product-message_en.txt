@@ -3,6 +3,6 @@
     Try MathType Add-In for Microsoft 365 free Beta version. This product will be included in our MathType for Office Tools subscription.
   </div>
   <div style="padding-top: 10px">
-    Now also compatible with Office2021!
+    Now also compatible with Office 2021!
   </div>
 </div>
