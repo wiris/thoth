@@ -1,8 +1,5 @@
 <div style="font-size: 10pt;">
   <div>
-    Prueba la versión Beta de MathType Add-In para Microsoft 365 de forma gratuita. Este producto estará incluido en nuestra suscripción de MathType para Office Tools.
-  </div>
-  <div style="padding-top: 10px">
-    ¡Ahora también compatible con Office 2021!
+    Prueba la versión Beta de MathType Add-In para Microsoft 365 de forma gratuita, ya incluida en nuestra suscripción de MathType para Office Tools.
   </div>
 </div>
