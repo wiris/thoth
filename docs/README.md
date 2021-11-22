@@ -1,6 +1,6 @@
 # Thoth
 
-This project acts as a `plain text file repository`. If you application needs to consume a file content with no logic involved, Thoth can help you.
+This project acts as a `plain text file repository`. If your application needs to consume a file content with no logic involved, Thoth can help you.
 
 The structure of the project is described [here](./STRUCTURE.md).
 
