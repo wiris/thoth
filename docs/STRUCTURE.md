@@ -23,6 +23,6 @@ docs
 └── USAGE.md                              - How to use the project
 ```
 
-## Other folders
+## Other directories
 
 The rest of the directories in this repository are meant to contain any `plain text file`, grouped by certain criterion. Most of the time the criterion to be used is the product that will consume that files, but no rules regarding this topic have been set __for the moment__, so as a rule of thumb, just use the common sense.
