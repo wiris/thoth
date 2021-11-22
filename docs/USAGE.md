@@ -1,6 +1,6 @@
 # Using Thoth
 
-Thoth acts as a `plain text repository` hosted by Github. If you application needs to consume a file content with no logic involved, Thoth can help you.
+Thoth acts as a `plain text repository` hosted by Github. If your application needs to consume a file content with no logic involved, Thoth can help you.
 
 To do so, follow the next steps:
 
