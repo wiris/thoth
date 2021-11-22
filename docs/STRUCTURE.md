@@ -6,7 +6,7 @@
 .
 ├── README.md           - Project description and router to documentation
 ├── docs                - Documentation files
-└── [product_name]    - Folder containing any plan text file to be consumed 'in app'.
+└── [product_name]      - Folder containing any plan text file to be consumed 'in app'.
 ```
 
 ## Documentation
