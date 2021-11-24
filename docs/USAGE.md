@@ -27,7 +27,9 @@ You can use GitHub itself to perform any of these actions. Anyway, if you feel c
 
 ## About code review
 
-TODO: Define PR policies.
+If you are modifying already existent files, a PR involving your squad is enough.
+
+On the other side, if a new product is to be included in Thoth, is mandatory to include the engineering leads in the code review.
 
 ## Some security concerns
 
