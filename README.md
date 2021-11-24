@@ -1,6 +1,6 @@
 # Thoth
 
-This project follows [Herodoto version 211105.1](https://github.com/wiris/herodotos/). Use the [documentation entrypoint](docs/README.md) to find out about this project.
+This project follows [Herodoto version 211105.1](https://github.com/wiris/herodotos/releases/tag/211105.1). Use the [documentation entrypoint](docs/README.md) to find out about this project.
 
 ## Who's to Blame
 
