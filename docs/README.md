@@ -12,4 +12,4 @@ The structure of the project is described [here](./STRUCTURE.md).
 
 ## How to Use the Project
 
-To know how Thoth can help you, please read [this document](./USAGE.md).
+To know how Thoth can, __or can not__, help you, please read [this document](./USAGE.md).
