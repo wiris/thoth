@@ -4,7 +4,7 @@ This project follows [Herodoto version 211105.1](https://github.com/wiris/herodo
 
 ## Who's to Blame
 
-This project is mantained by the engineering team. You can contact the authors in the following channel:
+This project is mantained by the engineering team, thus, in order to make use of it you __must__ contact the authors in the following channel:
 
 - [#engineering](https://wiris.slack.com/archives/C010P3E9AHH)
 
