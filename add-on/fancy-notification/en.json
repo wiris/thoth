@@ -1,0 +1,12 @@
+{
+  "id": "HOW_TO_EDIT_AN_EQUATION",
+  "info": {
+    "title": "How to edit an equation",
+    "description": "Select an equation and then click on open MathType"
+  },
+  "image": {
+    "url": "https://msaddin.wiris.org/v2.3.0-rc6/taskpane/resources/gifs/cooltip.gif",
+    "altText": "Select an equation and then, click on open MathType",
+    "target": "https://www.wiris.com"
+  }
+}
