@@ -27,7 +27,8 @@ This files must contain the following JSON structure:
 * **id**: Mandatory string used to identify any given fancy notification. This identifier is necessary for the add-in internals, and must be different unique.
 * **info.title**: Optional string. If present, will be used as the alert title.
 * **image.url**(*): Mandatory URL. Points to the animated image (i.e.: the GIF file) to be shown.
-* **image.altText**: Mandatory string. Used as accesible text for the animated image.
+* **image.altText**: Mandatory string. Used as text to be spoken by screen readers when they come across the animated image.
+
 * **image.target**: Optional URL. If present, clicking the notification will open an internet browser tab pointing to this URL.
 
 (*) These values should be provided by the development team
