@@ -4,7 +4,7 @@ Fancy notifications are a special way of communication with the MathType add-on 
 
 ## How to set a fancy notification
 
-You can set one, and only one, fancy notification per language. To do so, create (or modify it, if already present) a JSON file in this very folder with the format: `{language code}.json` where `language code` must be one of the [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) codes.
+You can set one, and only one, fancy notification per language. To do so, create (or modify if already present) a JSON file in this very folder with the format: `{language code}.json` where `language code` must be one of the [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) codes.
 
 This files must contain the following JSON structure:
 
