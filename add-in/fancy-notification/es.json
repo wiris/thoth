@@ -1,10 +1,10 @@
 {
   "id": "HOW_TO_EDIT_AN_EQUATION",
   "info": {
-    "title": "Como editar una ecuación"
+    "title": "Título notificación ESP"
   },
   "image": {
-    "url": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif",
-    "altText": "Selecciona una ecuación y haz clic en 'Abrir MathType'"
+    "url": "https://i.pinimg.com/originals/be/7e/20/be7e20de790aba318584038929cc5475.gif",
+    "altText": "this is a test to check the alternative text (esp)"
   }
 }
