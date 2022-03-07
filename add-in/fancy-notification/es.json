@@ -4,7 +4,8 @@
     "title": "Título notificación ESP"
   },
   "image": {
-    "url": "https://i.pinimg.com/originals/be/7e/20/be7e20de790aba318584038929cc5475.gif",
+    "url": "https://i.pinimg.com/originals/77/10/a5/7710a52f6d304ed77ac45827b75b16b1.gif",
     "altText": "this is a test to check the alternative text (esp)"
+    "target": "https://www.wiris.com/en/"
   }
 }
