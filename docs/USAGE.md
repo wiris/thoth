@@ -4,7 +4,7 @@ Thoth acts as a `plain text repository` hosted by Github. If your application ne
 
 ## Before using Thoth
 
-First off: before you use Thoth, you must contact the [engineering team](https://wiris.slack.com/archives/C010P3E9AHH) to approve its use.
+First off: before you use Thoth, you must contact the [engineering team](https://wiris.slack.com/archives/C010P3E9AHH) to approve its use and then read the [contributing guidelines](./CONTRIBUTING.md) and make sure you understand them.
 
 Besides that, you must take into account some of Thoth's limitations:
   
