@@ -12,6 +12,8 @@ Besides that, you must take into account some of Thoth's limitations:
   2. Thoth has been set as a __public GitHub repository__ to work as intended, meaning __no confidential, compromising data can be included in it__.
   3. GitHub allows a maximum of 5000 requests/hour for raw files (more info about this in the  [official GitHub documentation](https://docs.github.com/en/rest/overview/resources-in-the-rest-api#rate-limiting)).
 
+  > We are not really sure that GitHub limitation really affects us, let's keep it in mind, just in case.
+
 ## I contacted the engineering team and understand the limitations
 
 Once the engineering team approve the use of Thoth, and having taken into consideration its limitations, you can follow the next steps:
