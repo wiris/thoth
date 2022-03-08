@@ -1,11 +1,11 @@
 {
-  "id": "HOW_TO_EDIT_AN_EQUATION",
+  "id": "HOW_TO_USE_SHORTCUTS",
   "info": {
-    "title": "Título notificación ESP"
+    "title": "¿Quieres escribir tus ecuaciones más rápido? Descubre cómo pinchándo en la imagen"
   },
   "image": {
-    "url": "https://i.pinimg.com/originals/77/10/a5/7710a52f6d304ed77ac45827b75b16b1.gif",
-    "altText": "this is a test to check the alternative text (esp)",
-    "target": "https://www.wiris.com/en/"
+    "url": "https://assets.officetools.wiris.kitchen/gifs/shortcuts.gif",
+    "altText": "¿Quieres escribir tus ecuaciones más rápido? Descubre cómo pinchando en la imagen",
+    "target": "https://docs.wiris.com/mathtype/en/user-interfaces/mathtype-web-interface/using-mathtype.html?utm_source=product&utm_medium=MathTypeMS365&utm_campaign=FancyShortcuts#autoformat"
   }
 }
