@@ -1,11 +1,11 @@
 {
   "id": "HOW_TO_USE_SHORTCUTS",
   "info": {
-    "title": "¿Quieres escribir tus ecuaciones más rápido? Descubre cómo pinchándo en la imagen"
+    "title": "¿Quieres escribir tus ecuaciones más rápido? Descubre cómo clicando en la imagen"
   },
   "image": {
     "url": "https://assets.officetools.wiris.kitchen/gifs/shortcuts.gif",
-    "altText": "¿Quieres escribir tus ecuaciones más rápido? Descubre cómo pinchando en la imagen",
+    "altText": "Imagen animada mostrando las posibilidades de autoformateo del editor de MathType.",
     "target": "https://docs.wiris.com/mathtype/en/user-interfaces/mathtype-web-interface/using-mathtype.html?utm_source=product&utm_medium=MathTypeMS365&utm_campaign=FancyShortcuts#autoformat"
   }
 }
