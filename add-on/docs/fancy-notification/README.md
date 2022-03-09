@@ -1,6 +1,6 @@
 # Fancy notifications
 
-Fancy notifications are a special way of communication with the MathType add-in for Microsoft Office users, mainly used to explain some concepts with the help of animated images.
+Fancy notifications are a special way of communication with the MathType Add-on for Google Workspace users, mainly used to explain some concepts with the help of animated images.
 
 ## How to set a fancy notification
 
@@ -24,7 +24,7 @@ These files must contain the following JSON structure:
 
 ## JSON fields explanation
 
-* **id**: Mandatory string used to identify any given fancy notification. This identifier is necessary for the add-in internals, and must be different unique.
+* **id**: Mandatory string used to identify any given fancy notification. This identifier is necessary for the add-on internals, and must be different unique.
 * **info.title**: Optional string. If present, will be used as the alert title.
 * **image.url**(*): Mandatory URL. Points to the animated image (i.e.: the GIF file) to be shown.
 * **image.altText**: Mandatory string. Used as text to be spoken by screen readers when they come across the animated image.
