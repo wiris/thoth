@@ -1,0 +1,10 @@
+{
+  "id": "DOCS_NOTIFICATION",
+  "info": {
+    "title": "Notificación de google Docs"
+  },
+  "image": {
+    "url": "https://msaddin.wiris.org/v2.3.0-rc6/taskpane/resources/gifs/cooltip.gif",
+    "altText": "Selecciona una ecuación y haz clic en 'Abrir MathType'"
+  }
+}
