@@ -17,3 +17,5 @@ For each of this environments, the URLs you should point from your code are:
 | Production  | main         | <https://raw.githubusercontent.com/wiris/thoth/main>        |
 
 ## Conventional commits
+
+Ideally, this project should use [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/), but since it's very likely that non technical collaborators commit changes to it, we can't assure this is always true. Just use them if you know what they are and make sure any other collaborators know what they mean and what they are, just in case the want to use them as well.
