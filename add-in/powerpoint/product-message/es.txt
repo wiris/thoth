@@ -1,0 +1,5 @@
+<div style="font-size: 10pt;">
+  <div>
+    Mensaje de producto PowerPoint
+  </div>
+</div>
