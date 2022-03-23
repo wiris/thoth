@@ -1,11 +1,11 @@
 {
-  "id": "HOW_TO_USE_SHORTCUTS",
+  "id": "HOW_TO_USE_SPACING",
   "info": {
-    "title": "Do you want to write your equations faster? Click the image to learn how."
+    "title": "Do you know our nudging options? Learn more by clicking on the image."
   },
   "image": {
-    "url": "https://assets.officetools.wiris.kitchen/gifs/shortcuts.gif",
-    "altText": "An animated image showing the MathType editor's auto formatting capabilities.",
-    "target": "https://docs.wiris.com/mathtype/en/user-interfaces/mathtype-web-interface/using-mathtype.html?utm_source=product&utm_medium=MathTypeMS365&utm_campaign=FancyShortcuts#autoformat"
+    "url": "https://assets.officetools.wiris.kitchen/gifs/spacing.gif",
+    "altText": "An animated image showing the MathType editor's nudging capabilities.",
+    "target": "https://docs.wiris.com/mathtype/en/user-interfaces/mathtype-web-interface/toolbar-and-icons.html?utm_source=Product&utm_medium=MathTypeMS365&utm_campaign=FancyNudging#nudging-2913151"
   }
 }
