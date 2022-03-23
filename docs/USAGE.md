@@ -4,13 +4,15 @@ Thoth acts as a `plain text repository` hosted by Github. If your application ne
 
 ## Before using Thoth
 
-First off: before you use Thoth, you must contact the [engineering team](https://wiris.slack.com/archives/C010P3E9AHH) to approve its use.
+First off: before you use Thoth, you must contact the [engineering team](https://wiris.slack.com/archives/C010P3E9AHH) to approve its use and then read the [contributing guidelines](./CONTRIBUTING.md) and make sure you understand them.
 
 Besides that, you must take into account some of Thoth's limitations:
   
   1. This project acts as basic `plan text file` server. __No logic can be involved in those files__. Furthermore, no logic __should be__ involved in the use of this service.
   2. Thoth has been set as a __public GitHub repository__ to work as intended, meaning __no confidential, compromising data can be included in it__.
   3. GitHub allows a maximum of 5000 requests/hour for raw files (more info about this in the  [official GitHub documentation](https://docs.github.com/en/rest/overview/resources-in-the-rest-api#rate-limiting)).
+
+  > We are not really sure that GitHub limitation really affects us, let's keep it in mind, just in case.
 
 ## I contacted the engineering team and understand the limitations
 
