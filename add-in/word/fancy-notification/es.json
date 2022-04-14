@@ -1,11 +1,11 @@
 {
-  "id": "HOW_TO_USE_SPACING",
+  "id": "HOW_TO_USE_MULTILINE",
   "info": {
-    "title": "¿Conoces nuestras opciones de espaciado? Para saber más, haz click en la imagen."
+    "title": "¡No te pierdas nuestra funcionalidad de ecuación multilineal! Escribe fácilmente funciones con múltiples líneas o muestra procesos paso a paso."
   },
   "image": {
-    "url": "https://assets.officetools.wiris.kitchen/gifs/spacing.gif",
-    "altText": "Imagen animada mostrando las posibilidades de espaciado del editor de MathType.",
-    "target": "https://docs.wiris.com/mathtype/en/user-interfaces/mathtype-web-interface/toolbar-and-icons.html?utm_source=Product&utm_medium=MathTypeMS365&utm_campaign=FancyNudging#nudging-2913151"
+    "url": "https://assets.officetools.wiris.kitchen/gifs/multiline.gif",
+    "altText": "Imagen animada mostrando las posibilidades multilínea del editor de MathType.",
+    "target": "https://docs.wiris.com/mathtype/en/user-interfaces/mathtype-web-interface/toolbar-and-icons.html?utm_source=Product&utm_medium=MathTypeMS365&utm_campaign=FancyMultiline#multiline-equations"
   }
 }

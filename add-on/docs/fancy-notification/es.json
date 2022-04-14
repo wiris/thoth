@@ -1,11 +1,7 @@
 {
-  "id": "HOW_TO_USE_SPACING",
+  "id": "HOTJAR_SURVEY",
   "info": {
-    "title": "¿Conoces nuestras opciones de espaciado? Para saber más, haz click en la imagen."
+    "title": "¡Ayúdanos a mejorar MathType! Tu opinión es importante para nosotros."
   },
-  "image": {
-    "url": "https://assets.officetools.wiris.kitchen/gifs/spacing.gif",
-    "altText": "Imagen animada mostrando las posibilidades de espaciado del editor de MathType.",
-    "target": "https://docs.wiris.com/mathtype/en/user-interfaces/mathtype-web-interface/toolbar-and-icons.html?utm_source=Product&utm_medium=MathTypeMS365&utm_campaign=FancyNudging#nudging-2913151"
-  }
+  "text": "<a target=\"_blank\" href=\"https://surveys.hotjar.com/bdcba198-da23-4f45-a5b7-09783c4eb6e7\">Responder encuesta</a>"
 }
