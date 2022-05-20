@@ -1,0 +1,10 @@
+{
+  "id": "NEW_UI",
+  "info": {
+    "title": "Disfruta de la nueva interfaz de MathType o ChemType para Google Docs."
+  },
+  "image" : {
+    "url": "https://assets.officetools.wiris.kitchen/gifs/new_ui.gif",
+    "altText": "Encuentra una forma más directa de acceder a la herramienta gracias a la barra lateral desde la cual puedes abrir MathType o ChemType más fácilmente"
+  }
+}
