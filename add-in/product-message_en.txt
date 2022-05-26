@@ -1,5 +1,0 @@
-<div style="font-size: 10pt;">
-  <div>
-    Try MathType Add-In for Microsoft 365 free Beta version, already included in our MathType for Office Tools subscription.
-  </div>
-</div>
