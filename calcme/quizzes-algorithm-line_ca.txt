@@ -1,7 +1,8 @@
-WirisQuizzes 4.5.0 is now available! WirisQuizzes team would like to guide you through the new WirisQuizzes interface and share with you some tips and tricks on how to create questions with our fill-in-the-blank features and more! Get to know this new release with our Product Manager and Customer Success Specialist on our WirisQuizzes 4.5 release webinar.
+/#
+WirisQuizzes 4.5.0 ja està disponible! L'equip de WirisQuizzes estarà encantat de guiar-vos per la nova interfície i compartir amb vosaltres alguns consells per crear preguntes amb la nostra nova funcionalitat de fer preguntes on s'ha d'omplir forats en blanc. Descobriu aquesta nova versió amb la nostra Product Manager i el nostre especialista d'atenció al client al webinar de llançament de la versió 4.5.0.
 
-When? 29th June 06:00 p.m CET
+Quan? El 29 de Juny a les 06:00 p.m CET
 
-Register to our webinar now here 
+Registreu-vos al webinar aquí:
 https://us06web.zoom.us/webinar/register/WN_Zbj4W-T4T_6qRsVJCP8lDQ
-
+#/
