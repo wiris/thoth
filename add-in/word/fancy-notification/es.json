@@ -1,0 +1,11 @@
+{
+  "id": "ADD_ON_COMPATIBILITY",
+  "info": {
+    "title": "Abre y edita tus ecuaciones en Google Docs."
+  },
+  "image" : {
+    "url": "https://assets.officetools.wiris.kitchen/gifs/add-on_compatibility.gif",
+    "altText": "Ahora puedes convertir tu documento con ecuaciones de Microsoft Word a Google docs y viceversa.",
+    "target": "http://docs.wiris.com/mathtype/en/mathtype-office-tools/support/microsoft-word-and-google-docs-compatibility.html?utm_source=MarketingCloud&utm_medium=email&utm_campaign=Addon&utm_term=CTAdoc"
+  }
+}
