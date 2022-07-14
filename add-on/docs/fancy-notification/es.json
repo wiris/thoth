@@ -1,10 +1,11 @@
 {
-  "id": "NEW_UI",
+  "id": "MS_ADD-IN_COMPATIBILITY",
   "info": {
-    "title": "Disfruta de la nueva interfaz de MathType o ChemType para Google Docs."
+    "title": "Abre y edita tus ecuaciones con el Add-in para Microsoft Word."
   },
   "image" : {
     "url": "https://assets.officetools.wiris.kitchen/gifs/new_ui.gif",
-    "altText": "Encuentra una forma más directa de acceder a la herramienta gracias a la barra lateral desde la cual puedes abrir MathType o ChemType más fácilmente"
+    "altText": "Ahora puedes convertir tu documento con ecuaciones de Google Docs a  Microsoft Word y viceversa.",
+    "target": "https://docs.wiris.com/mathtype/en/mathtype-office-tools/support/microsoft-word-and-google-docs-compatibility.html?utm_source=Product&utm_medium=MathTypeGW&utm_campaign=FancyNotification&utm_term=Compatibility"
   }
 }
