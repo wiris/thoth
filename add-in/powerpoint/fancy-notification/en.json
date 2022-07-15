@@ -1,0 +1,10 @@
+{
+  "id": "MS_NEW_POWERPOINT_ADD-IN",
+  "info": {
+    "title": "Do you need presentations with high-quality equations? MathType for Powerpoint is now available, check it out!"
+  },
+  "image" : {
+    "url": "https://assets.officetools.wiris.kitchen/gifs/powerpoint_add-in.gif",
+    "altText": "You can now create high-quality equations for your presentations thanks to MathType for PowerPoint. Try now to create your first equation."
+  }
+}
