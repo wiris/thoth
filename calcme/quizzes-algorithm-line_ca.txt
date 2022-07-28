@@ -1,8 +1,3 @@
 /#
-WirisQuizzes 4.5.0 ja està disponible! L'equip de WirisQuizzes estarà encantat de guiar-vos per la nova interfície i compartir amb vosaltres alguns consells per crear preguntes amb la nostra nova funcionalitat de fer preguntes on s'ha d'omplir forats en blanc. Descobriu aquesta nova versió amb la nostra Product Manager i el nostre especialista d'atenció al client al webinar de llançament de la versió 4.5.0.
-
-Quan? El 29 de Juny a les 06:00 p.m CET
-
-Registreu-vos al webinar aquí:
-https://us06web.zoom.us/webinar/register/WN_Zbj4W-T4T_6qRsVJCP8lDQ
+WirisQuizzes 4.5.0 ja està disponible!
 #/
