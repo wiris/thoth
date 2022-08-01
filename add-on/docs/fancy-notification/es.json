@@ -1,11 +1,7 @@
 {
-  "id": "MS_ADD-IN_COMPATIBILITY",
+  "id": "MS_ADD-IN_SURVEY",
   "info": {
-    "title": "Abre y edita tus ecuaciones con el Add-in para Microsoft Word."
+    "title": "¡Ayúdanos a mejorar MathType! Tu opinión es muy importante."
   },
-  "image" : {
-    "url": "https://assets.officetools.wiris.kitchen/gifs/add-on_compatibility.gif",
-    "altText": "Ahora puedes convertir tu documento con ecuaciones de Google Docs a  Microsoft Word y viceversa.",
-    "target": "https://docs.wiris.com/mathtype/en/mathtype-office-tools/support/microsoft-word-and-google-docs-compatibility.html?utm_source=Product&utm_medium=MathTypeGW&utm_campaign=FancyNotification&utm_term=Compatibility"
-  }
+  "text": "<p><a href=\"https://surveys.hotjar.com/bdcba198-da23-4f45-a5b7-09783c4eb6e7\" target=\"_blank\"><u>Responder encuesta</u></a></p>"
 }
