@@ -1,0 +1,6 @@
+{
+  "id": "NOTIFICATIONS_TEST",
+  "type": "success",
+  "title": "¡Felicidades!",
+  "content": "¡Has recibido <strong>tu primera notificación, usuario de Oxygen!</strong>"
+}
