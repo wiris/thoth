@@ -10,6 +10,7 @@ These files must contain the following JSON structure:
 
 ```json
 {
+  priority: [("low" | "medium" | "high" ) , mandatory],
   id: [String, mandatory],
   type: [("success" | "info" | "warning" | "error") , mandatory],
   title: [String, mandatory],
@@ -21,6 +22,7 @@ These files must contain the following JSON structure:
 
 General:
 
+* **priority**: Mandatory string used to set the priority level of the notification.
 * **id**(*): Mandatory string used to identify any given notification. This identifier is necessary for the product internals, and must be unique.
 * **type**: Notification severity level. Valid values are "success", "info", "warning", "error".
 * **title**: Used as the notification title.

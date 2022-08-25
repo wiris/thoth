@@ -1,4 +1,5 @@
 {
+  "priority": "medium",
   "id": "NOTIFICATIONS_TEST",
   "type": "success",
   "title": "¡Felicidades!",
