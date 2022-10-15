@@ -1,7 +1,8 @@
 {
-  "priority": "medium",
   "id": "NOTIFICATIONS_TEST",
+  "priority": "medium",
   "type": "success",
   "title": "Congratulations!",
-  "content": "You have received your <strong>first notification, Oxygen user!</strong>"
+  "numberOfVisualizations": 3,
+  "content": "You have received your <strong>first notification, Oxygen user!</strong>. You should see this notification 3 times!"
 }
