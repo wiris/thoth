@@ -1,8 +1,18 @@
-{
-  "id": "NOTIFICATIONS_TEST",
-  "priority": "medium",
-  "type": "success",
-  "title": "Congratulations!",
-  "numberOfVisualizations": 3,
-  "content": "You have received your <strong>first notification, Oxygen user!</strong>. You should see this notification 3 times!"
-}
+[
+  {
+    "priority": "25",
+    "id": "NOTIFICATIONS_TEST",
+    "type": "success",
+    "title": "Congratulations!",
+    "numberOfVisualizations": 3,
+    "content": "You have received your <strong>first notification, Oxygen user!</strong>"
+  },
+  {
+    "priority": "50",
+    "id": "FREE_PRODUCT_KEY",
+    "type": "warning",
+    "title": "Ey there!",
+    "numberOfVisualizations": 10,
+    "content": "There's a new free PK for you! Contact us to get it!"
+  }
+]
