@@ -3,16 +3,16 @@
     "priority": 25,
     "id": "NOTIFICATIONS_TEST",
     "type": "success",
-    "title": "Congratulations!",
+    "title": "[NOTIFICATION TEST] Congratulations!",
     "numberOfVisualizations": 3,
-    "content": "You have received your <strong>first notification, Oxygen user!</strong>"
+    "content": "[NOTIFICATION TEST]You have received your <strong>first notification, Oxygen user!</strong>[NOTIFICATION TEST]"
   },
   {
     "priority": 50,
     "id": "FREE_PRODUCT_KEY",
     "type": "warning",
-    "title": "Ey there!",
+    "title": "[NOTIFICATION TEST] Hey there![NOTIFICATION TEST]",
     "numberOfVisualizations": 10,
-    "content": "There's a new free PK for you! Contact us to get it!"
+    "content": "[NOTIFICATION TEST]There's a new free PK for you! Contact us to get it![NOTIFICATION TEST]"
   }
 ]
