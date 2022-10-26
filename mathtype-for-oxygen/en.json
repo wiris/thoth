@@ -1,18 +1,2 @@
 [
-  {
-    "priority": 25,
-    "id": "NOTIFICATIONS_TEST_2",
-    "type": "success",
-    "title": "[NOTIFICATION TEST] Congratulations!",
-    "numberOfVisualizations": 35,
-    "content": "[NOTIFICATION TEST]You have received your <strong>first notification, Oxygen user!</strong>[NOTIFICATION TEST]"
-  },
-  {
-    "priority": 50,
-    "id": "FREE_PRODUCT_KEY_2",
-    "type": "warning",
-    "title": "[NOTIFICATION TEST] Hey there![NOTIFICATION TEST]",
-    "numberOfVisualizations": 10,
-    "content": "[NOTIFICATION TEST]<a href=\"www.wiris.com\" target=\"_blank\">Link!!</a> There's a new free PK for you! Contact us to get it![NOTIFICATION TEST]"
-  }
 ]
