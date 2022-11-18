@@ -1,0 +1,12 @@
+{
+  "id": "BLACK_FRIDAY_2022",
+  "info": {
+    "title": "DESCUENTOS BLACK WEEK"
+  },
+  "image": {
+    "url": "https://assets.officetools.wiris.kitchen/gifs/black-week-sales.gif",
+    "altText": "Aprovecha la black week de Mathtype y consigue ahora un 30% de descuento.",
+    "target": "https://store.wiris.com/en/individual/purchase/step1?code=BLACK22FAI&utm_source=Product&utm_medium=MathTypeMS365&utm_campaign=FancyNotification&utm_term=BlackFriday2022&utm_content=GETITNOW"
+  },
+  "text": "Disfruta esta Black Week con un <b>30% de descuento</b>.<br/><a href=\"https://store.wiris.com/es/individual/purchase/step1?code=BLACK22FAI&utm_source=Product&utm_medium=MathTypeMS365&utm_campaign=FancyNotification&utm_term=BlackFriday2022&utm_content=GETITNOW\" target=\"_blank\">Obtener 30% descuento</a>"
+}
