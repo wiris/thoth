@@ -1,0 +1,7 @@
+{
+  "id": "TEST_2",
+  "info": {
+    "title": "English only notification."
+  },
+  "text": "This notification should only appear in devices using English as language."
+}
