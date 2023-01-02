@@ -1,3 +1,3 @@
 /#
-WirisQuizzes 4.5.0 is now available!
-#/
+ # WirisQuizzes 4.6.0 já está disponível com uma forma simplificada de criar variáveis aleatórias!
+ #/
