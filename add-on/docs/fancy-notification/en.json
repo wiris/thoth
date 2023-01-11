@@ -1,12 +1,12 @@
 {
-    "id": "NEW_EDITOR_SURVEY",
-    "info": {
-      "title": "Get MathType in your most used apps:"
-    },
-    "image": {
-      "url": "https://drive.google.com/drive/folders/1F75_tM6JF6BhckRHDvrV7vdKxsxlQ9lL",
-      "altText": "Click here to answer a quick survey about what tools you'd like to have MathType integrated",
-      "target": "https://drive.google.com/drive/folders/1F75_tM6JF6BhckRHDvrV7vdKxsxlQ9lL"
-    },
-    "text": "<a style=\"text-decoration:underline\" href=\"https://wirisscience.typeform.com/Tools-AddOn\" target=\"_blank\">Answer survey</a>"
-  }
+  "id": "DEC_2022_SURVEY",
+  "info": {
+    "title": "Get MathType in your most used apps"
+  },
+  "image": {
+    "url": "https://assets.officetools.wiris.kitchen/gifs/dec_2022_survey.gif",
+    "altText": "Click here to answer a quick survey about what tools you'd like to have MathType integrated",
+    "target": "https://wirisscience.typeform.com/Tools-AddOn"
+  },
+  "text": "<a style='text-decoration:underline' href='https://wirisscience.typeform.com/Tools-AddOn' target='_blank'>Answer survey</a>"
+}
