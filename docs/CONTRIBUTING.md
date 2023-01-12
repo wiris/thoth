@@ -4,17 +4,18 @@
 
 Given the nature of this project, no environments exist as such. Nevertheless, three different branches have been created to make testing easier:
 
-* development: point to this branch if you need to try changes in your developnment environment.
-* staging: point to this branch when you need QA or product to test changes previosly introduced using the development branch.
-* main: use this branch to references files from production environments.
+- development: point to this branch if you need to try changes in your development environment.
+- staging: point to this branch when you need QA or product to test changes previously introduced using the development branch.
+- production: point to this branch for stable, final environment calls.
+- main: alias for production branch. You can use it, but is recommended to use `production` branch to keep the environment/branch naming consistency.
 
 For each of this environments, the URLs you should point from your code are:
 
-| Environment | Branch       | Base URL                                                    |
-|-------------|--------------|-------------------------------------------------------------|
-| Develoopment| development  | <https://raw.githubusercontent.com/wiris/thoth/development> |
-| Staging     | staging      | <https://raw.githubusercontent.com/wiris/thoth/staging>     |
-| Production  | main         | <https://raw.githubusercontent.com/wiris/thoth/main>        |
+| Environment | Branch      | Base URL                                                    |
+| ----------- | ----------- | ----------------------------------------------------------- |
+| Development | development | <https://raw.githubusercontent.com/wiris/thoth/development> |
+| Staging     | staging     | <https://raw.githubusercontent.com/wiris/thoth/staging>     |
+| Production  | production  | <https://raw.githubusercontent.com/wiris/thoth/production>  |
 
 ## Conventional commits
 
