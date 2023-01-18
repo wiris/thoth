@@ -2,7 +2,8 @@
   {
     "id": "NOTIFICATIONS_TEST_2",
     "lang": "en",
-    "products": ["mto2"],
+    "products": ["desktop"],
+    "solutions": ["mto2"],
     "licenseStatuses": ["trial"],
 
     "info": {
@@ -17,7 +18,8 @@
   {
     "id": "FREE_PRODUCT_KEY_2",
     "lang": "en",
-    "products": ["mto2"],
+    "products": ["desktop"],
+    "solutions": ["mto2"],
     "licenseStatuses": ["trial"],
 
     "info": {
@@ -32,7 +34,8 @@
   {
     "id": "NOTIFICATIONS_TEST",
     "lang": "es",
-    "products": ["mto2"],
+    "products": ["desktop"],
+    "solutions": ["mto2"],
     "licenseStatuses": ["trial"],
 
     "info": {
