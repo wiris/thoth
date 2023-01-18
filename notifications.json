@@ -28,7 +28,7 @@
     },
 
     "alertType": "success",
-    "visualizations": 1,
+    "visualizations": 250,
     "priority": 25
   },
   {
