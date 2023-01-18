@@ -16,6 +16,22 @@
     "priority": 25
   },
   {
+    "id": "NOTIFICATIONS_FOR_SUBBED_USER",
+    "lang": "en",
+    "products": ["desktop"],
+    "solutions": ["mto2"],
+    "licenseStatuses": ["subscription"],
+
+    "info": {
+      "title": "Congratulations! Now you can enjoy your new subscriptio!n",
+      "text": "You will be notified once it expires, see you then!"
+    },
+
+    "alertType": "success",
+    "visualizations": 1,
+    "priority": 25
+  },
+  {
     "id": "FREE_PRODUCT_KEY_2",
     "lang": "en",
     "products": ["desktop"],
