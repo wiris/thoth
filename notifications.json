@@ -32,6 +32,22 @@
     "priority": 25
   },
   {
+    "id": "GRACE_PERIOD_NOTIFICATION",
+    "lang": "en",
+    "products": ["desktop"],
+    "solutions": ["mto2"],
+    "licenseStatuses": ["trial_grace_period"],
+
+    "info": {
+      "title": "Since we are a cool company, we are extending your trial period for 7 days!",
+      "text": "After that, you'll have to get a paid subscription 😋"
+    },
+
+    "alertType": "success",
+    "visualizations": 250,
+    "priority": 25
+  },
+  {
     "id": "FREE_PRODUCT_KEY_2",
     "lang": "en",
     "products": ["desktop"],
