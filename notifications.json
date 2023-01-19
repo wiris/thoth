@@ -68,6 +68,7 @@
     "lang": "en",
     "products": ["addin"],
     "solutions": ["powerpoint", "word"],
+    "licenseStatuses": ["trial"],
 
     "info": {
       "title": "Get MathType in your most used apps",
