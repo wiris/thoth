@@ -99,5 +99,20 @@
     
     "visualizations": 10,
     "priority": 25
+  },
+  {
+    "id": "JAN_2023_NOTIFICATION",
+    "lang": "en",
+    "products": ["addin"],
+    "solutions": ["word"],
+    "licenseStatuses": ["subscription"],
+
+    "info": {
+      "title": "Enjoy your description!",
+      "text": "Just wanted to say thank you!"
+    },
+    
+    "visualizations": 10,
+    "priority": 25
   }
 ]
