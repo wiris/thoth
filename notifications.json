@@ -1,103 +1,20 @@
 [
   {
-    "id": "NOTIFICATIONS_TEST_2",
+    "id": "NOTIFICATION TEST: LANGUAGE PARAMETER en",
     "lang": "en",
-    "products": ["desktop"],
-    "solutions": ["mto2"],
-    "licenseStatuses": ["trial"],
+    "products": ["addin", "addon", "desktop"],
+    "solutions": ["word", "powerpoint", "docs", "slides", "mto2"],
+    "licenseStatuses": ["trial", "trial_grace_period", "trial_expired", "subscription", "subscription_expired", "unlicensed"],
 
     "info": {
-      "title": "[NOTIFICATION TEST] Congratulations!",
-      "text": "[NOTIFICATION TEST]You have received your <strong>first notification, Oxygen user!</strong>[NOTIFICATION TEST]"
+      "title": "NOTIFICATION TEST",
+      "text": "Language parameter english"
     },
 
     "alertType": "success",
     "visualizations": 35,
-    "priority": 25
-  },
-  {
-    "id": "NOTIFICATIONS_FOR_SUBBED_USER",
-    "lang": "en",
-    "products": ["desktop"],
-    "solutions": ["mto2"],
-    "licenseStatuses": ["subscription"],
+    "priority": 25,
 
-    "info": {
-      "title": "Congratulations! Now you can enjoy your new subscriptio!n",
-      "text": "You will be notified once it expires, see you then!"
-    },
-
-    "alertType": "success",
-    "visualizations": 250,
-    "priority": 25
-  },
-  {
-    "id": "GRACE_PERIOD_NOTIFICATION",
-    "lang": "en",
-    "products": ["desktop"],
-    "solutions": ["mto2"],
-    "licenseStatuses": ["trial_grace_period"],
-
-    "info": {
-      "title": "Since we are a cool company, we are extending your trial period for 7 days!",
-      "text": "After that, you'll have to get a paid subscription 😋"
-    },
-
-    "alertType": "success",
-    "visualizations": 250,
-    "priority": 25
-  },
-  {
-    "id": "FREE_PRODUCT_KEY_2",
-    "lang": "en",
-    "products": ["desktop"],
-    "solutions": ["mto2"],
-    "licenseStatuses": ["trial"],
-
-    "info": {
-      "title": "[NOTIFICATION TEST] Hey there![NOTIFICATION TEST]",
-      "text": "[NOTIFICATION TEST]<a href=\"www.wiris.com\" target=\"_blank\">Link!!</a> There's a new free PK for you! Contact us to get it![NOTIFICATION TEST]"
-    },
-
-    "alertType": "warning",
-    "visualizations": 10,
-    "priority": 50
-  },
-  {
-    "id": "NOTIFICATIONS_TEST",
-    "lang": "es",
-    "products": ["desktop"],
-    "solutions": ["mto2"],
-    "licenseStatuses": ["trial"],
-
-    "info": {
-      "title": "¡Felicidades!",
-      "text": "¡Has recibido <strong>tu primera notificación, usuario de Oxygen!</strong>"
-    },
-
-    "alertType": "success",
-    "visualizations": 10,
-    "priority": 25
-  },
-  {
-    "id": "DEC_2022_SURVEY",
-    "lang": "en",
-    "products": ["addin"],
-    "solutions": ["powerpoint", "word"],
-    "licenseStatuses": ["trial"],
-
-    "info": {
-      "title": "Get MathType in your most used apps",
-      "text": "<a style='text-decoration:underline' href='https://wirisscience.typeform.com/Tools-AddIn' target='_blank'>Answer survey</a>"
-    },
-
-    "image": {
-      "url": "https://assets.officetools.wiris.kitchen/gifs/dec_2022_survey.gif",
-      "altText": "Click here to answer a quick survey about what tools you'd like to have MathType integrated",
-      "target": "https://wirisscience.typeform.com/Tools-AddIn"
-    },
-    
-    "visualizations": 10,
-    "priority": 25
+    "testExpectedResult": "Notification is displayed to the selected products and solutions that are being used in ENGLISH"
   }
 ]
