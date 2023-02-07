@@ -82,8 +82,8 @@
   {
     "id": "DEC_2022_SURVEY",
     "lang": "en",
-    "products": ["addin"],
-    "solutions": ["powerpoint", "word"],
+    "products": ["addin", "addon"],
+    "solutions": ["powerpoint", "word", "slides", "docs"],
     "licenseStatuses": ["trial"],
 
     "info": {
