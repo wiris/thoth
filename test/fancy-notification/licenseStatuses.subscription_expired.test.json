@@ -1,0 +1,38 @@
+[
+    {
+      "id": "NOTIFICATION TEST: LICENSE STATUSES PARAMETER subscription_expired (en)",
+      "lang": "en",
+      "products": ["addin", "addon", "desktop"],
+      "solutions": ["word", "powerpoint", "docs", "slides", "mto2"],
+      "licenseStatuses": ["subscription_expired"],
+  
+      "info": {
+        "title": "NOTIFICATION TEST",
+        "text": "LicenseStatuses parameter subscription_expired"
+      },
+  
+      "alertType": "success",
+      "visualizations": 35,
+      "priority": 25,
+
+      "testExpectedResult": "Notification is only displayed to those accounts with a subscription_expired license"
+    },
+    {
+      "id": "NOTIFICATION TEST: LICENSE STATUSES PARAMETER subscription_expired (es)",
+      "lang": "es",
+      "products": ["addin", "addon", "desktop"],
+      "solutions": ["word", "powerpoint", "docs", "slides", "mto2"],
+      "licenseStatuses": ["subscription_expired"],
+  
+      "info": {
+        "title": "NOTIFICATION TEST",
+        "text": "Parámetro LicenseStatuses subscription_expired"
+      },
+  
+      "alertType": "success",
+      "visualizations": 35,
+      "priority": 25,
+
+      "testExpectedResult": "Notification is only displayed to those accounts with a subscription_expired license"
+    }
+  ]

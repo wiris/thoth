@@ -1,0 +1,20 @@
+[
+  {
+    "id": "NOTIFICATION TEST: LANGUAGE PARAMETER en",
+    "lang": "en",
+    "products": ["addin", "addon", "desktop"],
+    "solutions": ["word", "powerpoint", "docs", "slides", "mto2"],
+    "licenseStatuses": ["trial", "trial_grace_period", "trial_expired", "subscription", "subscription_expired", "unlicensed"],
+
+    "info": {
+      "title": "NOTIFICATION TEST",
+      "text": "Language parameter english"
+    },
+
+    "alertType": "success",
+    "visualizations": 35,
+    "priority": 25,
+
+    "testExpectedResult": "Notification is displayed to the selected products and solutions that are being used in ENGLISH"
+  }
+]

@@ -1,0 +1,38 @@
+[
+    {
+      "id": "NOTIFICATION TEST: PRODUCTS PARAMETER add-in (en)",
+      "lang": "en",
+      "products": ["addin"],
+      "solutions": ["word", "powerpoint", "docs", "slides", "mto2"],
+      "licenseStatuses": ["trial", "trial_grace_period", "trial_expired", "subscription", "subscription_expired", "unlicensed"],
+  
+      "info": {
+        "title": "NOTIFICATION TEST",
+        "text": "Products parameter add-in"
+      },
+  
+      "alertType": "success",
+      "visualizations": 35,
+      "priority": 25,
+
+      "testExpectedResult": "Notification is only displayed to the addin product"
+    },
+    {
+      "id": "NOTIFICATION TEST: PRODUCTS PARAMETER add-in (es)",
+      "lang": "es",
+      "products": ["addin"],
+      "solutions": ["word", "powerpoint", "docs", "slides", "mto2"],
+      "licenseStatuses": ["trial", "trial_grace_period", "trial_expired", "subscription", "subscription_expired", "unlicensed"],
+  
+      "info": {
+        "title": "NOTIFICATION TEST",
+        "text": "Parámetro Products add-in"
+      },
+  
+      "alertType": "success",
+      "visualizations": 35,
+      "priority": 25,
+
+      "testExpectedResult": "Notification is only displayed to the addin product"
+    }
+]

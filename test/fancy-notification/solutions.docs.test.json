@@ -1,0 +1,38 @@
+[
+    {
+      "id": "NOTIFICATION TEST: SOLUTIONS PARAMETER docs (en)",
+      "lang": "en",
+      "products": ["addon"],
+      "solutions": ["docs"],
+      "licenseStatuses": ["trial", "trial_grace_period", "trial_expired", "subscription", "subscription_expired", "unlicensed"],
+  
+      "info": {
+        "title": "NOTIFICATION TEST",
+        "text": "Solutions parameter docs"
+      },
+  
+      "alertType": "success",
+      "visualizations": 35,
+      "priority": 25,
+
+      "testExpectedResult": "Notification is only displayed to the addon for docs solution"
+    },
+    {
+      "id": "NOTIFICATION TEST: SOLUTIONS PARAMETER docs (es)",
+      "lang": "es",
+      "products": ["addon"],
+      "solutions": ["docs"],
+      "licenseStatuses": ["trial", "trial_grace_period", "trial_expired", "subscription", "subscription_expired", "unlicensed"],
+  
+      "info": {
+        "title": "NOTIFICATION TEST",
+        "text": "Parámetro Solutions docs"
+      },
+  
+      "alertType": "success",
+      "visualizations": 35,
+      "priority": 25,
+
+      "testExpectedResult": "Notification is only displayed to the addon for docs solution"
+    }
+  ]

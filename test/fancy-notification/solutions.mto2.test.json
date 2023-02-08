@@ -1,0 +1,38 @@
+[
+    {
+      "id": "NOTIFICATION TEST: SOLUTIONS PARAMETER mto2 (en)",
+      "lang": "en",
+      "products": ["desktop"],
+      "solutions": ["mto2"],
+      "licenseStatuses": ["trial", "trial_grace_period", "trial_expired", "subscription", "subscription_expired", "unlicensed"],
+  
+      "info": {
+        "title": "NOTIFICATION TEST",
+        "text": "Solutions parameter mto2"
+      },
+  
+      "alertType": "success",
+      "visualizations": 35,
+      "priority": 25,
+
+      "testExpectedResult": "Notification is only displayed to the desktop for mto2 solution"
+    },
+    {
+      "id": "NOTIFICATION TEST: SOLUTIONS PARAMETER mto2 (es)",
+      "lang": "es",
+      "products": ["desktop"],
+      "solutions": ["mto2"],
+      "licenseStatuses": ["trial", "trial_grace_period", "trial_expired", "subscription", "subscription_expired", "unlicensed"],
+  
+      "info": {
+        "title": "NOTIFICATION TEST",
+        "text": "Parámetro Solutions mto2"
+      },
+  
+      "alertType": "success",
+      "visualizations": 35,
+      "priority": 25,
+
+      "testExpectedResult": "Notification is only displayed to the desktop for mto2 solution"
+    }
+  ]
