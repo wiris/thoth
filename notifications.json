@@ -1,38 +1,38 @@
 [
     {
-      "id": "NOTIFICATION TEST: SOLUTIONS PARAMETER word (en)",
+      "id": "NOTIFICATION TEST: SOLUTIONS PARAMETER powerpoint (en)",
       "lang": "en",
       "products": ["addin"],
-      "solutions": ["word"],
+      "solutions": ["powerpoint"],
       "licenseStatuses": ["trial", "trial_grace_period", "trial_expired", "subscription", "subscription_expired", "unlicensed"],
   
       "info": {
         "title": "NOTIFICATION TEST",
-        "text": "Solutions parameter word"
+        "text": "Solutions parameter powerpoint"
       },
   
       "alertType": "success",
       "visualizations": 35,
       "priority": 25,
 
-      "testExpectedResult": "Notification is only displayed to the addin for word solution"
+      "testExpectedResult": "Notification is only displayed to the addin for powerpoint solution"
     },
     {
-      "id": "NOTIFICATION TEST: SOLUTIONS PARAMETER word (es)",
+      "id": "NOTIFICATION TEST: SOLUTIONS PARAMETER powerpoint (es)",
       "lang": "es",
       "products": ["addin"],
-      "solutions": ["word"],
+      "solutions": ["powerpoint"],
       "licenseStatuses": ["trial", "trial_grace_period", "trial_expired", "subscription", "subscription_expired", "unlicensed"],
   
       "info": {
         "title": "NOTIFICATION TEST",
-        "text": "Parámetro Solutions word"
+        "text": "Parámetro Solutions powerpoint"
       },
   
       "alertType": "success",
       "visualizations": 35,
       "priority": 25,
 
-      "testExpectedResult": "Notification is only displayed to the addin for word solution"
+      "testExpectedResult": "Notification is only displayed to the addin for powerpoint solution"
     }
   ]
