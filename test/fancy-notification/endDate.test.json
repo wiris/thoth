@@ -77,6 +77,6 @@
   
         "endDate": "2023/1/01",
   
-        "testExpectedResult": "Esta notificación no debería mostrarse ya que está preparada para la fecha de comienzo 2023/1/01"
+        "testExpectedResult": "Esta notificación no debería mostrarse ya que está preparada para la endDate 2023/1/01"
       }
   ]
