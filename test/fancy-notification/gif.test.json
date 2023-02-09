@@ -1,0 +1,48 @@
+[
+    {
+      "id": "NOTIFICATION TEST: GIF en",
+      "lang": "en",
+      "products": ["addin", "addon", "desktop"],
+      "solutions": ["word", "powerpoint", "docs", "slides", "mto2"],
+      "licenseStatuses": ["trial", "trial_grace_period", "trial_expired", "subscription", "subscription_expired", "unlicensed"],
+  
+      "info": {
+        "title": "NOTIFICATION TEST",
+        "text": "An image should be displayed in the notification."
+      },
+  
+      "image": {
+          "url":"https://docs.wiris.com/calcme/es/image/uuid-48dbcf09-19a7-bc10-a246-839cab6fc9cd.gif",
+          "altText": "Wiris logo."
+      },
+      
+      "alertType": "success",
+      "visualizations": 35,
+      "priority": 50,
+  
+      "testExpectedResult": "Notification contains a gif."
+    },
+    {
+      "id": "NOTIFICATION TEST: GIF es",
+      "lang": "es",
+      "products": ["addin", "addon", "desktop"],
+      "solutions": ["word", "powerpoint", "docs", "slides", "mto2"],
+      "licenseStatuses": ["trial", "trial_grace_period", "trial_expired", "subscription", "subscription_expired", "unlicensed"],
+    
+      "info": {
+        "title": "NOTIFICATION TEST",
+        "text": "Una imagen debería aparecer en la notificación"
+      },
+  
+      "image": {
+          "url":"https://docs.wiris.com/calcme/es/image/uuid-48dbcf09-19a7-bc10-a246-839cab6fc9cd.gif",
+          "altText": "Wiris logo."
+      },
+      
+      "alertType": "success",
+      "visualizations": 35,
+      "priority": 50,
+  
+      "testExpectedResult": "Notification contains a gif."
+    }
+  ]
