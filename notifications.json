@@ -1,87 +1,48 @@
 [
-  {
-    "id": "NOTIFICATION TEST: TEXT LINK en",
-    "lang": "en",
-    "products": ["addin", "addon", "desktop"],
-    "solutions": ["word", "powerpoint", "docs", "slides", "mto2"],
-    "licenseStatuses": ["trial", "trial_grace_period", "trial_expired", "subscription", "subscription_expired", "unlicensed"],
-
-    "info": {
-      "title": "NOTIFICATION TEST",
-      "text": "<a href=\"https://www.wiris.com/en/\" target=\"_blank\">Visit Wiris.com</a>"
-    },
-    
-    "alertType": "success",
-    "visualizations": 35,
-    "priority": 25,
-
-    "testExpectedResult": "Notification contains a working text link."
-  },
-  {
-    "id": "NOTIFICATION TEST: TEXT LINK es",
-    "lang": "es",
-    "products": ["addin", "addon", "desktop"],
-    "solutions": ["word", "powerpoint", "docs", "slides", "mto2"],
-    "licenseStatuses": ["trial", "trial_grace_period", "trial_expired", "subscription", "subscription_expired", "unlicensed"],
+    {
+      "id": "NOTIFICATION TEST: GIF en",
+      "lang": "en",
+      "products": ["addin", "addon", "desktop"],
+      "solutions": ["word", "powerpoint", "docs", "slides", "mto2"],
+      "licenseStatuses": ["trial", "trial_grace_period", "trial_expired", "subscription", "subscription_expired", "unlicensed"],
   
-    "info": {
-      "title": "NOTIFICATION TEST",
-      "text": "<a href=\"https://www.wiris.com/en/\" target=\"_blank\">Visit Wiris.com</a>"
-    },
-    
-    "alertType": "success",
-    "visualizations": 35,
-    "priority": 25,
-
-    "testExpectedResult": "Notification contains a working text link."
-  },
-  {
-    "id": "NOTIFICATION TEST: IMAGE LINK en",
-    "lang": "en",
-    "products": ["addin", "addon", "desktop"],
-    "solutions": ["word", "powerpoint", "docs", "slides", "mto2"],
-    "licenseStatuses": ["trial", "trial_grace_period", "trial_expired", "subscription", "subscription_expired", "unlicensed"],
-
-    "info": {
-      "title": "NOTIFICATION TEST",
-      "text": "The image below should be a link."
-    },
-
-    "image": {
-        "url":"https://www.wiris.com/wp-content/themes/twentytwenty-child/img/wiris-logo.svg",
-        "altText": "Wiris logo.",
-        "target": "https://www.wiris.com/en/"
-    },
-    
-    "alertType": "success",
-    "visualizations": 35,
-    "priority": 50,
-
-    "testExpectedResult": "Notification contains a working image link."
-  },
-  {
-    "id": "NOTIFICATION TEST: TEXT LINK es",
-    "lang": "es",
-    "products": ["addin", "addon", "desktop"],
-    "solutions": ["word", "powerpoint", "docs", "slides", "mto2"],
-    "licenseStatuses": ["trial", "trial_grace_period", "trial_expired", "subscription", "subscription_expired", "unlicensed"],
+      "info": {
+        "title": "NOTIFICATION TEST",
+        "text": "A gif should be displayed in the notification."
+      },
   
-    "info": {
-      "title": "NOTIFICATION TEST",
-      "text": "La imagen de abajo debería ser un link"
-    },
-
-    "image": {
-        "url":"https://www.wiris.com/wp-content/themes/twentytwenty-child/img/wiris-logo.svg",
-        "altText": "Wiris logo.",
-        "target": "https://www.wiris.com/en/"
-    },
-    
-    "alertType": "success",
-    "visualizations": 35,
-    "priority": 50,
-
-    "testExpectedResult": "Notification contains a working image link."
-  }
-]
+      "image": {
+          "url":"https://docs.wiris.com/calcme/es/image/uuid-48dbcf09-19a7-bc10-a246-839cab6fc9cd.gif",
+          "altText": "Wiris logo."
+      },
+      
+      "alertType": "success",
+      "visualizations": 35,
+      "priority": 50,
   
+      "testExpectedResult": "Notification contains a gif."
+    },
+    {
+      "id": "NOTIFICATION TEST: GIF es",
+      "lang": "es",
+      "products": ["addin", "addon", "desktop"],
+      "solutions": ["word", "powerpoint", "docs", "slides", "mto2"],
+      "licenseStatuses": ["trial", "trial_grace_period", "trial_expired", "subscription", "subscription_expired", "unlicensed"],
+    
+      "info": {
+        "title": "NOTIFICATION TEST",
+        "text": "Un gif debería aparecer en la notificación"
+      },
+  
+      "image": {
+          "url":"https://docs.wiris.com/calcme/es/image/uuid-48dbcf09-19a7-bc10-a246-839cab6fc9cd.gif",
+          "altText": "Wiris logo."
+      },
+      
+      "alertType": "success",
+      "visualizations": 35,
+      "priority": 50,
+  
+      "testExpectedResult": "Notification contains a gif."
+    }
+  ]
