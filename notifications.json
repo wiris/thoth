@@ -1,38 +1,38 @@
 [
     {
-      "id": "NOTIFICATION TEST: SOLUTIONS PARAMETER word (en)",
+      "id": "NOTIFICATION TEST: LICENSE STATUSES PARAMETER trial (en)",
       "lang": "en",
-      "products": ["addin"],
-      "solutions": ["word"],
-      "licenseStatuses": ["trial", "trial_grace_period", "trial_expired", "subscription", "subscription_expired", "unlicensed"],
+      "products": ["addin", "addon", "desktop"],
+      "solutions": ["word", "powerpoint", "docs", "slides", "mto2"],
+      "licenseStatuses": ["trial"],
   
       "info": {
         "title": "NOTIFICATION TEST",
-        "text": "Solutions parameter word"
+        "text": "LicenseStatuses parameter trial"
       },
   
       "alertType": "success",
       "visualizations": 35,
       "priority": 25,
 
-      "testExpectedResult": "Notification is only displayed to the addin for word solution"
+      "testExpectedResult": "Notification is only displayed to those accounts with a trial license"
     },
     {
-      "id": "NOTIFICATION TEST: SOLUTIONS PARAMETER word (es)",
+      "id": "NOTIFICATION TEST: LICENSE STATUSES PARAMETER trial (es)",
       "lang": "es",
-      "products": ["addin"],
-      "solutions": ["word"],
-      "licenseStatuses": ["trial", "trial_grace_period", "trial_expired", "subscription", "subscription_expired", "unlicensed"],
+      "products": ["addin", "addon", "desktop"],
+      "solutions": ["word", "powerpoint", "docs", "slides", "mto2"],
+      "licenseStatuses": ["trial"],
   
       "info": {
         "title": "NOTIFICATION TEST",
-        "text": "Parámetro Solutions word"
+        "text": "Parámetro LicenseStatuses trial"
       },
   
       "alertType": "success",
       "visualizations": 35,
       "priority": 25,
 
-      "testExpectedResult": "Notification is only displayed to the addin for word solution"
+      "testExpectedResult": "Notification is only displayed to those accounts with a trial license"
     }
   ]
