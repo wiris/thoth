@@ -8,7 +8,7 @@
   
       "info": {
         "title": "NOTIFICATION TEST",
-        "text": "An image should be displayed in the notification."
+        "text": "A gif should be displayed in the notification."
       },
   
       "image": {
@@ -31,7 +31,7 @@
     
       "info": {
         "title": "NOTIFICATION TEST",
-        "text": "Una imagen debería aparecer en la notificación"
+        "text": "Un gif debería aparecer en la notificación"
       },
   
       "image": {
