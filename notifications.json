@@ -97,7 +97,7 @@
       "target": "https://wirisscience.typeform.com/Tools-AddIn"
     },
     
-    "visualizations": 10,
+    "visualizations": 3,
     "priority": 25
   },
   {
@@ -105,14 +105,14 @@
     "lang": "en",
     "products": ["addin"],
     "solutions": ["word"],
-    "licenseStatuses": ["subscription"],
+    "licenseStatuses": ["trial"],
 
     "info": {
       "title": "Enjoy your description!",
       "text": "Just wanted to say thank you!"
     },
     
-    "visualizations": 10,
+    "visualizations": 3,
     "priority": 25
   }
 ]
