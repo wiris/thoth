@@ -111,6 +111,8 @@
       "title": "Enjoy your description!",
       "text": "Just wanted to say thank you!"
     },
+
+    "alertType": "error",
     
     "visualizations": 3,
     "priority": 25
