@@ -103,8 +103,8 @@
   {
     "id": "JAN_2023_NOTIFICATION",
     "lang": "en",
-    "products": ["addin"],
-    "solutions": ["word"],
+    "products": ["addin", "addon"],
+    "solutions": ["word", "docs"],
     "licenseStatuses": ["subscription"],
 
     "info": {
