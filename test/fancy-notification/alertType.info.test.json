@@ -8,7 +8,7 @@
 
     "info": {
       "title": "NOTIFICATION TEST",
-      "text": "This is an info type alert."
+      "text": "This is an info type info."
     },
     
     "alertType": "info",
