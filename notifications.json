@@ -1,6 +1,6 @@
 [
   {
-    "id": "NOTIFICATION TEST: ALERT TYPE warning",
+    "id": "NOTIFICATION TEST: ALERT TYPE info",
     "lang": "en",
     "products": ["addin", "addon", "desktop"],
     "solutions": ["word", "powerpoint", "docs", "slides", "mto2"],
@@ -8,17 +8,17 @@
 
     "info": {
       "title": "NOTIFICATION TEST",
-      "text": "This is an warning type alert."
+      "text": "This is an info type alert."
     },
     
-    "alertType": "warning",
+    "alertType": "info",
     "visualizations": 35,
     "priority": 25,
 
-    "testExpectedResult": "The displayed notification is an warning type alert."
+    "testExpectedResult": "The displayed notification is an info type alert."
   },
   {
-    "id": "NOTIFICATION TEST: ALERT TYPE warning",
+    "id": "NOTIFICATION TEST: ALERT TYPE info",
     "lang": "es",
     "products": ["addin", "addon", "desktop"],
     "solutions": ["word", "powerpoint", "docs", "slides", "mto2"],
@@ -26,13 +26,13 @@
 
     "info": {
       "title": "NOTIFICATION TEST",
-      "text": "Esta es una notificación de tipo warning."
+      "text": "Esta es una notificación de tipo info."
     },
     
-    "alertType": "warning",
+    "alertType": "info",
     "visualizations": 35,
     "priority": 25,
 
-    "testExpectedResult": "The displayed notification is an warning type alert."
+    "testExpectedResult": "The displayed notification is an info type alert."
   }
 ]
