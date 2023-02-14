@@ -1,0 +1,38 @@
+[
+  {
+    "id": "NOTIFICATION TEST: ALERT TYPE warning",
+    "lang": "en",
+    "products": ["addin", "addon", "desktop"],
+    "solutions": ["word", "powerpoint", "docs", "slides", "mto2"],
+    "licenseStatuses": ["trial", "trial_grace_period", "trial_expired", "subscription", "subscription_expired", "unlicensed"],
+
+    "info": {
+      "title": "NOTIFICATION TEST",
+      "text": "This is an warning type alert."
+    },
+    
+    "alertType": "warning",
+    "visualizations": 35,
+    "priority": 25,
+
+    "testExpectedResult": "The displayed notification is an warning type alert."
+  },
+  {
+    "id": "NOTIFICATION TEST: ALERT TYPE warning",
+    "lang": "es",
+    "products": ["addin", "addon", "desktop"],
+    "solutions": ["word", "powerpoint", "docs", "slides", "mto2"],
+    "licenseStatuses": ["trial", "trial_grace_period", "trial_expired", "subscription", "subscription_expired", "unlicensed"],
+
+    "info": {
+      "title": "NOTIFICATION TEST",
+      "text": "Esta es una notificación de tipo warning."
+    },
+    
+    "alertType": "warning",
+    "visualizations": 35,
+    "priority": 25,
+
+    "testExpectedResult": "The displayed notification is an warning type alert."
+  }
+]

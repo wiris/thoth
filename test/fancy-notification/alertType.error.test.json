@@ -1,0 +1,39 @@
+[
+    {
+      "id": "NOTIFICATION TEST: ALERT TYPE error",
+      "lang": "en",
+      "products": ["addin", "addon", "desktop"],
+      "solutions": ["word", "powerpoint", "docs", "slides", "mto2"],
+      "licenseStatuses": ["trial", "trial_grace_period", "trial_expired", "subscription", "subscription_expired", "unlicensed"],
+  
+      "info": {
+        "title": "NOTIFICATION TEST",
+        "text": "This is an error type alert."
+      },
+      
+      "alertType": "error",
+      "visualizations": 35,
+      "priority": 25,
+  
+      "testExpectedResult": "The displayed notification is an error type alert."
+    },
+    {
+      "id": "NOTIFICATION TEST: ALERT TYPE error",
+      "lang": "es",
+      "products": ["addin", "addon", "desktop"],
+      "solutions": ["word", "powerpoint", "docs", "slides", "mto2"],
+      "licenseStatuses": ["trial", "trial_grace_period", "trial_expired", "subscription", "subscription_expired", "unlicensed"],
+  
+      "info": {
+        "title": "NOTIFICATION TEST",
+        "text": "Esta es una notificación de tipo error."
+      },
+      
+      "alertType": "error",
+      "visualizations": 35,
+      "priority": 25,
+  
+      "testExpectedResult": "The displayed notification is an error type alert."
+    }
+  ]
+  
