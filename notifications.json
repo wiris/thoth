@@ -11,7 +11,7 @@
         "text": "LicenseStatuses parameter subscription"
       },
   
-      "alertType": "error",
+      "alertType": "info",
       "visualizations": 35,
       "priority": 25,
 
@@ -29,7 +29,7 @@
         "text": "Parámetro LicenseStatuses subscription"
       },
   
-      "alertType": "error",
+      "alertType": "info",
       "visualizations": 35,
       "priority": 25,
 
