@@ -91,8 +91,10 @@
       "text": "<a style='text-decoration:underline' href='https://wirisscience.typeform.com/Tools-AddIn' target='_blank'>Answer survey</a>"
     },
 
-    "video": {
-      "identifier": "6bo8zt8c-1I"
+    "image": {
+      "url": "https://assets.officetools.wiris.kitchen/gifs/dec_2022_survey.gif",
+      "altText": "Click here to answer a quick survey about what tools you'd like to have MathType integrated",
+      "target": "https://wirisscience.typeform.com/Tools-AddIn"
     },
     
     "visualizations": 3,
