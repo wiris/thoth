@@ -1,38 +1,20 @@
 [
-    {
-      "id": "NOTIFICATION TEST: LICENSE STATUSES PARAMETER subscription (en) 2",
-      "lang": "en",
-      "products": ["addin", "addon", "desktop"],
-      "solutions": ["word", "powerpoint", "docs", "slides", "mto2"],
-      "licenseStatuses": ["subscription"],
-  
-      "info": {
-        "title": "NOTIFICATION TEST",
-        "text": "LicenseStatuses parameter subscription <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/CiUfX2HcEA8\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
-      },
-  
-      "alertType": "info",
-      "visualizations": 35,
-      "priority": 25,
+  {
+    "id": "NOTIFICATION TEST: LANGUAGE PARAMETER en",
+    "lang": "en",
+    "products": ["addin", "addon", "desktop"],
+    "solutions": ["word", "powerpoint", "docs", "slides", "mto2"],
+    "licenseStatuses": ["trial", "trial_grace_period", "trial_expired", "subscription", "subscription_expired", "unlicensed"],
 
-      "testExpectedResult": "Notification is only displayed to those accounts with a subscription license"
+    "info": {
+      "title": "NOTIFICATION TEST",
+      "text": "Language parameter english"
     },
-    {
-      "id": "NOTIFICATION TEST: LICENSE STATUSES PARAMETER subscription (es) 2",
-      "lang": "es",
-      "products": ["addin", "addon", "desktop"],
-      "solutions": ["word", "powerpoint", "docs", "slides", "mto2"],
-      "licenseStatuses": ["subscription"],
-  
-      "info": {
-        "title": "NOTIFICATION TEST",
-        "text": "Parámetro LicenseStatuses subscription"
-      },
-  
-      "alertType": "info",
-      "visualizations": 35,
-      "priority": 25,
 
-      "testExpectedResult": "Notification is only displayed to those accounts with a subscription license"
-    }
-  ]
+    "alertType": "success",
+    "visualizations": 35,
+    "priority": 25,
+
+    "testExpectedResult": "Notification is displayed to the selected products and solutions that are being used in ENGLISH"
+  }
+]
