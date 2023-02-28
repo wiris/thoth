@@ -82,6 +82,46 @@
     "priority": 50,
 
     "testExpectedResult": "Notification contains a working image link."
+  },
+  {
+    "id": "MAR_2023_SURVEY",
+    "lang": "en",
+    "products": ["addin"],
+    "solutions": ["word", "powerpoint"],
+    "licenseStatuses": ["subscription", "trial", "trial_grace_period", "subscription_grace_period", "trial_expired", "subscription_expired"],
+
+    "info": {
+      "title": "Your feedback matters, please share your experience!"
+    },
+
+    "image": {
+        "url": "https://assets.officetools.wiris.kitchen/gifs/FEB_2023_SURVEY_ENG.gif",
+        "altText": "Click here to leave a review about MathType",
+        "target": "https://wirisscience.typeform.com/to/exjIu9Vh"
+      },
+    
+    "visualizations": 3,
+    "priority": 25
+  },
+  {
+    "id": "MAR_2023_SURVEY",
+    "lang": "es",
+    "products": ["addin"],
+    "solutions": ["word", "powerpoint"],
+    "licenseStatuses": ["subscription", "trial", "trial_grace_period", "subscription_grace_period", "trial_expired", "subscription_expired"],
+
+    "info": {
+      "title": "Tu opinión es importante, ¡comparte tu experiencia!"
+    },
+
+    "image": {
+        "url": "https://assets.officetools.wiris.kitchen/gifs/FEB_2023_SURVEY_ESP.gif",
+        "altText": "Clica aquí para dejar tu opinión sobre MathType",
+        "target": "https://wirisscience.typeform.com/to/ypvMtaQH"
+      },
+    
+    "visualizations": 3,
+    "priority": 25
   }
 ]
   
