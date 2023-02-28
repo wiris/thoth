@@ -21,9 +21,10 @@ The message needs to be like the next example, you can find more information on 
   "endDate": "",
   "solutions": ["word"],
 
-  // this is optional, but if you want info in your notification, you need to write title and text
+  // this is optional, but if you want info in your notification, you need to write title
   "info": {
     "title": "BLACK WEEK MATHNESS",
+    // this is optional
     "text": "Enjoy 30% OFF for MathType Office Tools.<br/><br/><a style=\"text-decoration:underline\" href=\"https://store.wiris.com/en/individual/purchase/step1?code=BLACK22FAI&utm_source=Product&utm_medium=MathTypeMS365&utm_campaign=FancyNotification&utm_term=BlackFriday2022&utm_content=GETITNOW\" target=\"_blank\">Get 30% discount</a>"
   },
 
@@ -34,9 +35,11 @@ The message needs to be like the next example, you can find more information on 
     "target": "https://store.wiris.com/en/individual/purchase/step1?code=BLACK22FAI&utm_source=Product&utm_medium=MathTypeMS365&utm_campaign=FancyNotification&utm_term=BlackFriday2022&utm_content=GETITNOW"
   },
 
+  // This is mandatory, number of times you want to show the notification to the user
   "visualizations": 3,
+  // This is mandatory, it needs to be a number (more priority, greater number).
   "priority": 1,
-  // Tis is optional
+  // This is optional, the possibilities are "error", "success", "info" and "warning"
   "alertType": ""
 }
 ```
