@@ -65,7 +65,7 @@
         "text": "This is an error type alert."
       },
       
-      "alertType": "warning",
+      "alertType": "success",
       "visualizations": 4,
       "priority": 100,
   
