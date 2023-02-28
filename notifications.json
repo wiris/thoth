@@ -1,6 +1,6 @@
 [
     {
-      "id": "NOTIFICATION TEST: END DATE PARAMETER: future date (en)",
+      "id": "NOTIFICATION TEST: ALERT TYPE error",
       "lang": "en",
       "products": ["addin", "addon", "desktop"],
       "solutions": ["word", "powerpoint", "docs", "slides", "mto2"],
@@ -8,75 +8,68 @@
   
       "info": {
         "title": "NOTIFICATION TEST",
-        "text": "This notification should be displayed. The endDate is set to (3000/1/01)"
+        "text": "This is an error type alert."
       },
-  
-      "alertType": "success",
-      "visualizations": 35,
+      
+      "alertType": "error",
+      "visualizations": 4,
       "priority": 25,
-
-      "endDate": "3000/1/01",
-
-      "testExpectedResult": "This notification should be displayed. The endDate is set to (3000/1/01)"
+  
+      "testExpectedResult": "The displayed notification is an error type alert."
     },
     {
-      "id": "NOTIFICATION TEST: END DATE PARAMETER: future date (es)",
-      "lang": "es",
+      "id": "NOTIFICATION TEST: ALERT TYPE error",
+      "lang": "en",
       "products": ["addin", "addon", "desktop"],
       "solutions": ["word", "powerpoint", "docs", "slides", "mto2"],
       "licenseStatuses": ["trial", "trial_grace_period", "trial_expired", "subscription", "subscription_expired", "unlicensed"],
   
       "info": {
         "title": "NOTIFICATION TEST",
-        "text": "Esta notificación debería mostrarse. La endDate está seteada para (3000/1/01)"
+        "text": "This is an error type alert."
       },
-  
+      
       "alertType": "success",
-      "visualizations": 35,
-      "priority": 25,
-
-      "endDate": "3000/1/01",
-
-      "testExpectedResult": "Esta notificación debería mostrarse. La endDate está seteada para (3000/1/01)"
+      "visualizations": 4,
+      "priority": 50,
+  
+      "testExpectedResult": "The displayed notification is an error type alert."
     },
     {
-        "id": "NOTIFICATION TEST: END DATE PARAMETER: passed date (en)",
-        "lang": "en",
-        "products": ["addin", "addon", "desktop"],
-        "solutions": ["word", "powerpoint", "docs", "slides", "mto2"],
-        "licenseStatuses": ["trial", "trial_grace_period", "trial_expired", "subscription", "subscription_expired", "unlicensed"],
-    
-        "info": {
-          "title": "NOTIFICATION TEST",
-          "text": "This notification should not be displayed since it's scheduled with end date 2023/1/01"
-        },
-    
-        "alertType": "success",
-        "visualizations": 35,
-        "priority": 50,
+      "id": "NOTIFICATION TEST: ALERT TYPE error",
+      "lang": "en",
+      "products": ["addin", "addon", "desktop"],
+      "solutions": ["word", "powerpoint", "docs", "slides", "mto2"],
+      "licenseStatuses": ["trial", "trial_grace_period", "trial_expired", "subscription", "subscription_expired", "unlicensed"],
   
-        "endDate": "2023/1/01",
-  
-        "testExpectedResult": "This notification should not be displayed since it's scheduled with end date 2023/1/01"
+      "info": {
+        "title": "NOTIFICATION TEST",
+        "text": "This is an error type alert."
       },
-      {
-        "id": "NOTIFICATION TEST: END DATE PARAMETER: passed date (es)",
-        "lang": "es",
-        "products": ["addin", "addon", "desktop"],
-        "solutions": ["word", "powerpoint", "docs", "slides", "mto2"],
-        "licenseStatuses": ["trial", "trial_grace_period", "trial_expired", "subscription", "subscription_expired", "unlicensed"],
-    
-        "info": {
-          "title": "NOTIFICATION TEST",
-          "text": "Esta notificación no debería mostrarse ya que está preparada para la fecha de comienzo 2023/1/01"
-        },
-    
-        "alertType": "success",
-        "visualizations": 35,
-        "priority": 50,
+      
+      "alertType": "info",
+      "visualizations": 4,
+      "priority": 75,
   
-        "endDate": "2023/1/01",
+      "testExpectedResult": "The displayed notification is an error type alert."
+    },
+    {
+      "id": "NOTIFICATION TEST: ALERT TYPE error",
+      "lang": "en",
+      "products": ["addin", "addon", "desktop"],
+      "solutions": ["word", "powerpoint", "docs", "slides", "mto2"],
+      "licenseStatuses": ["trial", "trial_grace_period", "trial_expired", "subscription", "subscription_expired", "unlicensed"],
   
-        "testExpectedResult": "Esta notificación no debería mostrarse ya que está preparada para la endDate 2023/1/01"
-      }
+      "info": {
+        "title": "NOTIFICATION TEST",
+        "text": "This is an error type alert."
+      },
+      
+      "alertType": "warning",
+      "visualizations": 4,
+      "priority": 100,
+  
+      "testExpectedResult": "The displayed notification is an error type alert."
+    }
   ]
+  
