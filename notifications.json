@@ -111,6 +111,12 @@
       "title": "Your feedback matters, please share your experience!",
       "text": "<a style='text-decoration:underline' href='https://wirisscience.typeform.com/to/exjIu9Vh' target='_blank'>Click here to leave a review about MathType</a>"
     },
+
+    "image": {
+        "url": "https://assets.officetools.wiris.kitchen/gifs/FEB_2023_SURVEY_ENG.gif",
+        "altText": "Click here to leave a review about MathType",
+        "target": "https://wirisscience.typeform.com/to/exjIu9Vh"
+      },
     
     "visualizations": 3,
     "priority": 25
@@ -126,6 +132,12 @@
       "title": "Tu opinión es importante, ¡comparte tu experiencia!",
       "text": "<a style='text-decoration:underline' href='https://wirisscience.typeform.com/to/ypvMtaQH' target='_blank'>Clica aquí para dejar tu opinión sobre MathType</a>"
     },
+
+    "image": {
+        "url": "https://assets.officetools.wiris.kitchen/gifs/FEB_2023_SURVEY_ESP.gif",
+        "altText": "Clica aquí para dejar tu opinión sobre MathType",
+        "target": "https://wirisscience.typeform.com/to/ypvMtaQH"
+      },
     
     "visualizations": 3,
     "priority": 25
