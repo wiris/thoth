@@ -1,38 +1,82 @@
 [
     {
-      "id": "NOTIFICATION TEST: LICENSE STATUSES PARAMETER subscription (en)",
+      "id": "NOTIFICATION TEST: START DATE PARAMETER: future date (en)",
       "lang": "en",
       "products": ["addin", "addon", "desktop"],
       "solutions": ["word", "powerpoint", "docs", "slides", "mto2"],
-      "licenseStatuses": ["subscription"],
+      "licenseStatuses": ["trial", "trial_grace_period", "trial_expired", "subscription", "subscription_expired", "unlicensed"],
   
       "info": {
         "title": "NOTIFICATION TEST",
-        "text": "LicenseStatuses parameter subscription"
+        "text": "This notification should not be displayed since the start date has not been reached yet (3000/1/01)"
       },
   
       "alertType": "success",
       "visualizations": 35,
       "priority": 25,
 
-      "testExpectedResult": "Notification is only displayed to those accounts with a subscription license"
+      "startDate": "3000/1/01",
+
+      "testExpectedResult": "This notification should not be displayed since the start date has not been reached yet (3000/1/01)"
     },
     {
-      "id": "NOTIFICATION TEST: LICENSE STATUSES PARAMETER subscription (es)",
+      "id": "NOTIFICATION TEST: START DATE PARAMETER: future date (es)",
       "lang": "es",
       "products": ["addin", "addon", "desktop"],
       "solutions": ["word", "powerpoint", "docs", "slides", "mto2"],
-      "licenseStatuses": ["subscription"],
+      "licenseStatuses": ["trial", "trial_grace_period", "trial_expired", "subscription", "subscription_expired", "unlicensed"],
   
       "info": {
         "title": "NOTIFICATION TEST",
-        "text": "Parámetro LicenseStatuses subscription"
+        "text": "Esta notificación no debería mostrarse. La fecha de comienzo no ha sido alcanzada aun (3000/1/01)"
       },
   
       "alertType": "success",
       "visualizations": 35,
       "priority": 25,
 
-      "testExpectedResult": "Notification is only displayed to those accounts with a subscription license"
-    }
+      "startDate": "3000/1/01",
+
+      "testExpectedResult": "Esta notificación no debería mostrarse. La fecha de comienzo no ha sido alcanzada aun (3000/1/01)"
+    },
+    {
+        "id": "NOTIFICATION TEST: START DATE PARAMETER: passed date (en)",
+        "lang": "en",
+        "products": ["addin", "addon", "desktop"],
+        "solutions": ["word", "powerpoint", "docs", "slides", "mto2"],
+        "licenseStatuses": ["trial", "trial_grace_period", "trial_expired", "subscription", "subscription_expired", "unlicensed"],
+    
+        "info": {
+          "title": "NOTIFICATION TEST",
+          "text": "This notification should be displayed since it's scheduled with start date 2023/1/01"
+        },
+    
+        "alertType": "success",
+        "visualizations": 35,
+        "priority": 50,
+  
+        "startDate": "2023/1/01",
+  
+        "testExpectedResult": "This notification should be displayed since it's scheduled with start date 2023/1/01"
+      },
+      {
+        "id": "NOTIFICATION TEST: START DATE PARAMETER: passed date (es)",
+        "lang": "es",
+        "products": ["addin", "addon", "desktop"],
+        "solutions": ["word", "powerpoint", "docs", "slides", "mto2"],
+        "licenseStatuses": ["trial", "trial_grace_period", "trial_expired", "subscription", "subscription_expired", "unlicensed"],
+    
+        "info": {
+          "title": "NOTIFICATION TEST",
+          "text": "Esta notificación debería mostrarse ya que está preparada para la fecha de comienzo 2023/1/01"
+        },
+    
+        "alertType": "success",
+        "visualizations": 35,
+        "priority": 50,
+  
+        "startDate": "2023/1/01",
+  
+        "testExpectedResult": "Esta notificación debería mostrarse ya que está preparada para la fecha de comienzo 2023/1/01"
+      }
   ]
