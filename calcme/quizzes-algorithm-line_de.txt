@@ -1,1 +1,3 @@
-# This wednesday at 16:00 CET learn more about our new statistical features! Register to the webinar here: https://us06web.zoom.us/webinar/register/WN_l7OsCUlPSbO1Semy_KASyw
+/#
+ # WirisQuizzes 4.6.0 ist jetzt mit einer vereinfachten Methode zum Erstellen von Zufallsvariablen verfügbar!
+ #/
