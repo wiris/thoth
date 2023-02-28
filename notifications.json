@@ -101,18 +101,31 @@
     "priority": 25
   },
   {
-    "id": "JAN_2023_NOTIFICATION",
+    "id": "MAR_2023_SURVEY",
     "lang": "en",
-    "products": ["addin", "addon"],
-    "solutions": ["word", "docs"],
-    "licenseStatuses": ["subscription"],
+    "products": ["addin"],
+    "solutions": ["word", "powerpoint"],
+    "licenseStatuses": ["subscription", "trial", "trial_grace_period", "subscription_grace_period", "trial_expired", "subscription_expired"],
 
     "info": {
-      "title": "Enjoy your description!",
-      "text": "Just wanted to say thank you!"
+      "title": "Your feedback matters, please share your experience!",
+      "text": "<a style='text-decoration:underline' href='https://wirisscience.typeform.com/to/exjIu9Vh' target='_blank'>Click here to leave a review about MathType</a>"
     },
+    
+    "visualizations": 3,
+    "priority": 25
+  },
+  {
+    "id": "MAR_2023_SURVEY",
+    "lang": "es",
+    "products": ["addin"],
+    "solutions": ["word", "powerpoint"],
+    "licenseStatuses": ["subscription", "trial", "trial_grace_period", "subscription_grace_period", "trial_expired", "subscription_expired"],
 
-    "alertType": "error",
+    "info": {
+      "title": "Tu opinión es importante, ¡comparte tu experiencia!",
+      "text": "<a style='text-decoration:underline' href='https://wirisscience.typeform.com/to/ypvMtaQH' target='_blank'>Clica aquí para dejar tu opinión sobre MathType</a>"
+    },
     
     "visualizations": 3,
     "priority": 25
