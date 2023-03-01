@@ -1,6 +1,6 @@
 [
   {
-    "id": "NOTIFICATION TEST: ALERT TYPE info",
+    "id": "NOTIFICATION TEST: ALERT TYPE success",
     "lang": "en",
     "products": ["addin", "addon", "desktop"],
     "solutions": ["word", "powerpoint", "docs", "slides", "mto2"],
@@ -8,17 +8,17 @@
 
     "info": {
       "title": "NOTIFICATION TEST",
-      "text": "This is an info type notification."
+      "text": "This is an success type alert."
     },
     
-    "alertType": "info",
+    "alertType": "success",
     "visualizations": 35,
     "priority": 25,
 
-    "testExpectedResult": "The displayed notification is an info type alert."
+    "testExpectedResult": "The displayed notification is an success type alert."
   },
   {
-    "id": "NOTIFICATION TEST: ALERT TYPE info",
+    "id": "NOTIFICATION TEST: ALERT TYPE success",
     "lang": "es",
     "products": ["addin", "addon", "desktop"],
     "solutions": ["word", "powerpoint", "docs", "slides", "mto2"],
@@ -26,13 +26,13 @@
 
     "info": {
       "title": "NOTIFICATION TEST",
-      "text": "Esta es una notificación de tipo info."
+      "text": "Esta es una notificación de tipo success."
     },
     
-    "alertType": "info",
+    "alertType": "success",
     "visualizations": 35,
     "priority": 25,
 
-    "testExpectedResult": "The displayed notification is an info type alert."
+    "testExpectedResult": "The displayed notification is an success type alert."
   }
 ]
