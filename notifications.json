@@ -1,38 +1,38 @@
 [
     {
-      "id": "NOTIFICATION TEST: PRODUCTS PARAMETER add-in (en)",
+      "id": "NOTIFICATION TEST: SOLUTIONS PARAMETER slides (en)",
       "lang": "en",
-      "products": ["addin", "desktop"],
-      "solutions": ["word", "powerpoint", "docs", "slides", "mto2"],
+      "products": ["addon"],
+      "solutions": ["slides"],
       "licenseStatuses": ["trial", "trial_grace_period", "trial_expired", "subscription", "subscription_expired", "unlicensed"],
   
       "info": {
         "title": "NOTIFICATION TEST",
-        "text": "Products parameter add-on"
+        "text": "Solutions parameter slides"
       },
   
       "alertType": "success",
       "visualizations": 35,
       "priority": 25,
 
-      "testExpectedResult": "Notification is only displayed to the addin product"
+      "testExpectedResult": "Notification is only displayed to the addon for slides solution"
     },
     {
-      "id": "NOTIFICATION TEST: PRODUCTS PARAMETER add-in (es)",
+      "id": "NOTIFICATION TEST: SOLUTIONS PARAMETER slides (es)",
       "lang": "es",
-      "products": ["addin", "desktop"],
-      "solutions": ["word", "powerpoint", "docs", "slides", "mto2"],
+      "products": ["addon"],
+      "solutions": ["slides"],
       "licenseStatuses": ["trial", "trial_grace_period", "trial_expired", "subscription", "subscription_expired", "unlicensed"],
   
       "info": {
         "title": "NOTIFICATION TEST",
-        "text": "Parámetro Products add-in"
+        "text": "Parámetro Solutions slides"
       },
   
       "alertType": "success",
       "visualizations": 35,
       "priority": 25,
 
-      "testExpectedResult": "Notification is only displayed to the addin product"
+      "testExpectedResult": "Notification is only displayed to the addon for slides solution"
     }
-]
+  ]
