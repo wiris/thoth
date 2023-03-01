@@ -1,6 +1,6 @@
 [
   {
-    "id": "NOTIFICATION TEST: IMAGE en",
+    "id": "NOTIFICATION TEST: TEXT STYLE en",
     "lang": "en",
     "products": ["addin", "addon", "desktop"],
     "solutions": ["word", "powerpoint", "docs", "slides", "mto2"],
@@ -8,22 +8,17 @@
 
     "info": {
       "title": "NOTIFICATION TEST",
-      "text": "An image should be displayed in the notification."
-    },
-
-    "image": {
-        "url":"https://www.wiris.com/wp-content/themes/twentytwenty-child/img/wiris-logo.svg",
-        "altText": "Wiris logo."
+      "text": "<b>Bold text</b> , <i>Italics text</i>"
     },
     
     "alertType": "success",
-    "visualizations": 2,
-    "priority": 50,
+    "visualizations": 35,
+    "priority": 25,
 
-    "testExpectedResult": "Notification contains a image."
+    "testExpectedResult": "Notification text is displayed in bold and italics."
   },
   {
-    "id": "NOTIFICATION TEST: TEXT es",
+    "id": "NOTIFICATION TEST: TEXT STYLE es",
     "lang": "es",
     "products": ["addin", "addon", "desktop"],
     "solutions": ["word", "powerpoint", "docs", "slides", "mto2"],
@@ -31,18 +26,13 @@
   
     "info": {
       "title": "NOTIFICATION TEST",
-      "text": "Una imagen debería aparecer en la notificación"
-    },
-
-    "image": {
-        "url":"https://www.wiris.com/wp-content/themes/twentytwenty-child/img/wiris-logo.svg",
-        "altText": "Wiris logo."
+      "text": "<b>Bold text</b> , <i>Italics text</i>"
     },
     
     "alertType": "success",
-    "visualizations": 2,
-    "priority": 50,
+    "visualizations": 35,
+    "priority": 25,
 
-    "testExpectedResult": "Notification contains a image."
+    "testExpectedResult": "Notification text is displayed in bold and italics."
   }
 ]
