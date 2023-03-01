@@ -1,38 +1,38 @@
 [
     {
-      "id": "NOTIFICATION TEST: LICENSE STATUSES PARAMETER trial_expired (en)",
+      "id": "NOTIFICATION TEST: LICENSE STATUSES PARAMETER subscription (en)",
       "lang": "en",
       "products": ["addin", "addon", "desktop"],
       "solutions": ["word", "powerpoint", "docs", "slides", "mto2"],
-      "licenseStatuses": ["trial_expired"],
+      "licenseStatuses": ["subscription"],
   
       "info": {
         "title": "NOTIFICATION TEST",
-        "text": "LicenseStatuses parameter trial_expired"
+        "text": "LicenseStatuses parameter subscription"
       },
   
       "alertType": "success",
       "visualizations": 35,
       "priority": 25,
 
-      "testExpectedResult": "Notification is only displayed to those accounts with a trial_expired license"
+      "testExpectedResult": "Notification is only displayed to those accounts with a subscription license"
     },
     {
-      "id": "NOTIFICATION TEST: LICENSE STATUSES PARAMETER trial_expired (es)",
+      "id": "NOTIFICATION TEST: LICENSE STATUSES PARAMETER subscription (es)",
       "lang": "es",
       "products": ["addin", "addon", "desktop"],
       "solutions": ["word", "powerpoint", "docs", "slides", "mto2"],
-      "licenseStatuses": ["trial_expired"],
+      "licenseStatuses": ["subscription"],
   
       "info": {
         "title": "NOTIFICATION TEST",
-        "text": "Parámetro LicenseStatuses trial_expired"
+        "text": "Parámetro LicenseStatuses subscription"
       },
   
       "alertType": "success",
       "visualizations": 35,
       "priority": 25,
 
-      "testExpectedResult": "Notification is only displayed to those accounts with a trial_expired license"
+      "testExpectedResult": "Notification is only displayed to those accounts with a subscription license"
     }
   ]
