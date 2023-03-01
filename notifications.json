@@ -1,6 +1,6 @@
 [
     {
-      "id": "NOTIFICATION TEST: START DATE PARAMETER: future date (en)",
+      "id": "NOTIFICATION TEST: END DATE PARAMETER: future date (en)",
       "lang": "en",
       "products": ["addin", "addon", "desktop"],
       "solutions": ["word", "powerpoint", "docs", "slides", "mto2"],
@@ -8,19 +8,19 @@
   
       "info": {
         "title": "NOTIFICATION TEST",
-        "text": "This notification should not be displayed since the start date has not been reached yet (3000/1/01)"
+        "text": "This notification should be displayed. The endDate is set to (3000/1/01)"
       },
   
       "alertType": "success",
       "visualizations": 35,
       "priority": 25,
 
-      "startDate": "3000/1/01",
+      "endDate": "3000/1/01",
 
-      "testExpectedResult": "This notification should not be displayed since the start date has not been reached yet (3000/1/01)"
+      "testExpectedResult": "This notification should be displayed. The endDate is set to (3000/1/01)"
     },
     {
-      "id": "NOTIFICATION TEST: START DATE PARAMETER: future date (es)",
+      "id": "NOTIFICATION TEST: END DATE PARAMETER: future date (es)",
       "lang": "es",
       "products": ["addin", "addon", "desktop"],
       "solutions": ["word", "powerpoint", "docs", "slides", "mto2"],
@@ -28,19 +28,19 @@
   
       "info": {
         "title": "NOTIFICATION TEST",
-        "text": "Esta notificación no debería mostrarse. La fecha de comienzo no ha sido alcanzada aun (3000/1/01)"
+        "text": "Esta notificación debería mostrarse. La endDate está seteada para (3000/1/01)"
       },
   
       "alertType": "success",
       "visualizations": 35,
       "priority": 25,
 
-      "startDate": "3000/1/01",
+      "endDate": "3000/1/01",
 
-      "testExpectedResult": "Esta notificación no debería mostrarse. La fecha de comienzo no ha sido alcanzada aun (3000/1/01)"
+      "testExpectedResult": "Esta notificación debería mostrarse. La endDate está seteada para (3000/1/01)"
     },
     {
-        "id": "NOTIFICATION TEST: START DATE PARAMETER: passed date (en)",
+        "id": "NOTIFICATION TEST: END DATE PARAMETER: passed date (en)",
         "lang": "en",
         "products": ["addin", "addon", "desktop"],
         "solutions": ["word", "powerpoint", "docs", "slides", "mto2"],
@@ -48,19 +48,19 @@
     
         "info": {
           "title": "NOTIFICATION TEST",
-          "text": "This notification should be displayed since it's scheduled with start date 2023/1/01"
+          "text": "This notification should not be displayed since it's scheduled with end date 2023/1/01"
         },
     
         "alertType": "success",
         "visualizations": 35,
         "priority": 50,
   
-        "startDate": "2023/1/01",
+        "endDate": "2023/1/01",
   
-        "testExpectedResult": "This notification should be displayed since it's scheduled with start date 2023/1/01"
+        "testExpectedResult": "This notification should not be displayed since it's scheduled with end date 2023/1/01"
       },
       {
-        "id": "NOTIFICATION TEST: START DATE PARAMETER: passed date (es)",
+        "id": "NOTIFICATION TEST: END DATE PARAMETER: passed date (es)",
         "lang": "es",
         "products": ["addin", "addon", "desktop"],
         "solutions": ["word", "powerpoint", "docs", "slides", "mto2"],
@@ -68,15 +68,15 @@
     
         "info": {
           "title": "NOTIFICATION TEST",
-          "text": "Esta notificación debería mostrarse ya que está preparada para la fecha de comienzo 2023/1/01"
+          "text": "Esta notificación no debería mostrarse ya que está preparada para la endDate 2023/1/01"
         },
     
         "alertType": "success",
         "visualizations": 35,
         "priority": 50,
   
-        "startDate": "2023/1/01",
+        "endDate": "2023/1/01",
   
-        "testExpectedResult": "Esta notificación debería mostrarse ya que está preparada para la fecha de comienzo 2023/1/01"
+        "testExpectedResult": "Esta notificación no debería mostrarse ya que está preparada para la endDate 2023/1/01"
       }
   ]
