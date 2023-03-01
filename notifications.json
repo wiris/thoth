@@ -3,7 +3,7 @@
       "id": "NOTIFICATION TEST: SOLUTIONS PARAMETER slides (en)",
       "lang": "en",
       "products": ["addon"],
-      "solutions": ["slides"],
+      "solutions": ["docs"],
       "licenseStatuses": ["trial", "trial_grace_period", "trial_expired", "subscription", "subscription_expired", "unlicensed"],
   
       "info": {
