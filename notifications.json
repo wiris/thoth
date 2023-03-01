@@ -2,13 +2,13 @@
     {
       "id": "NOTIFICATION TEST: PRODUCTS PARAMETER add-in (en)",
       "lang": "en",
-      "products": ["addin", "desktop"],
+      "products": ["addon"],
       "solutions": ["word", "powerpoint", "docs", "slides", "mto2"],
       "licenseStatuses": ["trial", "trial_grace_period", "trial_expired", "subscription", "subscription_expired", "unlicensed"],
   
       "info": {
         "title": "NOTIFICATION TEST",
-        "text": "Products parameter add-in"
+        "text": "Products parameter add-on"
       },
   
       "alertType": "success",
