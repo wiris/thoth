@@ -14,7 +14,7 @@
   
       "alertType": "success",
       "visualizations": 35,
-      "priority": 25,
+      "priority": 50,
 
       "testExpectedResult": ""
     },
@@ -32,7 +32,7 @@
   
       "alertType": "success",
       "visualizations": 35,
-      "priority": 50,
+      "priority": 1,
 
       "testExpectedResult": ""
     }
