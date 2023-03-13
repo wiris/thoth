@@ -1,42 +1,202 @@
 [
   {
-    "id": "MAR_2023_SURVEY",
+    "id": "2023_03_MATHDAY",
     "lang": "en",
     "products": ["addin"],
     "solutions": ["word", "powerpoint"],
-    "licenseStatuses": ["subscription", "trial", "trial_grace_period", "subscription_grace_period", "trial_expired", "subscription_expired"],
+    "licenseStatuses": ["trial", "trial_grace_period"],
 
     "info": {
-      "title": "Your feedback matters, please share your experience!"
+      "title": "30% off - Happy Math Day!",
+      "text": "Only valid for a week, until the 21st of March."
     },
 
     "image": {
-        "url": "https://assets.officetools.wiris.kitchen/gifs/FEB_2023_SURVEY_ENG.gif",
-        "altText": "Click here to leave a review about MathType",
-        "target": "https://wirisscience.typeform.com/to/exjIu9Vh"
-      },
-    
-    "visualizations": 3,
-    "priority": 25
+      "url": "https://assets.officetools.wiris.kitchen/gifs/2023_03_MATHDAY.gif",
+      "altText": "Click on the image to get the offer!",
+      "target": "https://store.wiris.com/en/individual/purchase/step1?code=MATH23DAY30FAI&utm_source=Product&utm_medium=MathTypeMS365&utm_campaign=Trial&utm_term=MathDay2023&utm_content=GET_OFFER_FANCY_M1&sf_campid=MATH23DAY30FAI"
+    },
+
+    "alertType": "info",
+    "visualizations": 5,
+    "priority": 25,
+
+    "startDate": "2023/03/14",
+    "endDate": "2023/03/20"
   },
   {
-    "id": "MAR_2023_SURVEY",
+    "id": "2023_03_MATHDAY",
     "lang": "es",
     "products": ["addin"],
     "solutions": ["word", "powerpoint"],
-    "licenseStatuses": ["subscription", "trial", "trial_grace_period", "subscription_grace_period", "trial_expired", "subscription_expired"],
+    "licenseStatuses": ["trial", "trial_grace_period"],
 
     "info": {
-      "title": "Tu opinión es importante, ¡comparte tu experiencia!"
+      "title": "30% off - Happy Math Day!",
+      "text": "Only valid for a week, until the 21st of March."
     },
 
     "image": {
-        "url": "https://assets.officetools.wiris.kitchen/gifs/FEB_2023_SURVEY_ESP.gif",
-        "altText": "Clica aquí para dejar tu opinión sobre MathType",
-        "target": "https://wirisscience.typeform.com/to/ypvMtaQH"
-      },
-    
-    "visualizations": 3,
-    "priority": 25
+      "url": "https://assets.officetools.wiris.kitchen/gifs/2023_03_MATHDAY.gif",
+      "altText": "Click on the image to get the offer!",
+      "target": "https://store.wiris.com/en/individual/purchase/step1?code=MATH23DAY30FAI&utm_source=Product&utm_medium=MathTypeMS365&utm_campaign=Trial&utm_term=MathDay2023&utm_content=GET_OFFER_FANCY_M1&sf_campid=MATH23DAY30FAI"
+    },
+
+    "alertType": "info",
+    "visualizations": 5,
+    "priority": 25,
+
+    "startDate": "2023/03/14",
+    "endDate": "2023/03/20"
+  },
+  {
+    "id": "2023_03_MATHDAY",
+    "lang": "en",
+    "products": ["addon"],
+    "solutions": ["docs", "slides"],
+    "licenseStatuses": ["trial", "trial_grace_period"],
+
+    "info": {
+      "title": "30% off - Happy Math Day!",
+      "text": "Only valid for a week, until the 21st of March."
+    },
+
+    "image": {
+      "url": "https://assets.officetools.wiris.kitchen/gifs/2023_03_MATHDAY.gif",
+      "altText": "Click on the image to get the offer!",
+      "target": "https://store.wiris.com/en/individual/purchase/step1?code=MATH23DAY30FAO&utm_source=Product&utm_medium=MathTypeGoogle&utm_campaign=Trial&utm_term=MathDay2023&utm_content=GET_OFFER_FANCY_M1&sf_campid=MATH23DAY30FAO"
+    },
+
+    "alertType": "info",
+    "visualizations": 5,
+    "priority": 25,
+
+    "startDate": "2023/03/14",
+    "endDate": "2023/03/20"
+  },
+  {
+    "id": "2023_03_MATHDAY",
+    "lang": "es",
+    "products": ["addon"],
+    "solutions": ["docs", "slides"],
+    "licenseStatuses": ["trial", "trial_grace_period"],
+
+    "info": {
+      "title": "30% off - Happy Math Day!",
+      "text": "Only valid for a week, until the 21st of March."
+    },
+
+    "image": {
+      "url": "https://assets.officetools.wiris.kitchen/gifs/2023_03_MATHDAY.gif",
+      "altText": "Click on the image to get the offer!",
+      "target": "https://store.wiris.com/en/individual/purchase/step1?code=MATH23DAY30FAO&utm_source=Product&utm_medium=MathTypeGoogle&utm_campaign=Trial&utm_term=MathDay2023&utm_content=GET_OFFER_FANCY_M1&sf_campid=MATH23DAY30FAO"
+    },
+
+    "alertType": "info",
+    "visualizations": 5,
+    "priority": 25,
+
+    "startDate": "2023/03/14",
+    "endDate": "2023/03/20"
+  },
+  {
+    "id": "2023_03_LAST_MATHDAY",
+    "lang": "en",
+    "products": ["addin"],
+    "solutions": ["word", "powerpoint"],
+    "licenseStatuses": ["trial", "trial_grace_period"],
+
+    "info": {
+      "title": "30% off - Happy Math Day!",
+      "text": "Final day to enjoy your discount on MathType for Office Tools."
+    },
+
+    "image": {
+      "url": "https://assets.officetools.wiris.kitchen/gifs/2023_03_MATHDAY.gif",
+      "altText": "Click on the image to get the offer!",
+      "target": "https://store.wiris.com/en/individual/purchase/step1?code=MATH23DAY30FAI&utm_source=Product&utm_medium=MathTypeMS365&utm_campaign=Trial&utm_term=MathDay2023&utm_content=GET_OFFER_FANCY_M2&sf_campid=MATH23DAY30FAI"
+    },
+
+    "alertType": "info",
+    "visualizations": 5,
+    "priority": 25,
+
+    "startDate": "2023/03/21",
+    "endDate": "2023/03/21"
+  },
+  {
+    "id": "2023_03_LAST_MATHDAY",
+    "lang": "es",
+    "products": ["addin"],
+    "solutions": ["word", "powerpoint"],
+    "licenseStatuses": ["trial", "trial_grace_period"],
+
+    "info": {
+      "title": "30% off - Happy Math Day!",
+      "text": "Final day to enjoy your discount on MathType for Office Tools."
+    },
+
+    "image": {
+      "url": "https://assets.officetools.wiris.kitchen/gifs/2023_03_MATHDAY.gif",
+      "altText": "Click on the image to get the offer!",
+      "target": "https://store.wiris.com/en/individual/purchase/step1?code=MATH23DAY30FAI&utm_source=Product&utm_medium=MathTypeMS365&utm_campaign=Trial&utm_term=MathDay2023&utm_content=GET_OFFER_FANCY_M2&sf_campid=MATH23DAY30FAI"
+    },
+
+    "alertType": "info",
+    "visualizations": 5,
+    "priority": 25,
+
+    "startDate": "2023/03/21",
+    "endDate": "2023/03/21"
+  },
+  {
+    "id": "2023_03_LAST_MATHDAY",
+    "lang": "en",
+    "products": ["addon"],
+    "solutions": ["docs", "slides"],
+    "licenseStatuses": ["trial", "trial_grace_period"],
+
+    "info": {
+      "title": "30% off - Happy Math Day!",
+      "text": "Final day to enjoy your discount on MathType for Office Tools."
+    },
+
+    "image": {
+      "url": "https://assets.officetools.wiris.kitchen/gifs/2023_03_MATHDAY.gif",
+      "altText": "Click on the image to get the offer!",
+      "target": "https://store.wiris.com/en/individual/purchase/step1?code=MATH23DAY30FAO&utm_source=Product&utm_medium=MathTypeGoogle&utm_campaign=Trial&utm_term=MathDay2023&utm_content=GET_OFFER_FANCY_M2&sf_campid=MATH23DAY30FAO"
+    },
+
+    "alertType": "info",
+    "visualizations": 5,
+    "priority": 25,
+
+    "startDate": "2023/03/21",
+    "endDate": "2023/03/21"
+  },
+  {
+    "id": "2023_03_LAST_MATHDAY",
+    "lang": "es",
+    "products": ["addon"],
+    "solutions": ["docs", "slides"],
+    "licenseStatuses": ["trial", "trial_grace_period"],
+
+    "info": {
+      "title": "30% off - Happy Math Day!",
+      "text": "Final day to enjoy your discount on MathType for Office Tools."
+    },
+
+    "image": {
+      "url": "https://assets.officetools.wiris.kitchen/gifs/2023_03_MATHDAY.gif",
+      "altText": "Click on the image to get the offer!",
+      "target": "https://store.wiris.com/en/individual/purchase/step1?code=MATH23DAY30FAO&utm_source=Product&utm_medium=MathTypeGoogle&utm_campaign=Trial&utm_term=MathDay2023&utm_content=GET_OFFER_FANCY_M2&sf_campid=MATH23DAY30FAO"
+    },
+
+    "alertType": "info",
+    "visualizations": 5,
+    "priority": 25,
+
+    "startDate": "2023/03/21",
+    "endDate": "2023/03/21"
   }
 ]
