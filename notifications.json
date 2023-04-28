@@ -2,201 +2,293 @@
   {
     "id": "2023_03_MATHDAY",
     "lang": "en",
-    "products": ["addin"],
-    "solutions": ["word", "powerpoint"],
-    "licenseStatuses": ["trial", "trial_grace_period"],
-
+    "products": [
+      "addin"
+    ],
+    "solutions": [
+      "word",
+      "powerpoint"
+    ],
+    "licenseStatuses": [
+      "trial",
+      "trial_grace_period"
+    ],
     "info": {
       "title": "30% off - Happy Math Day!",
       "text": "Only valid for a week, until the 21st of March."
     },
-
     "image": {
       "url": "https://assets.officetools.wiris.kitchen/gifs/2023_03_MATHDAY.gif",
       "altText": "Click on the image to get the offer!",
       "target": "https://store.wiris.com/en/individual/purchase/step1?code=MATH23DAY30FAI&utm_source=FancyNotification&utm_medium=MathTypeMS365&utm_campaign=Trial&utm_term=MathDay2023&utm_content=GET_OFFER_FANCY_M1&promo=MATH23DAY30FAI"
     },
-
     "alertType": "info",
     "visualizations": 5,
     "priority": 25,
-
     "startDate": "2023/03/14",
     "endDate": "2023/03/20"
   },
   {
     "id": "2023_03_MATHDAY",
     "lang": "es",
-    "products": ["addin"],
-    "solutions": ["word", "powerpoint"],
-    "licenseStatuses": ["trial", "trial_grace_period"],
-
+    "products": [
+      "addin"
+    ],
+    "solutions": [
+      "word",
+      "powerpoint"
+    ],
+    "licenseStatuses": [
+      "trial",
+      "trial_grace_period"
+    ],
     "info": {
       "title": "30% off - Happy Math Day!",
       "text": "Only valid for a week, until the 21st of March."
     },
-
     "image": {
       "url": "https://assets.officetools.wiris.kitchen/gifs/2023_03_MATHDAY.gif",
       "altText": "Click on the image to get the offer!",
       "target": "https://store.wiris.com/en/individual/purchase/step1?code=MATH23DAY30FAI&utm_source=FancyNotification&utm_medium=MathTypeMS365&utm_campaign=Trial&utm_term=MathDay2023&utm_content=GET_OFFER_FANCY_M1&promo=MATH23DAY30FAI"
     },
-
     "alertType": "info",
     "visualizations": 5,
     "priority": 25,
-
     "startDate": "2023/03/14",
     "endDate": "2023/03/20"
   },
   {
     "id": "2023_03_MATHDAY",
     "lang": "en",
-    "products": ["addon"],
-    "solutions": ["docs", "slides"],
-    "licenseStatuses": ["trial", "trial_grace_period"],
-
+    "products": [
+      "addon"
+    ],
+    "solutions": [
+      "docs",
+      "slides"
+    ],
+    "licenseStatuses": [
+      "trial",
+      "trial_grace_period"
+    ],
     "info": {
       "title": "30% off - Happy Math Day!",
       "text": "Only valid for a week, until the 21st of March."
     },
-
     "image": {
       "url": "https://assets.officetools.wiris.kitchen/gifs/2023_03_MATHDAY.gif",
       "altText": "Click on the image to get the offer!",
       "target": "https://store.wiris.com/en/individual/purchase/step1?code=MATH23DAY30FAO&utm_source=FancyNotification&utm_medium=MathTypeGoogle&utm_campaign=Trial&utm_term=MathDay2023&utm_content=GET_OFFER_FANCY_M1&promo=MATH23DAY30FAO"
     },
-
     "alertType": "info",
     "visualizations": 5,
     "priority": 25,
-
     "startDate": "2023/03/14",
     "endDate": "2023/03/20"
   },
   {
     "id": "2023_03_MATHDAY",
     "lang": "es",
-    "products": ["addon"],
-    "solutions": ["docs", "slides"],
-    "licenseStatuses": ["trial", "trial_grace_period"],
-
+    "products": [
+      "addon"
+    ],
+    "solutions": [
+      "docs",
+      "slides"
+    ],
+    "licenseStatuses": [
+      "trial",
+      "trial_grace_period"
+    ],
     "info": {
       "title": "30% off - Happy Math Day!",
       "text": "Only valid for a week, until the 21st of March."
     },
-
     "image": {
       "url": "https://assets.officetools.wiris.kitchen/gifs/2023_03_MATHDAY.gif",
       "altText": "Click on the image to get the offer!",
       "target": "https://store.wiris.com/en/individual/purchase/step1?code=MATH23DAY30FAO&utm_source=FancyNotification&utm_medium=MathTypeGoogle&utm_campaign=Trial&utm_term=MathDay2023&utm_content=GET_OFFER_FANCY_M1&promo=MATH23DAY30FAO"
     },
-
     "alertType": "info",
     "visualizations": 5,
     "priority": 25,
-
     "startDate": "2023/03/14",
     "endDate": "2023/03/20"
   },
   {
     "id": "2023_03_LAST_MATHDAY",
     "lang": "en",
-    "products": ["addin"],
-    "solutions": ["word", "powerpoint"],
-    "licenseStatuses": ["trial", "trial_grace_period"],
-
+    "products": [
+      "addin"
+    ],
+    "solutions": [
+      "word",
+      "powerpoint"
+    ],
+    "licenseStatuses": [
+      "trial",
+      "trial_grace_period"
+    ],
     "info": {
       "title": "30% off - Happy Math Day!",
       "text": "Final day to enjoy your discount on MathType for Office Tools."
     },
-
     "image": {
       "url": "https://assets.officetools.wiris.kitchen/gifs/2023_03_MATHDAY.gif",
       "altText": "Click on the image to get the offer!",
       "target": "https://store.wiris.com/en/individual/purchase/step1?code=MATH23DAY30FAI&utm_source=FancyNotification&utm_medium=MathTypeMS365&utm_campaign=Trial&utm_term=MathDay2023&utm_content=GET_OFFER_FANCY_M2&promo=MATH23DAY30FAI"
     },
-
     "alertType": "info",
     "visualizations": 5,
     "priority": 25,
-
     "startDate": "2023/03/21",
     "endDate": "2023/03/22"
   },
   {
     "id": "2023_03_LAST_MATHDAY",
     "lang": "es",
-    "products": ["addin"],
-    "solutions": ["word", "powerpoint"],
-    "licenseStatuses": ["trial", "trial_grace_period"],
-
+    "products": [
+      "addin"
+    ],
+    "solutions": [
+      "word",
+      "powerpoint"
+    ],
+    "licenseStatuses": [
+      "trial",
+      "trial_grace_period"
+    ],
     "info": {
       "title": "30% off - Happy Math Day!",
       "text": "Final day to enjoy your discount on MathType for Office Tools."
     },
-
     "image": {
       "url": "https://assets.officetools.wiris.kitchen/gifs/2023_03_MATHDAY.gif",
       "altText": "Click on the image to get the offer!",
       "target": "https://store.wiris.com/en/individual/purchase/step1?code=MATH23DAY30FAI&utm_source=FancyNotification&utm_medium=MathTypeMS365&utm_campaign=Trial&utm_term=MathDay2023&utm_content=GET_OFFER_FANCY_M2&promo=MATH23DAY30FAI"
     },
-
     "alertType": "info",
     "visualizations": 5,
     "priority": 25,
-
     "startDate": "2023/03/21",
     "endDate": "2023/03/22"
   },
   {
     "id": "2023_03_LAST_MATHDAY",
     "lang": "en",
-    "products": ["addon"],
-    "solutions": ["docs", "slides"],
-    "licenseStatuses": ["trial", "trial_grace_period"],
-
+    "products": [
+      "addon"
+    ],
+    "solutions": [
+      "docs",
+      "slides"
+    ],
+    "licenseStatuses": [
+      "trial",
+      "trial_grace_period"
+    ],
     "info": {
       "title": "30% off - Happy Math Day!",
       "text": "Final day to enjoy your discount on MathType for Office Tools."
     },
-
     "image": {
       "url": "https://assets.officetools.wiris.kitchen/gifs/2023_03_MATHDAY.gif",
       "altText": "Click on the image to get the offer!",
       "target": "https://store.wiris.com/en/individual/purchase/step1?code=MATH23DAY30FAO&utm_source=FancyNotification&utm_medium=MathTypeGoogle&utm_campaign=Trial&utm_term=MathDay2023&utm_content=GET_OFFER_FANCY_M2&promo=MATH23DAY30FAO"
     },
-
     "alertType": "info",
     "visualizations": 5,
     "priority": 25,
-
     "startDate": "2023/03/21",
     "endDate": "2023/03/22"
   },
   {
     "id": "2023_03_LAST_MATHDAY",
     "lang": "es",
-    "products": ["addon"],
-    "solutions": ["docs", "slides"],
-    "licenseStatuses": ["trial", "trial_grace_period"],
-
+    "products": [
+      "addon"
+    ],
+    "solutions": [
+      "docs",
+      "slides"
+    ],
+    "licenseStatuses": [
+      "trial",
+      "trial_grace_period"
+    ],
     "info": {
       "title": "30% off - Happy Math Day!",
       "text": "Final day to enjoy your discount on MathType for Office Tools."
     },
-
     "image": {
       "url": "https://assets.officetools.wiris.kitchen/gifs/2023_03_MATHDAY.gif",
       "altText": "Click on the image to get the offer!",
       "target": "https://store.wiris.com/en/individual/purchase/step1?code=MATH23DAY30FAO&utm_source=FancyNotification&utm_medium=MathTypeGoogle&utm_campaign=Trial&utm_term=MathDay2023&utm_content=GET_OFFER_FANCY_M2&promo=MATH23DAY30FAO"
     },
-
     "alertType": "info",
     "visualizations": 5,
     "priority": 25,
-
     "startDate": "2023/03/21",
-    "endDate": "2023/03/22"
+    "endDate": "2023/03/21"
+  },
+  {
+    "id": "DEFAULT_HANDWRITING_FEATURE",
+    "lang": "en",
+    "products": [
+      "addin",
+      "addon"
+    ],
+    "solutions": [
+      "word",
+      "powerpoint",
+      "docs",
+      "slides"
+    ],
+    "licenseStatuses": [
+      "trial",
+      "trial_grace_period"
+    ],
+    "info": {
+      "title": "You draw it, MathType converts it!",
+      "text": "Write math with the handwriting feature. Discover more <a class=\"underline\" target=\"_blank\" href=\"https://docs.wiris.com/mathtype/en/mathtype-integrations/mathtype-web-interface-features/handwritten-input.html\">here</a>!"
+    },
+    "image": {
+      "url": "https://assets.officetools.wiris.kitchen/gifs/DEFAULT_HANDWRITING_FEATURE.gif",
+      "altText": "Click on \"Go to handwritten mode\" button and handwrite your equation.",
+      "target": "https://docs.wiris.com/mathtype/en/mathtype-integrations/mathtype-web-interface-features/handwritten-input.html"
+    },
+    "alertType": "info",
+    "visualizations": 5,
+    "priority": 19
+  },
+  {
+    "id": "DEFAULT_HANDWRITING_FEATURE",
+    "lang": "es",
+    "products": [
+      "addin",
+      "addon"
+    ],
+    "solutions": [
+      "word",
+      "powerpoint",
+      "docs",
+      "slides"
+    ],
+    "licenseStatuses": [
+      "trial",
+      "trial_grace_period"
+    ],
+    "info": {
+      "title": "¡Tú lo dibujas, MathType lo convierte!",
+      "text": "Escribe ecuaciones matemáticas con el modo Handwriting. Descubre más <a class=\"underline\" target=\"_blank\" href=\"https://docs.wiris.com/mathtype/en/mathtype-integrations/mathtype-web-interface-features/handwritten-input.html\">aquí</a>!"
+    },
+    "image": {
+      "url": "https://assets.officetools.wiris.kitchen/gifs/DEFAULT_HANDWRITING_FEATURE.gif",
+      "altText": "Pulsa el botón \"Ir a modo manuscrito\" y escribe tu ecuación.",
+      "target": "https://docs.wiris.com/mathtype/en/mathtype-integrations/mathtype-web-interface-features/handwritten-input.html"
+    },
+    "alertType": "info",
+    "visualizations": 5,
+    "priority": 19
   }
 ]
