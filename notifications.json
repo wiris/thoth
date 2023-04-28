@@ -250,11 +250,12 @@
     ],
     "info": {
       "title": "You draw it, MathType converts it!",
-      "text": "Write math with the handwriting feature. Discover more <a target=\"_blank\" href=\"https://docs.wiris.com/mathtype/en/mathtype-integrations/mathtype-web-interface-features/handwritten-input.html\">here</a>!"
+      "text": "Write math with the handwriting feature. Discover more <a class=\"underline\" target=\"_blank\" href=\"https://docs.wiris.com/mathtype/en/mathtype-integrations/mathtype-web-interface-features/handwritten-input.html\">here</a>!"
     },
     "image": {
-      "url": "https://assets.officetools.wiris.kitchen/images/DEFAULT_HANDWRITING_FEATURE.png",
-      "altText": "Handwritten input example."
+      "url": "https://assets.officetools.wiris.kitchen/gifs/DEFAULT_HANDWRITING_FEATURE.gif",
+      "altText": "Click on \"Go to handwritten mode\" button and handwrite your equation.",
+      "target": "https://docs.wiris.com/mathtype/en/mathtype-integrations/mathtype-web-interface-features/handwritten-input.html"
     },
     "alertType": "info",
     "visualizations": 5,
@@ -279,11 +280,12 @@
     ],
     "info": {
       "title": "¡Tú lo dibujas, MathType lo convierte!",
-      "text": "Escribe ecuaciones matemáticas con el modo Handwriting. Descubre más <a target=\"_blank\" href=\"https://docs.wiris.com/mathtype/en/mathtype-integrations/mathtype-web-interface-features/handwritten-input.html\">aquí</a>!"
+      "text": "Escribe ecuaciones matemáticas con el modo Handwriting. Descubre más <a class=\"underline\" target=\"_blank\" href=\"https://docs.wiris.com/mathtype/en/mathtype-integrations/mathtype-web-interface-features/handwritten-input.html\">aquí</a>!"
     },
     "image": {
-      "url": "https://assets.officetools.wiris.kitchen/images/DEFAULT_HANDWRITING_FEATURE.png",
-      "altText": "Ejemplo del modo de inserción mediante dibujado manual."
+      "url": "https://assets.officetools.wiris.kitchen/gifs/DEFAULT_HANDWRITING_FEATURE.gif",
+      "altText": "Pulsa el botón \"Ir a modo manuscrito\" y escribe tu ecuación.",
+      "target": "https://docs.wiris.com/mathtype/en/mathtype-integrations/mathtype-web-interface-features/handwritten-input.html"
     },
     "alertType": "info",
     "visualizations": 5,
