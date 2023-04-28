@@ -20,7 +20,7 @@
     "image": {
       "url": "https://assets.officetools.wiris.kitchen/gifs/2023_03_MATHDAY.gif",
       "altText": "Click on the image to get the offer!",
-      "target": "https://store.wiris.com/en/individual/purchase/step1?code=MATH23DAY30FAI&utm_source=Product&utm_medium=MathTypeMS365&utm_campaign=Trial&utm_term=MathDay2023&utm_content=GET_OFFER_FANCY_M1&sf_campid=MATH23DAY30FAI"
+      "target": "https://store.wiris.com/en/individual/purchase/step1?code=MATH23DAY30FAI&utm_source=FancyNotification&utm_medium=MathTypeMS365&utm_campaign=Trial&utm_term=MathDay2023&utm_content=GET_OFFER_FANCY_M1&promo=MATH23DAY30FAI"
     },
     "alertType": "info",
     "visualizations": 5,
@@ -49,7 +49,7 @@
     "image": {
       "url": "https://assets.officetools.wiris.kitchen/gifs/2023_03_MATHDAY.gif",
       "altText": "Click on the image to get the offer!",
-      "target": "https://store.wiris.com/en/individual/purchase/step1?code=MATH23DAY30FAI&utm_source=Product&utm_medium=MathTypeMS365&utm_campaign=Trial&utm_term=MathDay2023&utm_content=GET_OFFER_FANCY_M1&sf_campid=MATH23DAY30FAI"
+      "target": "https://store.wiris.com/en/individual/purchase/step1?code=MATH23DAY30FAI&utm_source=FancyNotification&utm_medium=MathTypeMS365&utm_campaign=Trial&utm_term=MathDay2023&utm_content=GET_OFFER_FANCY_M1&promo=MATH23DAY30FAI"
     },
     "alertType": "info",
     "visualizations": 5,
@@ -78,7 +78,7 @@
     "image": {
       "url": "https://assets.officetools.wiris.kitchen/gifs/2023_03_MATHDAY.gif",
       "altText": "Click on the image to get the offer!",
-      "target": "https://store.wiris.com/en/individual/purchase/step1?code=MATH23DAY30FAO&utm_source=Product&utm_medium=MathTypeGoogle&utm_campaign=Trial&utm_term=MathDay2023&utm_content=GET_OFFER_FANCY_M1&sf_campid=MATH23DAY30FAO"
+      "target": "https://store.wiris.com/en/individual/purchase/step1?code=MATH23DAY30FAO&utm_source=FancyNotification&utm_medium=MathTypeGoogle&utm_campaign=Trial&utm_term=MathDay2023&utm_content=GET_OFFER_FANCY_M1&promo=MATH23DAY30FAO"
     },
     "alertType": "info",
     "visualizations": 5,
@@ -107,7 +107,7 @@
     "image": {
       "url": "https://assets.officetools.wiris.kitchen/gifs/2023_03_MATHDAY.gif",
       "altText": "Click on the image to get the offer!",
-      "target": "https://store.wiris.com/en/individual/purchase/step1?code=MATH23DAY30FAO&utm_source=Product&utm_medium=MathTypeGoogle&utm_campaign=Trial&utm_term=MathDay2023&utm_content=GET_OFFER_FANCY_M1&sf_campid=MATH23DAY30FAO"
+      "target": "https://store.wiris.com/en/individual/purchase/step1?code=MATH23DAY30FAO&utm_source=FancyNotification&utm_medium=MathTypeGoogle&utm_campaign=Trial&utm_term=MathDay2023&utm_content=GET_OFFER_FANCY_M1&promo=MATH23DAY30FAO"
     },
     "alertType": "info",
     "visualizations": 5,
@@ -136,13 +136,13 @@
     "image": {
       "url": "https://assets.officetools.wiris.kitchen/gifs/2023_03_MATHDAY.gif",
       "altText": "Click on the image to get the offer!",
-      "target": "https://store.wiris.com/en/individual/purchase/step1?code=MATH23DAY30FAI&utm_source=Product&utm_medium=MathTypeMS365&utm_campaign=Trial&utm_term=MathDay2023&utm_content=GET_OFFER_FANCY_M2&sf_campid=MATH23DAY30FAI"
+      "target": "https://store.wiris.com/en/individual/purchase/step1?code=MATH23DAY30FAI&utm_source=FancyNotification&utm_medium=MathTypeMS365&utm_campaign=Trial&utm_term=MathDay2023&utm_content=GET_OFFER_FANCY_M2&promo=MATH23DAY30FAI"
     },
     "alertType": "info",
     "visualizations": 5,
     "priority": 25,
     "startDate": "2023/03/21",
-    "endDate": "2023/03/21"
+    "endDate": "2023/03/22"
   },
   {
     "id": "2023_03_LAST_MATHDAY",
@@ -165,13 +165,13 @@
     "image": {
       "url": "https://assets.officetools.wiris.kitchen/gifs/2023_03_MATHDAY.gif",
       "altText": "Click on the image to get the offer!",
-      "target": "https://store.wiris.com/en/individual/purchase/step1?code=MATH23DAY30FAI&utm_source=Product&utm_medium=MathTypeMS365&utm_campaign=Trial&utm_term=MathDay2023&utm_content=GET_OFFER_FANCY_M2&sf_campid=MATH23DAY30FAI"
+      "target": "https://store.wiris.com/en/individual/purchase/step1?code=MATH23DAY30FAI&utm_source=FancyNotification&utm_medium=MathTypeMS365&utm_campaign=Trial&utm_term=MathDay2023&utm_content=GET_OFFER_FANCY_M2&promo=MATH23DAY30FAI"
     },
     "alertType": "info",
     "visualizations": 5,
     "priority": 25,
     "startDate": "2023/03/21",
-    "endDate": "2023/03/21"
+    "endDate": "2023/03/22"
   },
   {
     "id": "2023_03_LAST_MATHDAY",
@@ -194,13 +194,13 @@
     "image": {
       "url": "https://assets.officetools.wiris.kitchen/gifs/2023_03_MATHDAY.gif",
       "altText": "Click on the image to get the offer!",
-      "target": "https://store.wiris.com/en/individual/purchase/step1?code=MATH23DAY30FAO&utm_source=Product&utm_medium=MathTypeGoogle&utm_campaign=Trial&utm_term=MathDay2023&utm_content=GET_OFFER_FANCY_M2&sf_campid=MATH23DAY30FAO"
+      "target": "https://store.wiris.com/en/individual/purchase/step1?code=MATH23DAY30FAO&utm_source=FancyNotification&utm_medium=MathTypeGoogle&utm_campaign=Trial&utm_term=MathDay2023&utm_content=GET_OFFER_FANCY_M2&promo=MATH23DAY30FAO"
     },
     "alertType": "info",
     "visualizations": 5,
     "priority": 25,
     "startDate": "2023/03/21",
-    "endDate": "2023/03/21"
+    "endDate": "2023/03/22"
   },
   {
     "id": "2023_03_LAST_MATHDAY",
@@ -223,7 +223,7 @@
     "image": {
       "url": "https://assets.officetools.wiris.kitchen/gifs/2023_03_MATHDAY.gif",
       "altText": "Click on the image to get the offer!",
-      "target": "https://store.wiris.com/en/individual/purchase/step1?code=MATH23DAY30FAO&utm_source=Product&utm_medium=MathTypeGoogle&utm_campaign=Trial&utm_term=MathDay2023&utm_content=GET_OFFER_FANCY_M2&sf_campid=MATH23DAY30FAO"
+      "target": "https://store.wiris.com/en/individual/purchase/step1?code=MATH23DAY30FAO&utm_source=FancyNotification&utm_medium=MathTypeGoogle&utm_campaign=Trial&utm_term=MathDay2023&utm_content=GET_OFFER_FANCY_M2&promo=MATH23DAY30FAO"
     },
     "alertType": "info",
     "visualizations": 5,
