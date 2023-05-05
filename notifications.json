@@ -235,12 +235,36 @@
     "id": "DEFAULT_HANDWRITING_FEATURE",
     "lang": "en",
     "products": [
-      "addin",
-      "addon"
+      "addin"
     ],
     "solutions": [
       "word",
-      "powerpoint",
+      "powerpoint"
+    ],
+    "licenseStatuses": [
+      "trial",
+      "trial_grace_period"
+    ],
+    "info": {
+      "title": "You draw it, MathType converts it!",
+      "text": "Write math with the handwriting feature. Discover more <a class=\"underline\" target=\"_blank\" href=\"https://docs.wiris.com/mathtype/en/mathtype-integrations/mathtype-web-interface-features/handwritten-input.html?utm_source=fancynotification&utm_medium=mathtypems365&utm_campaign=trial&utm_content=handwritingdocumentation-addin\">here</a>!"
+    },
+    "image": {
+      "url": "https://assets.officetools.wiris.kitchen/gifs/DEFAULT_HANDWRITING_FEATURE.gif",
+      "altText": "Click on \"Go to handwritten mode\" button and handwrite your equation.",
+      "target": "https://docs.wiris.com/mathtype/en/mathtype-integrations/mathtype-web-interface-features/handwritten-input.html?utm_source=fancynotification&utm_medium=mathtypems365&utm_campaign=trial&utm_content=handwritingdocumentation-addin"
+    },
+    "alertType": "info",
+    "visualizations": 5,
+    "priority": 19
+  },
+  {
+    "id": "DEFAULT_HANDWRITING_FEATURE",
+    "lang": "en",
+    "products": [
+      "addon"
+    ],
+    "solutions": [
       "docs",
       "slides"
     ],
@@ -250,12 +274,12 @@
     ],
     "info": {
       "title": "You draw it, MathType converts it!",
-      "text": "Write math with the handwriting feature. Discover more <a class=\"underline\" target=\"_blank\" href=\"https://docs.wiris.com/mathtype/en/mathtype-integrations/mathtype-web-interface-features/handwritten-input.html\">here</a>!"
+      "text": "Write math with the handwriting feature. Discover more <a class=\"underline\" target=\"_blank\" href=\"https://docs.wiris.com/mathtype/en/mathtype-integrations/mathtype-web-interface-features/handwritten-input.html?utm_source=fancynotification&utm_medium=mathtypegoogle&utm_campaign=trial&utm_content=handwritingdocumentation-addon\">here</a>!"
     },
     "image": {
       "url": "https://assets.officetools.wiris.kitchen/gifs/DEFAULT_HANDWRITING_FEATURE.gif",
       "altText": "Click on \"Go to handwritten mode\" button and handwrite your equation.",
-      "target": "https://docs.wiris.com/mathtype/en/mathtype-integrations/mathtype-web-interface-features/handwritten-input.html"
+      "target": "https://docs.wiris.com/mathtype/en/mathtype-integrations/mathtype-web-interface-features/handwritten-input.html?utm_source=fancynotification&utm_medium=mathtypegoogle&utm_campaign=trial&utm_content=handwritingdocumentation-addon"
     },
     "alertType": "info",
     "visualizations": 5,
@@ -265,12 +289,36 @@
     "id": "DEFAULT_HANDWRITING_FEATURE",
     "lang": "es",
     "products": [
-      "addin",
-      "addon"
+      "addin"
     ],
     "solutions": [
       "word",
-      "powerpoint",
+      "powerpoint"
+    ],
+    "licenseStatuses": [
+      "trial",
+      "trial_grace_period"
+    ],
+    "info": {
+      "title": "¡Tú lo dibujas, MathType lo convierte!",
+      "text": "Escribe ecuaciones matemáticas con el modo Handwriting. Descubre más <a class=\"underline\" target=\"_blank\" href=\"https://docs.wiris.com/mathtype/en/mathtype-integrations/mathtype-web-interface-features/handwritten-input.html?utm_source=fancynotification&utm_medium=mathtypems365&utm_campaign=trial&utm_content=handwritingdocumentation-addin\">aquí</a>!"
+    },
+    "image": {
+      "url": "https://assets.officetools.wiris.kitchen/gifs/DEFAULT_HANDWRITING_FEATURE.gif",
+      "altText": "Pulsa el botón \"Ir a modo manuscrito\" y escribe tu ecuación.",
+      "target": "https://docs.wiris.com/mathtype/en/mathtype-integrations/mathtype-web-interface-features/handwritten-input.html?utm_source=fancynotification&utm_medium=mathtypems365&utm_campaign=trial&utm_content=handwritingdocumentation-addin"
+    },
+    "alertType": "info",
+    "visualizations": 5,
+    "priority": 19
+  },
+  {
+    "id": "DEFAULT_HANDWRITING_FEATURE",
+    "lang": "es",
+    "products": [
+      "addon"
+    ],
+    "solutions": [
       "docs",
       "slides"
     ],
@@ -280,12 +328,12 @@
     ],
     "info": {
       "title": "¡Tú lo dibujas, MathType lo convierte!",
-      "text": "Escribe ecuaciones matemáticas con el modo Handwriting. Descubre más <a class=\"underline\" target=\"_blank\" href=\"https://docs.wiris.com/mathtype/en/mathtype-integrations/mathtype-web-interface-features/handwritten-input.html\">aquí</a>!"
+      "text": "Escribe ecuaciones matemáticas con el modo Handwriting. Descubre más <a class=\"underline\" target=\"_blank\" href=\"https://docs.wiris.com/mathtype/en/mathtype-integrations/mathtype-web-interface-features/handwritten-input.html?utm_source=fancynotification&utm_medium=mathtypegoogle&utm_campaign=trial&utm_content=handwritingdocumentation-addon\">aquí</a>!"
     },
     "image": {
       "url": "https://assets.officetools.wiris.kitchen/gifs/DEFAULT_HANDWRITING_FEATURE.gif",
       "altText": "Pulsa el botón \"Ir a modo manuscrito\" y escribe tu ecuación.",
-      "target": "https://docs.wiris.com/mathtype/en/mathtype-integrations/mathtype-web-interface-features/handwritten-input.html"
+      "target": "https://docs.wiris.com/mathtype/en/mathtype-integrations/mathtype-web-interface-features/handwritten-input.html?utm_source=fancynotification&utm_medium=mathtypegoogle&utm_campaign=trial&utm_content=handwritingdocumentation-addon"
     },
     "alertType": "info",
     "visualizations": 5,
