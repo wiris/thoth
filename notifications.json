@@ -338,5 +338,28 @@
     "alertType": "info",
     "visualizations": 5,
     "priority": 19
+  },
+  {
+    "id": "CHINESE_TEST",
+    "lang": "zh",
+    "products": [
+      "addin"
+    ],
+    "solutions": [
+      "word",
+      "powerpoint"
+    ],
+    "info": {
+      "title": "你画它，MathType 转换它",
+      "text": "使用手写模式编写数学方程式。 发现更多<a class=\"underline\" target=\"_blank\" href=\"https://docs.wiris.com/mathtype/en/mathtype-integrations/mathtype-web-interface-features/handwritten- input.html?utm_source=fancynotification&utm_medium=mathtypegoogle&utm_campaign=trial&utm_content=handwritingdocumentation-addon\">这里</a>！"
+    },
+    "image": {
+      "url": "https://assets.officetools.wiris.kitchen/gifs/DEFAULT_HANDWRITING_FEATURE.gif",
+      "altText": "按“转到手写模式”按钮并写下您的等式。",
+      "target": "https://docs.wiris.com/mathtype/en/mathtype-integrations/mathtype-web-interface-features/handwritten-input.html?utm_source=fancynotification&utm_medium=mathtypegoogle&utm_campaign=trial&utm_content=handwritingdocumentation-addon"
+    },
+    "alertType": "info",
+    "visualizations": 500,
+    "priority": 1
   }
 ]
