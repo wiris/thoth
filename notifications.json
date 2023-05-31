@@ -349,6 +349,10 @@
       "word",
       "powerpoint"
     ],
+    "licenseStatuses": [
+      "trial",
+      "trial_grace_period"
+    ],
     "info": {
       "title": "你画它，MathType 转换它",
       "text": "使用手写模式编写数学方程式。 发现更多<a class=\"underline\" target=\"_blank\" href=\"https://docs.wiris.com/mathtype/en/mathtype-integrations/mathtype-web-interface-features/handwritten- input.html?utm_source=fancynotification&utm_medium=mathtypegoogle&utm_campaign=trial&utm_content=handwritingdocumentation-addon\">这里</a>！"
