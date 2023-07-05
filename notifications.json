@@ -338,5 +338,59 @@
     "alertType": "info",
     "visualizations": 5,
     "priority": 19
-  }
+  },
+    {
+      "id": "DEFAULT_HANDWRITING_FEATURE_CHINESE",
+      "lang": "zh",
+      "products": [
+        "addin"
+      ],
+      "solutions": [
+        "word",
+        "powerpoint"
+      ],
+      "licenseStatuses": [
+        "trial",
+        "trial_grace_period"
+      ],
+      "info": {
+        "title": "手写公式，MathType一键转换！",
+        "text": "使用手写功能，轻松输入数学公式。点击<strong><a href=\"https://docs.wiris.com/mathtype/zh/-en--mathtype-integrations/-en--mathtype-web-interface-features/%E6%89%8B%E5%86%99%E8%BE%93%E5%85%A5.html?utm_source=fancynotification&utm_medium=mathtypems365&utm_campaign=trial&utm_content=handwritingdocumentation-addin-chinese\">此处</a></strong>，探索更多信息。"
+      },
+      "image": {
+        "url": "https://assets.officetools.wiris.kitchen/gifs/DEFAULT_HANDWRITING_FEATURE.gif",
+        "altText": "点击“前往手写模式”按钮，开始书写您的数学公式。",
+        "target": "https://docs.wiris.com/mathtype/zh/-en--mathtype-integrations/-en--mathtype-web-interface-features/%E6%89%8B%E5%86%99%E8%BE%93%E5%85%A5.html?utm_source=fancynotification&utm_medium=mathtypems365&utm_campaign=trial&utm_content=handwritingdocumentation-addin-chinese"
+      },
+      "alertType": "info",
+      "visualizations": 5,
+      "priority": 1
+    },
+    {
+      "id": "DEFAULT_HANDWRITING_FEATURE_CHINESE",
+      "lang": "zh",
+      "products": [
+        "addon"
+      ],
+      "solutions": [
+        "docs",
+        "slides"
+      ],
+      "licenseStatuses": [
+        "trial",
+        "trial_grace_period"
+      ],
+      "info": {
+        "title": "手写公式，MathType一键转换！",
+        "text": "使用手写功能，轻松输入数学公式。点击<strong><a href=\"https://docs.wiris.com/mathtype/zh/-en--mathtype-integrations/-en--mathtype-web-interface-features/%E6%89%8B%E5%86%99%E8%BE%93%E5%85%A5.html?utm_source=fancynotification&utm_medium=mathtypegoogle&utm_campaign=trial&utm_content=handwritingdocumentation-addon-chinese\">此处</a></strong>，探索更多信息。"
+      },
+      "image": {
+        "url": "https://assets.officetools.wiris.kitchen/gifs/DEFAULT_HANDWRITING_FEATURE.gif",
+        "altText": "点击“前往手写模式”按钮，开始书写您的数学公式。",
+        "target": "https://docs.wiris.com/mathtype/zh/-en--mathtype-integrations/-en--mathtype-web-interface-features/%E6%89%8B%E5%86%99%E8%BE%93%E5%85%A5.html?utm_source=fancynotification&utm_medium=mathtypegoogle&utm_campaign=trial&utm_content=handwritingdocumentation-addon-chinese"
+      },
+      "alertType": "info",
+      "visualizations": 5,
+      "priority": 1
+    }
 ]
