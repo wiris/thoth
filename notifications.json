@@ -1,6 +1,6 @@
 [
   {
-    "id": "2023_03_MATHDAY",
+    "id": "BACK_TO_SCHOOL_ESSENTIALS",
     "lang": "en",
     "products": [
       "addin"
@@ -14,51 +14,22 @@
       "trial_grace_period"
     ],
     "info": {
-      "title": "30% off - Happy Math Day!",
-      "text": "Only valid for a week, until the 21st of March."
+      "title": "Back to School essential: MathType 30% off!",
+      "text": "Upgrade your math toolkit with MathType - 30% off until Sept. 14! Click here to get the offer."
     },
     "image": {
       "url": "https://assets.officetools.wiris.kitchen/gifs/2023_03_MATHDAY.gif",
       "altText": "Click on the image to get the offer!",
-      "target": "https://store.wiris.com/en/individual/purchase/step1?code=MATH23DAY30FAI&utm_source=FancyNotification&utm_medium=MathTypeMS365&utm_campaign=Trial&utm_term=MathDay2023&utm_content=GET_OFFER_FANCY_M1&promo=MATH23DAY30FAI"
+      "target": "https://store.wiris.com/en/individual/purchase/step1?code=BTS23FAI&utm_source=fancynotification&utm_medium=mathtypems365&utm_campaign=trial&utm_term=backtoschool2023&utm_content=getoffer&sf_campid=7015p000000oNumAAE"
     },
     "alertType": "info",
-    "visualizations": 5,
+    "visualizations": 999999,
     "priority": 25,
-    "startDate": "2023/03/14",
-    "endDate": "2023/03/20"
+    "startDate": "2023/08/17",
+    "endDate": "2023/09/14"
   },
   {
-    "id": "2023_03_MATHDAY",
-    "lang": "es",
-    "products": [
-      "addin"
-    ],
-    "solutions": [
-      "word",
-      "powerpoint"
-    ],
-    "licenseStatuses": [
-      "trial",
-      "trial_grace_period"
-    ],
-    "info": {
-      "title": "30% off - Happy Math Day!",
-      "text": "Only valid for a week, until the 21st of March."
-    },
-    "image": {
-      "url": "https://assets.officetools.wiris.kitchen/gifs/2023_03_MATHDAY.gif",
-      "altText": "Click on the image to get the offer!",
-      "target": "https://store.wiris.com/en/individual/purchase/step1?code=MATH23DAY30FAI&utm_source=FancyNotification&utm_medium=MathTypeMS365&utm_campaign=Trial&utm_term=MathDay2023&utm_content=GET_OFFER_FANCY_M1&promo=MATH23DAY30FAI"
-    },
-    "alertType": "info",
-    "visualizations": 5,
-    "priority": 25,
-    "startDate": "2023/03/14",
-    "endDate": "2023/03/20"
-  },
-  {
-    "id": "2023_03_MATHDAY",
+    "id": "BACK_TO_SCHOOL_ESSENTIALS",
     "lang": "en",
     "products": [
       "addon"
@@ -72,51 +43,22 @@
       "trial_grace_period"
     ],
     "info": {
-      "title": "30% off - Happy Math Day!",
-      "text": "Only valid for a week, until the 21st of March."
+      "title": "Back to School essential: MathType 30% off!",
+      "text": "Upgrade your math toolkit with MathType - 30% off until Sept. 14! Click here to get the offer."
     },
     "image": {
       "url": "https://assets.officetools.wiris.kitchen/gifs/2023_03_MATHDAY.gif",
       "altText": "Click on the image to get the offer!",
-      "target": "https://store.wiris.com/en/individual/purchase/step1?code=MATH23DAY30FAO&utm_source=FancyNotification&utm_medium=MathTypeGoogle&utm_campaign=Trial&utm_term=MathDay2023&utm_content=GET_OFFER_FANCY_M1&promo=MATH23DAY30FAO"
+      "target": "https://store.wiris.com/en/individual/purchase/step1?code=BTS23FAO&utm_source=fancynotification&utm_medium=mathtypegoogle&utm_campaign=trial&utm_term=backtoschool2023&utm_content=getoffer&sf_campid=7015p000000oNumAAE"
     },
     "alertType": "info",
-    "visualizations": 5,
+    "visualizations": 999999,
     "priority": 25,
-    "startDate": "2023/03/14",
-    "endDate": "2023/03/20"
+    "startDate": "2023/08/17",
+    "endDate": "2023/09/14"
   },
   {
-    "id": "2023_03_MATHDAY",
-    "lang": "es",
-    "products": [
-      "addon"
-    ],
-    "solutions": [
-      "docs",
-      "slides"
-    ],
-    "licenseStatuses": [
-      "trial",
-      "trial_grace_period"
-    ],
-    "info": {
-      "title": "30% off - Happy Math Day!",
-      "text": "Only valid for a week, until the 21st of March."
-    },
-    "image": {
-      "url": "https://assets.officetools.wiris.kitchen/gifs/2023_03_MATHDAY.gif",
-      "altText": "Click on the image to get the offer!",
-      "target": "https://store.wiris.com/en/individual/purchase/step1?code=MATH23DAY30FAO&utm_source=FancyNotification&utm_medium=MathTypeGoogle&utm_campaign=Trial&utm_term=MathDay2023&utm_content=GET_OFFER_FANCY_M1&promo=MATH23DAY30FAO"
-    },
-    "alertType": "info",
-    "visualizations": 5,
-    "priority": 25,
-    "startDate": "2023/03/14",
-    "endDate": "2023/03/20"
-  },
-  {
-    "id": "2023_03_LAST_MATHDAY",
+    "id": "BACK_TO_SCHOOL_ESSENTIALS",
     "lang": "en",
     "products": [
       "addin"
@@ -130,51 +72,22 @@
       "trial_grace_period"
     ],
     "info": {
-      "title": "30% off - Happy Math Day!",
-      "text": "Final day to enjoy your discount on MathType for Office Tools."
+      "title": "Last day, 30% off! Back to School essential",
+      "text": "Hurry! Last chance to enjoy a 30% discount on MathType for Office Tools. Click here to get the offer!"
     },
     "image": {
       "url": "https://assets.officetools.wiris.kitchen/gifs/2023_03_MATHDAY.gif",
       "altText": "Click on the image to get the offer!",
-      "target": "https://store.wiris.com/en/individual/purchase/step1?code=MATH23DAY30FAI&utm_source=FancyNotification&utm_medium=MathTypeMS365&utm_campaign=Trial&utm_term=MathDay2023&utm_content=GET_OFFER_FANCY_M2&promo=MATH23DAY30FAI"
+      "target": "https://store.wiris.com/en/individual/purchase/step1?code=BTS23FAI&utm_source=fancynotification&utm_medium=mathtypems365&utm_campaign=trial&utm_term=backtoschool2023&utm_content=getoffer&sf_campid=7015p000000oNumAAE"
     },
     "alertType": "info",
     "visualizations": 5,
-    "priority": 25,
-    "startDate": "2023/03/21",
-    "endDate": "2023/03/22"
+    "priority": 26,
+    "startDate": "2023/09/14",
+    "endDate": "2023/09/15"
   },
   {
-    "id": "2023_03_LAST_MATHDAY",
-    "lang": "es",
-    "products": [
-      "addin"
-    ],
-    "solutions": [
-      "word",
-      "powerpoint"
-    ],
-    "licenseStatuses": [
-      "trial",
-      "trial_grace_period"
-    ],
-    "info": {
-      "title": "30% off - Happy Math Day!",
-      "text": "Final day to enjoy your discount on MathType for Office Tools."
-    },
-    "image": {
-      "url": "https://assets.officetools.wiris.kitchen/gifs/2023_03_MATHDAY.gif",
-      "altText": "Click on the image to get the offer!",
-      "target": "https://store.wiris.com/en/individual/purchase/step1?code=MATH23DAY30FAI&utm_source=FancyNotification&utm_medium=MathTypeMS365&utm_campaign=Trial&utm_term=MathDay2023&utm_content=GET_OFFER_FANCY_M2&promo=MATH23DAY30FAI"
-    },
-    "alertType": "info",
-    "visualizations": 5,
-    "priority": 25,
-    "startDate": "2023/03/21",
-    "endDate": "2023/03/22"
-  },
-  {
-    "id": "2023_03_LAST_MATHDAY",
+    "id": "BACK_TO_SCHOOL_ESSENTIALS",
     "lang": "en",
     "products": [
       "addon"
@@ -188,20 +101,19 @@
       "trial_grace_period"
     ],
     "info": {
-      "title": "30% off - Happy Math Day!",
-      "text": "Final day to enjoy your discount on MathType for Office Tools."
+      "title": "Last day, 30% off! Back to School essential",
+      "text": "Hurry! Last chance to enjoy a 30% discount on MathType for Office Tools. Click here to get the offer!"
     },
     "image": {
       "url": "https://assets.officetools.wiris.kitchen/gifs/2023_03_MATHDAY.gif",
       "altText": "Click on the image to get the offer!",
-      "target": "https://store.wiris.com/en/individual/purchase/step1?code=MATH23DAY30FAO&utm_source=FancyNotification&utm_medium=MathTypeGoogle&utm_campaign=Trial&utm_term=MathDay2023&utm_content=GET_OFFER_FANCY_M2&promo=MATH23DAY30FAO"
+      "target": "https://store.wiris.com/en/individual/purchase/step1?code=BTS23FAO&utm_source=fancynotification&utm_medium=mathtypegoogle&utm_campaign=trial&utm_term=backtoschool2023&utm_content=getoffer&sf_campid=7015p000000oNumAAE"
     },
     "alertType": "info",
     "visualizations": 5,
-    "priority": 25,
-    "startDate": "2023/03/21",
-    "endDate": "2023/03/22"
-  },
+    "priority": 26,
+    "startDate": "2023/09/14",
+    "endDate": "2023/09/15"
   },
   {
     "id": "DEFAULT_HANDWRITING_FEATURE",
