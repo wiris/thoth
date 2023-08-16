@@ -18,7 +18,7 @@
       "text": "Upgrade your math toolkit with MathType - 30% off until Sept. 14! Click here to get the offer."
     },
     "image": {
-      "url": "https://assets.officetools.wiris.kitchen/gifs/2023_03_MATHDAY.gif",
+      "url": "https://assets.officetools.wiris.kitchen/gifs/Back_To_School_2023.gif",
       "altText": "Click on the image to get the offer!",
       "target": "https://store.wiris.com/en/individual/purchase/step1?code=BTS23FAI&utm_source=fancynotification&utm_medium=mathtypems365&utm_campaign=trial&utm_term=backtoschool2023&utm_content=getoffer&sf_campid=7015p000000oNumAAE"
     },
@@ -47,7 +47,7 @@
       "text": "Upgrade your math toolkit with MathType - 30% off until Sept. 14! Click here to get the offer."
     },
     "image": {
-      "url": "https://assets.officetools.wiris.kitchen/gifs/2023_03_MATHDAY.gif",
+      "url": "https://assets.officetools.wiris.kitchen/gifs/Back_To_School_2023.gif",
       "altText": "Click on the image to get the offer!",
       "target": "https://store.wiris.com/en/individual/purchase/step1?code=BTS23FAO&utm_source=fancynotification&utm_medium=mathtypegoogle&utm_campaign=trial&utm_term=backtoschool2023&utm_content=getoffer&sf_campid=7015p000000oNumAAE"
     },
@@ -76,7 +76,7 @@
       "text": "Hurry! Last chance to enjoy a 30% discount on MathType for Office Tools. Click here to get the offer!"
     },
     "image": {
-      "url": "https://assets.officetools.wiris.kitchen/gifs/2023_03_MATHDAY.gif",
+      "url": "https://assets.officetools.wiris.kitchen/gifs/Back_To_School_2023.gif",
       "altText": "Click on the image to get the offer!",
       "target": "https://store.wiris.com/en/individual/purchase/step1?code=BTS23FAI&utm_source=fancynotification&utm_medium=mathtypems365&utm_campaign=trial&utm_term=backtoschool2023&utm_content=getoffer&sf_campid=7015p000000oNumAAE"
     },
@@ -105,7 +105,123 @@
       "text": "Hurry! Last chance to enjoy a 30% discount on MathType for Office Tools. Click here to get the offer!"
     },
     "image": {
-      "url": "https://assets.officetools.wiris.kitchen/gifs/2023_03_MATHDAY.gif",
+      "url": "https://assets.officetools.wiris.kitchen/gifs/Back_To_School_2023.gif",
+      "altText": "Click on the image to get the offer!",
+      "target": "https://store.wiris.com/en/individual/purchase/step1?code=BTS23FAO&utm_source=fancynotification&utm_medium=mathtypegoogle&utm_campaign=trial&utm_term=backtoschool2023&utm_content=getoffer&sf_campid=7015p000000oNumAAE"
+    },
+    "alertType": "info",
+    "visualizations": 5,
+    "priority": 26,
+    "startDate": "2023/09/14",
+    "endDate": "2023/09/15"
+  },
+  {
+    "id": "BACK_TO_SCHOOL_ESSENTIALS",
+    "lang": "es",
+    "products": [
+      "addin"
+    ],
+    "solutions": [
+      "word",
+      "powerpoint"
+    ],
+    "licenseStatuses": [
+      "trial",
+      "trial_grace_period"
+    ],
+    "info": {
+      "title": "Back to School essential: MathType 30% off!",
+      "text": "Upgrade your math toolkit with MathType - 30% off until Sept. 14! Click here to get the offer."
+    },
+    "image": {
+      "url": "https://assets.officetools.wiris.kitchen/gifs/Back_To_School_2023.gif",
+      "altText": "Click on the image to get the offer!",
+      "target": "https://store.wiris.com/en/individual/purchase/step1?code=BTS23FAI&utm_source=fancynotification&utm_medium=mathtypems365&utm_campaign=trial&utm_term=backtoschool2023&utm_content=getoffer&sf_campid=7015p000000oNumAAE"
+    },
+    "alertType": "info",
+    "visualizations": 999999,
+    "priority": 25,
+    "startDate": "2023/08/17",
+    "endDate": "2023/09/14"
+  },
+  {
+    "id": "BACK_TO_SCHOOL_ESSENTIALS",
+    "lang": "es",
+    "products": [
+      "addon"
+    ],
+    "solutions": [
+      "docs",
+      "slides"
+    ],
+    "licenseStatuses": [
+      "trial",
+      "trial_grace_period"
+    ],
+    "info": {
+      "title": "Back to School essential: MathType 30% off!",
+      "text": "Upgrade your math toolkit with MathType - 30% off until Sept. 14! Click here to get the offer."
+    },
+    "image": {
+      "url": "https://assets.officetools.wiris.kitchen/gifs/Back_To_School_2023.gif",
+      "altText": "Click on the image to get the offer!",
+      "target": "https://store.wiris.com/en/individual/purchase/step1?code=BTS23FAO&utm_source=fancynotification&utm_medium=mathtypegoogle&utm_campaign=trial&utm_term=backtoschool2023&utm_content=getoffer&sf_campid=7015p000000oNumAAE"
+    },
+    "alertType": "info",
+    "visualizations": 999999,
+    "priority": 25,
+    "startDate": "2023/08/17",
+    "endDate": "2023/09/14"
+  },
+  {
+    "id": "BACK_TO_SCHOOL_ESSENTIALS",
+    "lang": "es",
+    "products": [
+      "addin"
+    ],
+    "solutions": [
+      "word",
+      "powerpoint"
+    ],
+    "licenseStatuses": [
+      "trial",
+      "trial_grace_period"
+    ],
+    "info": {
+      "title": "Last day, 30% off! Back to School essential",
+      "text": "Hurry! Last chance to enjoy a 30% discount on MathType for Office Tools. Click here to get the offer!"
+    },
+    "image": {
+      "url": "https://assets.officetools.wiris.kitchen/gifs/Back_To_School_2023.gif",
+      "altText": "Click on the image to get the offer!",
+      "target": "https://store.wiris.com/en/individual/purchase/step1?code=BTS23FAI&utm_source=fancynotification&utm_medium=mathtypems365&utm_campaign=trial&utm_term=backtoschool2023&utm_content=getoffer&sf_campid=7015p000000oNumAAE"
+    },
+    "alertType": "info",
+    "visualizations": 5,
+    "priority": 26,
+    "startDate": "2023/09/14",
+    "endDate": "2023/09/15"
+  },
+  {
+    "id": "BACK_TO_SCHOOL_ESSENTIALS",
+    "lang": "es",
+    "products": [
+      "addon"
+    ],
+    "solutions": [
+      "docs",
+      "slides"
+    ],
+    "licenseStatuses": [
+      "trial",
+      "trial_grace_period"
+    ],
+    "info": {
+      "title": "Last day, 30% off! Back to School essential",
+      "text": "Hurry! Last chance to enjoy a 30% discount on MathType for Office Tools. Click here to get the offer!"
+    },
+    "image": {
+      "url": "https://assets.officetools.wiris.kitchen/gifs/Back_To_School_2023.gif",
       "altText": "Click on the image to get the offer!",
       "target": "https://store.wiris.com/en/individual/purchase/step1?code=BTS23FAO&utm_source=fancynotification&utm_medium=mathtypegoogle&utm_campaign=trial&utm_term=backtoschool2023&utm_content=getoffer&sf_campid=7015p000000oNumAAE"
     },
