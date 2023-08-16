@@ -49,7 +49,9 @@ The message needs to be in `notifications.json` file and to be like the next exa
 }
 ```
 
-Notice that ID groups notifications for the same event, so if you want to show a notification for the same event in different languages, you need to create a notification for each language with the same ID. The ID is created by you, it's not in the product code either in a database, it's just in the notification file and handled by the client side.
+Notice that ID groups notifications for the same event but different targets (products, languages, etc).
+
+Request to upload images to `https://assets.officetools.wiris.kitchen/` ([#devops-support](https://wiris.slack.com/archives/C011031UNQL)) if you don't have credentials. At least until there is another way to do it.
 
 ## Who's to Blame
 
