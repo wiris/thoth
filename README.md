@@ -2,13 +2,18 @@
 
 __Thoth__ is a GitHub repository engineered as a `plain text files` provider, hence working as a service that allows your application to read plain text files' raw content (meaning they __can not__ contain any logic) just by accessing their URL in the platform.
 
+This project follows [Herodotos version 211105.1](https://github.com/wiris/herodotos/releases/tag/211105.1). Use the [documentation entrypoint](docs/README.md) to find out about this project.
+
+## Fancy notifications
+
 The main use case for this repository is to allow any product to show content that is likely to be changed over time without the hassle of neither changing the code that consumes it, nor compiling/deploying it.
 
 > Use case example:
 >
 > Marketing department needs to change a commercial message before seasonal sales. Instead of hardcoding those messages into your UI, compiling the project (if that's the case) and deploying it every time that message needs to be changed, you can simply add a message in Thoth and read it from your application on demand. To update that commercial message, just change the file notifications in Thoth and you are done.
 
-The message needs to be like the next example, you can find more information on which options you can use [here](https://docs.google.com/document/d/1cD0_p7EVUUNZ9MV1OK_Clpz4MrSBAhgiUQ5KyxR8aFY/edit#heading=h.d9wiqduhppkm): 
+The message needs to be in `notifications.json` file and to be like the next example, you can find more information on which options you can use [here](https://docs.google.com/document/d/1cD0_p7EVUUNZ9MV1OK_Clpz4MrSBAhgiUQ5KyxR8aFY/edit#heading=h.d9wiqduhppkm):
+
 ```json
 {
   "id": "BLACK_FRIDAY_2022",
@@ -44,7 +49,9 @@ The message needs to be like the next example, you can find more information on 
 }
 ```
 
-This project follows [Herodotos version 211105.1](https://github.com/wiris/herodotos/releases/tag/211105.1). Use the [documentation entrypoint](docs/README.md) to find out about this project.
+Notice that ID groups notifications for the same event but different targets (products, languages, etc).
+
+Request to upload images to `https://assets.officetools.wiris.kitchen/` ([#devops-support](https://wiris.slack.com/archives/C011031UNQL)) if you don't have credentials. At least until there is another way to do it.
 
 ## Who's to Blame
 
