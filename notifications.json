@@ -58,7 +58,7 @@
     "endDate": "2023/09/14"
   },
   {
-    "id": "BACK_TO_SCHOOL_ESSENTIALS",
+    "id": "BACK_TO_SCHOOL_ESSENTIALS_LAST_DAY",
     "lang": "en",
     "products": [
       "addin"
@@ -87,7 +87,7 @@
     "endDate": "2023/09/15"
   },
   {
-    "id": "BACK_TO_SCHOOL_ESSENTIALS",
+    "id": "BACK_TO_SCHOOL_ESSENTIALS_LAST_DAY",
     "lang": "en",
     "products": [
       "addon"
@@ -174,7 +174,7 @@
     "endDate": "2023/09/14"
   },
   {
-    "id": "BACK_TO_SCHOOL_ESSENTIALS",
+    "id": "BACK_TO_SCHOOL_ESSENTIALS_LAST_DAY",
     "lang": "es",
     "products": [
       "addin"
@@ -203,7 +203,7 @@
     "endDate": "2023/09/15"
   },
   {
-    "id": "BACK_TO_SCHOOL_ESSENTIALS",
+    "id": "BACK_TO_SCHOOL_ESSENTIALS_LAST_DAY",
     "lang": "es",
     "products": [
       "addon"
