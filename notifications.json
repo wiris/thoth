@@ -84,7 +84,7 @@
     "visualizations": 5,
     "priority": 26,
     "startDate": "2023/09/14",
-    "endDate": "2023/09/15"
+    "endDate": "2023/09/15 09:00"
   },
   {
     "id": "BACK_TO_SCHOOL_ESSENTIALS_LAST_DAY",
@@ -113,7 +113,7 @@
     "visualizations": 5,
     "priority": 26,
     "startDate": "2023/09/14",
-    "endDate": "2023/09/15"
+    "endDate": "2023/09/15 09:00"
   },
   {
     "id": "BACK_TO_SCHOOL_ESSENTIALS",
@@ -200,7 +200,7 @@
     "visualizations": 5,
     "priority": 26,
     "startDate": "2023/09/14",
-    "endDate": "2023/09/15"
+    "endDate": "2023/09/15 09:00"
   },
   {
     "id": "BACK_TO_SCHOOL_ESSENTIALS_LAST_DAY",
@@ -229,7 +229,7 @@
     "visualizations": 5,
     "priority": 26,
     "startDate": "2023/09/14",
-    "endDate": "2023/09/15"
+    "endDate": "2023/09/15 09:00"
   },
   {
     "id": "DEFAULT_HANDWRITING_FEATURE",
