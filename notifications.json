@@ -392,5 +392,117 @@
     "alertType": "info",
     "visualizations": 5,
     "priority": 1
+  },
+  {
+    "id": "LEARNING_LEMUR_BETA",
+    "lang": "en",
+    "products": [
+      "addon"
+    ],
+    "solutions": [
+      "docs",
+      "slides"
+    ],
+    "licenseStatuses": [
+      "trial",
+      "trial_grace_period"
+    ],
+    "info": {
+      "title": "Join the math revolution in Google Classroom!",
+      "text": "Learning Lemur Beta is here! Create unique math quizzes for your students with our new open platform. Start creating!"
+    },
+    "image": {
+      "url": "https://assets.officetools.wiris.kitchen/gifs/LEARNING_LEMUR_BETA.jpg",
+      "altText": "Learning Lemur Beta testing.",
+      "target": "https://learning-lemur.com/?utm_source=fancynotification&utm_medium=mathtypegoogle&utm_campaign=trial&utm_term=betalearninglemur&utm_content=startcreating&sf_campid=7015p000000iOM8AAM"
+    },
+    "alertType": "info",
+    "visualizations": 3,
+    "priority": 1,
+    "startDate": "2023/11/07 00:00"
+  },
+  {
+    "id": "LEARNING_LEMUR_BETA",
+    "lang": "en",
+    "products": [
+      "addon"
+    ],
+    "solutions": [
+      "docs",
+      "slides"
+    ],
+    "licenseStatuses": [
+      "subscription",
+      "subscription_grace_period"
+    ],
+    "info": {
+      "title": "Join the math revolution in Google Classroom!",
+      "text": "Learning Lemur Beta is here! Create unique math quizzes for your students with our new open platform. Start creating!"
+    },
+    "image": {
+      "url": "https://assets.officetools.wiris.kitchen/gifs/LEARNING_LEMUR_BETA.jpg",
+      "altText": "Learning Lemur Beta testing.",
+      "target": "https://learning-lemur.com/?utm_source=fancynotification&utm_medium=mathtypegoogle&utm_campaign=licensed&utm_term=betalearninglemur&utm_content=startcreating&sf_campid=7015p000000iOM8AAM"
+    },
+    "alertType": "info",
+    "visualizations": 3,
+    "priority": 1,
+    "startDate": "2023/11/07 00:00"
+  },
+  {
+    "id": "LEARNING_LEMUR_BETA",
+    "lang": "es",
+    "products": [
+      "addon"
+    ],
+    "solutions": [
+      "docs",
+      "slides"
+    ],
+    "licenseStatuses": [
+      "trial",
+      "trial_grace_period"
+    ],
+    "info": {
+      "title": "¡Únete a la revolución matemática en Google Classroom!",
+      "text": "¡Learning Lemur Beta ya está aquí! Crea preguntas de matemáticas únicas para tus alumnos con nuestra nueva plataforma abierta. ¡Empieza a crear!"
+    },
+    "image": {
+      "url": "https://assets.officetools.wiris.kitchen/gifs/LEARNING_LEMUR_BETA.jpg",
+      "altText": "Learning Lemur Beta testing.",
+      "target": "https://learning-lemur.com/?utm_source=fancynotification&utm_medium=mathtypegoogle&utm_campaign=trial&utm_term=betalearninglemur&utm_content=startcreating&sf_campid=7015p000000iOM8AAM"
+    },
+    "alertType": "info",
+    "visualizations": 3,
+    "priority": 1,
+    "startDate": "2023/11/07 00:00"
+  },
+  {
+    "id": "LEARNING_LEMUR_BETA",
+    "lang": "es",
+    "products": [
+      "addon"
+    ],
+    "solutions": [
+      "docs",
+      "slides"
+    ],
+    "licenseStatuses": [
+      "subscription",
+      "subscription_grace_period"
+    ],
+    "info": {
+      "title": "¡Únete a la revolución matemática en Google Classroom!",
+      "text": "¡Learning Lemur Beta ya está aquí! Crea preguntas de matemáticas únicas para tus alumnos con nuestra nueva plataforma abierta. ¡Empieza a crear!"
+    },
+    "image": {
+      "url": "https://assets.officetools.wiris.kitchen/gifs/LEARNING_LEMUR_BETA.jpg",
+      "altText": "Learning Lemur Beta testing.",
+      "target": "https://learning-lemur.com/?utm_source=fancynotification&utm_medium=mathtypegoogle&utm_campaign=licensed&utm_term=betalearninglemur&utm_content=startcreating&sf_campid=7015p000000iOM8AAM"
+    },
+    "alertType": "info",
+    "visualizations": 3,
+    "priority": 1,
+    "startDate": "2023/11/07 00:00"
   }
 ]
