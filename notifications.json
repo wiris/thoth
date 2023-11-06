@@ -419,7 +419,7 @@
     "alertType": "info",
     "visualizations": 3,
     "priority": 1,
-    "startDate": "2023/11/07 00:00"
+    "startDate": "2023/11/07 09:00"
   },
   {
     "id": "LEARNING_LEMUR_BETA",
@@ -447,7 +447,7 @@
     "alertType": "info",
     "visualizations": 3,
     "priority": 1,
-    "startDate": "2023/11/07 00:00"
+    "startDate": "2023/11/07 09:00"
   },
   {
     "id": "LEARNING_LEMUR_BETA",
@@ -475,7 +475,7 @@
     "alertType": "info",
     "visualizations": 3,
     "priority": 1,
-    "startDate": "2023/11/07 00:00"
+    "startDate": "2023/11/07 09:00"
   },
   {
     "id": "LEARNING_LEMUR_BETA",
@@ -503,6 +503,6 @@
     "alertType": "info",
     "visualizations": 3,
     "priority": 1,
-    "startDate": "2023/11/07 00:00"
+    "startDate": "2023/11/07 09:00"
   }
 ]
