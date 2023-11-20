@@ -341,7 +341,7 @@
   },
   {
     "id": "DEFAULT_HANDWRITING_FEATURE_CHINESE",
-    "lang": "zh",
+    "lang": "en",
     "products": [
       "addin"
     ],
