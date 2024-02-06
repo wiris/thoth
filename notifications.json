@@ -414,7 +414,7 @@
     "image": {
       "url": "https://assets.officetools.wiris.kitchen/gifs/LEARNING_LEMUR_BETA.jpg",
       "altText": "Learning Lemur Beta testing.",
-      "target": "https://learning-lemur.com/?utm_source=fancynotification&utm_medium=mathtypegoogle&utm_campaign=trial&utm_term=betalearninglemur&utm_content=startcreating&sf_campid=7015p000000iOM8AAM"
+      "target": "https://learninglemur.com?utm_source=fancynotification&utm_medium=mathtypegoogle&utm_campaign=trial&utm_term=betalearninglemur&utm_content=startcreating&sf_campid=7015p000000iOM8AAM"
     },
     "alertType": "info",
     "visualizations": 3,
@@ -442,7 +442,7 @@
     "image": {
       "url": "https://assets.officetools.wiris.kitchen/gifs/LEARNING_LEMUR_BETA.jpg",
       "altText": "Learning Lemur Beta testing.",
-      "target": "https://learning-lemur.com/?utm_source=fancynotification&utm_medium=mathtypegoogle&utm_campaign=licensed&utm_term=betalearninglemur&utm_content=startcreating&sf_campid=7015p000000iOM8AAM"
+      "target": "https://learninglemur.com?utm_source=fancynotification&utm_medium=mathtypegoogle&utm_campaign=licensed&utm_term=betalearninglemur&utm_content=startcreating&sf_campid=7015p000000iOM8AAM"
     },
     "alertType": "info",
     "visualizations": 3,
@@ -470,7 +470,7 @@
     "image": {
       "url": "https://assets.officetools.wiris.kitchen/icons/LEARNING_LEMUR_BETA_ES.jpg",
       "altText": "Learning Lemur Beta testing.",
-      "target": "https://learning-lemur.com/?utm_source=fancynotification&utm_medium=mathtypegoogle&utm_campaign=trial&utm_term=betalearninglemur&utm_content=startcreating&sf_campid=7015p000000iOM8AAM"
+      "target": "https://learninglemur.com?utm_source=fancynotification&utm_medium=mathtypegoogle&utm_campaign=trial&utm_term=betalearninglemur&utm_content=startcreating&sf_campid=7015p000000iOM8AAM"
     },
     "alertType": "info",
     "visualizations": 3,
@@ -498,7 +498,7 @@
     "image": {
       "url": "https://assets.officetools.wiris.kitchen/icons/LEARNING_LEMUR_BETA_ES.jpg",
       "altText": "Learning Lemur Beta testing.",
-      "target": "https://learning-lemur.com/?utm_source=fancynotification&utm_medium=mathtypegoogle&utm_campaign=licensed&utm_term=betalearninglemur&utm_content=startcreating&sf_campid=7015p000000iOM8AAM"
+      "target": "https://learninglemur.com?utm_source=fancynotification&utm_medium=mathtypegoogle&utm_campaign=licensed&utm_term=betalearninglemur&utm_content=startcreating&sf_campid=7015p000000iOM8AAM"
     },
     "alertType": "info",
     "visualizations": 3,
