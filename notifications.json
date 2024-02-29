@@ -2,8 +2,11 @@
   {
     "id": "MATHTYPE_FOR_XML_EDITORS",
     "lang": "en",
-    "products": [
+    "solutions": [
       "mtfxe"
+    ],
+    "products": [
+      "desktop"
     ],
     "licenseStatuses": [
       "trial",
