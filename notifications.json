@@ -1,5 +1,25 @@
 [
   {
+    "id": "MATHTYPE_FOR_XML_EDITORS",
+    "lang": "en",
+    "products": [
+      "mtfxe"
+    ],
+    "licenseStatuses": [
+      "trial",
+      "trial_grace_period"
+    ],
+    "info": {
+      "title": "New solution for you!",
+      "text": "MathType for XML Editors is out!."
+    },
+    "alertType": "info",
+    "visualizations": 5,
+    "priority": 25,
+    "startDate": "2023/03/14",
+    "endDate": "2025/03/20"
+  },
+  {
     "id": "2023_03_MATHDAY",
     "lang": "en",
     "products": [
