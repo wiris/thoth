@@ -1,3 +1,3 @@
 /#
- # WirisQuizzes 4.7.0 ist jetzt mit Verbesserungen der Benutzeroberfläche und Fehlerbehebungen verfügbar!
+ # WirisQuizzes 4.11 ist da! Führen Sie jetzt ein Upgrade durch, um die neuen grafischen Antwortfunktionen, eine verbesserte Leistung und mehr Fehlerkorrekturen zu genießen!
  #/
