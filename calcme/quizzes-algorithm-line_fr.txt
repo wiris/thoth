@@ -1,3 +1,3 @@
 /#
- # WirisQuizzes 4.11 est sorti ! Mettez à niveau maintenant pour profiter des nouvelles fonctionnalités de réponse graphique, de performances améliorées et de plus de corrections d'erreurs !
- #/
+# WirisQuizzes 4.11 est disponible ! Mettez-le à jour maintenant pour profiter des nouvelles fonctionnalités graphiques des réponses, de l'amélioration des performances et de la correction de nombreux bugs !
+#/
