@@ -364,7 +364,7 @@
     },
     "alertType": "info",
     "visualizations": 5,
-    "priority": 1
+    "priority": 19
   },
   {
     "id": "DEFAULT_HANDWRITING_FEATURE_CHINESE",
@@ -391,7 +391,7 @@
     },
     "alertType": "info",
     "visualizations": 5,
-    "priority": 1
+    "priority": 19
   },
   {
     "id": "LEARNING_LEMUR_BETA",
@@ -418,7 +418,7 @@
     },
     "alertType": "info",
     "visualizations": 3,
-    "priority": 1,
+    "priority": 19,
     "startDate": "2023/11/07 09:00"
   },
   {
@@ -446,7 +446,7 @@
     },
     "alertType": "info",
     "visualizations": 3,
-    "priority": 1,
+    "priority": 19,
     "startDate": "2023/11/07 09:00"
   },
   {
@@ -474,7 +474,7 @@
     },
     "alertType": "info",
     "visualizations": 3,
-    "priority": 1,
+    "priority": 19,
     "startDate": "2023/11/07 09:00"
   },
   {
@@ -502,7 +502,295 @@
     },
     "alertType": "info",
     "visualizations": 3,
-    "priority": 1,
+    "priority": 19,
     "startDate": "2023/11/07 09:00"
-  }
+  },
+  {
+    "id": "EQUATION_EDITOR_PAINS_2024",
+    "lang": "en",
+    "products": [
+      "addin"
+    ],
+    "solutions": [
+      "word",
+      "powerpoint"
+    ],
+    "licenseStatuses": [
+      "trial",
+      "trial_grace_period"
+    ],
+    "info": {
+      "title": "Your feedback is valuable to us!",
+      "text": "Please answer this <a target=\"_blank\" href=\"https://wirisscience.typeform.com/to/Y6gxiyMP\">1-minute survey</a>"
+    },
+    "alertType": "info",
+    "visualizations": 5,
+    "priority": 1,
+    "startDate": "2024/06/01",
+    "endData": "2024/07/01"
+  },
+  {
+    "id": "EQUATION_EDITOR_PAINS_2024",
+    "lang": "en",
+    "products": [
+      "addin"
+    ],
+    "solutions": [
+      "word",
+      "powerpoint"
+    ],
+    "licenseStatuses": [
+      "subscription",
+      "subscription_grace_period"
+    ],
+    "info": {
+      "title": "Your feedback is valuable to us!",
+      "text": "Please answer this <a target=\"_blank\" href=\"https://wirisscience.typeform.com/to/bIVbP9mj\">1-minute survey</a>"
+    },
+    "alertType": "info",
+    "visualizations": 5,
+    "priority": 1,
+    "startDate": "2024/06/01",
+    "endData": "2024/07/01"
+  },
+  {
+    "id": "EQUATION_EDITOR_PAINS_2024",
+    "lang": "zh",
+    "products": [
+      "addin"
+    ],
+    "solutions": [
+      "word",
+      "powerpoint"
+    ],
+    "licenseStatuses": [
+      "trial",
+      "trial_grace_period"
+    ],
+    "info": {
+      "title": "您的反馈对我们十分宝贵！",
+      "text": "请您抽出 1 分钟时间填写<a target=\"_blank\" href=\"https://wirisscience.typeform.com/to/pPXv1m66\">此份问卷调查</a>"
+    },
+    "alertType": "info",
+    "visualizations": 5,
+    "priority": 1,
+    "startDate": "2024/06/01",
+    "endData": "2024/07/01"
+  },
+  {
+    "id": "EQUATION_EDITOR_PAINS_2024",
+    "lang": "zh",
+    "products": [
+      "addin"
+    ],
+    "solutions": [
+      "word",
+      "powerpoint"
+    ],
+    "licenseStatuses": [
+      "subscription",
+      "subscription_grace_period"
+    ],
+    "info": {
+      "title": "您的反馈对我们十分宝贵！",
+      "text": "请您抽出 1 分钟时间填写<a target=\"_blank\" href=\"https://wirisscience.typeform.com/to/WjP4Yccc\">此份问卷调查</a>"
+    },
+    "alertType": "info",
+    "visualizations": 5,
+    "priority": 1,
+    "startDate": "2024/06/01",
+    "endData": "2024/07/01"
+  },
+  {
+      "id": "EQUATION_EDITOR_PAINS_2024",
+      "lang": "en",
+      "products": [
+        "addon"
+      ],
+      "solutions": [
+        "docs",
+        "slides"
+      ],
+      "licenseStatuses": [
+        "trial",
+        "trial_grace_period"
+      ],
+      "info": {
+        "title": "Your feedback is valuable to us!",
+        "text": "Please answer this <a target=\"_blank\" href=\"https://wirisscience.typeform.com/to/ieeRuhKE\">1-minute survey</a>"
+      },
+      "alertType": "info",
+      "visualizations": 5,
+      "priority": 1,
+      "startDate": "2024/06/01",
+      "endData": "2024/07/01"
+    },
+    {
+      "id": "EQUATION_EDITOR_PAINS_2024",
+      "lang": "en",
+      "products": [
+        "addon"
+      ],
+      "solutions": [
+        "docs",
+        "slides"
+      ],
+      "licenseStatuses": [
+        "subscription",
+        "subscription_grace_period"
+      ],
+      "info": {
+        "title": "Your feedback is valuable to us!",
+        "text": "Please answer this <a target=\"_blank\" href=\"https://wirisscience.typeform.com/to/FRaJe2Xp\">1-minute survey</a>"
+      },
+      "alertType": "info",
+      "visualizations": 5,
+      "priority": 1,
+      "startDate": "2024/06/01",
+      "endData": "2024/07/01"
+    },
+    {
+      "id": "EQUATION_EDITOR_PAINS_2024",
+      "lang": "zh",
+      "products": [
+        "addon"
+      ],
+      "solutions": [
+        "docs",
+        "slides"
+      ],
+      "licenseStatuses": [
+        "trial",
+        "trial_grace_period"
+      ],
+      "info": {
+        "title": "您的反馈对我们十分宝贵！",
+        "text": "请您抽出 1 分钟时间填写<a target=\"_blank\" href=\"https://wirisscience.typeform.com/to/eQvqraxw\">此份问卷调查</a>"
+      },
+      "alertType": "info",
+      "visualizations": 5,
+      "priority": 1,
+      "startDate": "2024/06/01",
+      "endData": "2024/07/01"
+    },
+    {
+      "id": "EQUATION_EDITOR_PAINS_2024",
+      "lang": "zh",
+      "products": [
+        "addon"
+      ],
+      "solutions": [
+        "docs",
+        "slides"
+      ],
+      "licenseStatuses": [
+        "subscription",
+        "subscription_grace_period"
+      ],
+      "info": {
+        "title": "您的反馈对我们十分宝贵！",
+        "text": "请您抽出 1 分钟时间填写<a target=\"_blank\" href=\"https://wirisscience.typeform.com/to/IdB6jRqe\">此份问卷调查</a>"
+      },
+      "alertType": "info",
+      "visualizations": 5,
+      "priority": 1,
+      "startDate": "2024/06/01",
+      "endData": "2024/07/01"
+    },
+    {
+      "id": "EQUATION_EDITOR_PAINS_2024",
+      "lang": "es",
+      "products": [
+        "addin"
+      ],
+      "solutions": [
+        "word",
+        "powerpoint"
+      ],
+      "licenseStatuses": [
+        "trial",
+        "trial_grace_period"
+      ],
+      "info": {
+        "title": "Your feedback is valuable to us!",
+        "text": "Please answer this <a target=\"_blank\" href=\"https://wirisscience.typeform.com/to/Y6gxiyMP\">1-minute survey</a>"
+      },
+      "alertType": "info",
+      "visualizations": 5,
+      "priority": 1,
+      "startDate": "2024/06/01",
+      "endData": "2024/07/01"
+    },
+    {
+      "id": "EQUATION_EDITOR_PAINS_2024",
+      "lang": "es",
+      "products": [
+        "addin"
+      ],
+      "solutions": [
+        "word",
+        "powerpoint"
+      ],
+      "licenseStatuses": [
+        "subscription",
+        "subscription_grace_period"
+      ],
+      "info": {
+        "title": "Your feedback is valuable to us!",
+        "text": "Please answer this <a target=\"_blank\" href=\"https://wirisscience.typeform.com/to/bIVbP9mj\">1-minute survey</a>"
+      },
+      "alertType": "info",
+      "visualizations": 5,
+      "priority": 1,
+      "startDate": "2024/06/01",
+      "endData": "2024/07/01"
+    },
+    {
+      "id": "EQUATION_EDITOR_PAINS_2024",
+      "lang": "es",
+      "products": [
+        "addon"
+      ],
+      "solutions": [
+        "docs",
+        "slides"
+      ],
+      "licenseStatuses": [
+        "trial",
+        "trial_grace_period"
+      ],
+      "info": {
+        "title": "Your feedback is valuable to us!",
+        "text": "Please answer this <a target=\"_blank\" href=\"https://wirisscience.typeform.com/to/ieeRuhKE\">1-minute survey</a>"
+      },
+      "alertType": "info",
+      "visualizations": 5,
+      "priority": 1,
+      "startDate": "2024/06/01",
+      "endData": "2024/07/01"
+    },
+    {
+      "id": "EQUATION_EDITOR_PAINS_2024",
+      "lang": "es",
+      "products": [
+        "addon"
+      ],
+      "solutions": [
+        "docs",
+        "slides"
+      ],
+      "licenseStatuses": [
+        "subscription",
+        "subscription_grace_period"
+      ],
+      "info": {
+        "title": "Your feedback is valuable to us!",
+        "text": "Please answer this <a target=\"_blank\" href=\"https://wirisscience.typeform.com/to/FRaJe2Xp\">1-minute survey</a>"
+      },
+      "alertType": "info",
+      "visualizations": 5,
+      "priority": 1,
+      "startDate": "2024/06/01",
+      "endData": "2024/07/01"
+    }
 ]
