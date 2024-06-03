@@ -341,7 +341,7 @@
   },
   {
     "id": "DEFAULT_HANDWRITING_FEATURE_CHINESE",
-    "lang": "zh",
+    "lang": "zh_HANS",
     "products": [
       "addin"
     ],
@@ -368,7 +368,7 @@
   },
   {
     "id": "DEFAULT_HANDWRITING_FEATURE_CHINESE",
-    "lang": "zh",
+    "lang": "zh_HANS",
     "products": [
       "addon"
     ],
@@ -555,7 +555,7 @@
   },
   {
     "id": "EQUATION_EDITOR_PAINS_2024",
-    "lang": "zh",
+    "lang": "zh_HANS",
     "products": [
       "addin"
     ],
@@ -579,7 +579,7 @@
   },
   {
     "id": "EQUATION_EDITOR_PAINS_2024",
-    "lang": "zh",
+    "lang": "zh_HANS",
     "products": [
       "addin"
     ],
@@ -651,7 +651,7 @@
     },
     {
       "id": "EQUATION_EDITOR_PAINS_2024",
-      "lang": "zh",
+      "lang": "zh_HANS",
       "products": [
         "addon"
       ],
@@ -675,7 +675,7 @@
     },
     {
       "id": "EQUATION_EDITOR_PAINS_2024",
-      "lang": "zh",
+      "lang": "zh_HANS",
       "products": [
         "addon"
       ],
