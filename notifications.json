@@ -10,7 +10,9 @@
     ],
     "licenseStatuses": [
       "trial",
-      "trial_grace_period"
+      "trial_grace_period",
+      "subscription",
+      "subscription_grace_period"
     ],
     "info": {
       "title": "New solution for you!",
@@ -21,7 +23,7 @@
     "priority": 25,
     "startDate": "2023/03/14",
     "endDate": "2025/03/20",
-    "dismissible": true,
+    "dismissible": true
   },
   {
     "id": "2023_03_MATHDAY",
