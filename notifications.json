@@ -20,7 +20,8 @@
     "visualizations": 5,
     "priority": 25,
     "startDate": "2023/03/14",
-    "endDate": "2025/03/20"
+    "endDate": "2025/03/20",
+    "dismissible": true,
   },
   {
     "id": "2023_03_MATHDAY",
