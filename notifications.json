@@ -21,8 +21,8 @@
     "alertType": "info",
     "visualizations": 5,
     "priority": 25,
-    "dismissible": true,
-    "closable": true
+    "dismissible": false,
+    "closable": false
   },
   {
     "id": "2023_03_MATHDAY",
