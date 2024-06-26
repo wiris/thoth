@@ -24,7 +24,7 @@
     "startDate": "2023/03/14",
     "endDate": "2025/03/20",
     "dismissible": true,
-    "closable": true,
+    "closable": true
   },
   {
     "id": "2023_03_MATHDAY",
