@@ -1,6 +1,6 @@
 [
   {
-    "id": "MATHTYPE_FOR_XML_EDITORS",
+    "id": "MATHTYPE_FOR_XML_EDITORS_NEW_RELEASE",
     "lang": "en",
     "solutions": [
       "mtfxe"
@@ -8,21 +8,13 @@
     "products": [
       "desktop"
     ],
-    "licenseStatuses": [
-      "trial",
-      "trial_grace_period",
-      "subscription",
-      "subscription_grace_period"
-    ],
     "info": {
-      "title": "New solution for you!",
-      "text": "MathType for XML Editors is out!."
+      "title": "Information for Oxygen XML Author users.",
+      "text": "If you used have previously used “MathType for Oxygen XML Author”, you need to reconfigure the External Application - Command Line  setting in Oxygen XML Author. Please follow the instructions below to use MathType for XML Editors in Oxygen XML Author."
     },
     "alertType": "info",
     "visualizations": 5,
     "priority": 25,
-    "startDate": "2023/03/14",
-    "endDate": "2025/03/20",
     "dismissible": true,
     "closable": true
   },
