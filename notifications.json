@@ -20,7 +20,7 @@
     },
     "alertType": "info",
     "visualizations": 5,
-    "priority": 25,
+    "priority": 75,
     "dismissible": true,
     "closable": false
   },
