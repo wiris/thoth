@@ -44,8 +44,6 @@
       "alertType": "success",
       "visualizations": 35,
       "priority": 50,
-      "dismissible": false,
-      "closable": false,  
       "testExpectedResult": "Notification contains a gif."
     },
     {
