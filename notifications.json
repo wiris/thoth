@@ -45,8 +45,6 @@
       "visualizations": 35,
       "priority": 50,
       "testExpectedResult": "Notification contains a gif."
-      "closable": true
-
     },
     {
       "id": "NOTIFICATION TEST: GIF es",
