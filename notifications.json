@@ -44,7 +44,7 @@
       "alertType": "success",
       "visualizations": 35,
       "priority": 50,
-      "testExpectedResult": "Notification contains a gif.",
+      "testExpectedResult": "Notification contains a gif."
     },
     {
       "id": "NOTIFICATION TEST: GIF es",
