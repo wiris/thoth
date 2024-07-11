@@ -16,7 +16,7 @@
     ],
     "info": {
       "title": "Information for Oxygen XML Author users",
-      "text": "If you used have previously used “MathType for Oxygen XML Author”, you need to reconfigure the External Application - Command Line  setting in Oxygen XML Author. Please follow the instructions below to use MathType for XML Editors in Oxygen XML Author."
+      "text": "If you have used previously used “MathType for Oxygen XML Author”, you need to reconfigure the External Application - Command Line  setting in Oxygen XML Author. Please follow the instructions below to use MathType for XML Editors in Oxygen XML Author."
     },
     "alertType": "info",
     "visualizations": 5,
@@ -44,7 +44,8 @@
       "alertType": "success",
       "visualizations": 35,
       "priority": 50,
-      "testExpectedResult": "Notification contains a gif."
+      "testExpectedResult": "Notification contains a gif.",
+      "closable": true
     },
     {
       "id": "NOTIFICATION TEST: GIF es",
