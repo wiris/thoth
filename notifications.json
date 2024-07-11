@@ -22,7 +22,7 @@
     "visualizations": 5,
     "priority": 75,
     "dismissible": true,
-    "closable": true
+    "closable": false
   },
     {
       "id": "NOTIFICATION TEST: GIF en",
@@ -45,7 +45,7 @@
       "visualizations": 35,
       "priority": 50,
       "dismissible": false,
-      "closable": true
+      "closable": false
   
       "testExpectedResult": "Notification contains a gif."
     },
