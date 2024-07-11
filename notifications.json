@@ -22,7 +22,7 @@
     "visualizations": 5,
     "priority": 75,
     "dismissible": true,
-    "closable": false
+    "closable": true
   },
     {
       "id": "NOTIFICATION TEST: GIF en",
