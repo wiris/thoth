@@ -15,7 +15,7 @@
       "subscription_grace_period"
     ],
     "info": {
-      "title": "12. Information for Oxygen XML Author users",
+      "title": "45. Information for Oxygen XML Author users",
       "text": "If you have used previously used “MathType for Oxygen XML Author”, you need to reconfigure the External Application - Command Line  setting in Oxygen XML Author. Please follow the instructions below to use MathType for XML Editors in Oxygen XML Author."
     },
     "alertType": "info",
@@ -32,7 +32,7 @@
       "licenseStatuses": ["trial", "trial_grace_period", "trial_expired", "subscription", "subscription_expired", "unlicensed"],
   
       "info": {
-        "title": "NOTIFICATION TEST",
+        "title": "45. NOTIFICATION TEST",
         "text": "A gif should be displayed in the notification."
       },
   
