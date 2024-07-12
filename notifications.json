@@ -45,7 +45,7 @@
       "visualizations": 35,
       "priority": 50,
       "testExpectedResult": "Notification contains a gif.",
-        "dismissible": true,
+        "dismissible": false,
     "closable": true
     },
     {
