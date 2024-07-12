@@ -15,7 +15,7 @@
       "subscription_grace_period"
     ],
     "info": {
-      "title": "11. Information for Oxygen XML Author users",
+      "title": "38. Information for Oxygen XML Author users",
       "text": "If you have used previously used “MathType for Oxygen XML Author”, you need to reconfigure the External Application - Command Line  setting in Oxygen XML Author. Please follow the instructions below to use MathType for XML Editors in Oxygen XML Author."
     },
     "alertType": "info",
