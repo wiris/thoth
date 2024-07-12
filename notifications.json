@@ -20,7 +20,7 @@
     },
     "alertType": "info",
     "visualizations": 5,
-    "priority": 75,
+    "priority": 75
   },
     {
       "id": "NOTIFICATION TEST: GIF en",
@@ -42,7 +42,7 @@
       "alertType": "success",
       "visualizations": 35,
       "priority": 50,
-      "testExpectedResult": "Notification contains a gif.",
+      "testExpectedResult": "Notification contains a gif."
     },
     {
       "id": "NOTIFICATION TEST: GIF es",
