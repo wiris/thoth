@@ -21,6 +21,7 @@
     "alertType": "info",
     "visualizations": 5,
     "priority": 75,
+        "dismissible": true,
     "closable": true
   },
     {
@@ -44,6 +45,7 @@
       "visualizations": 35,
       "priority": 50,
       "testExpectedResult": "Notification contains a gif.",
+         "dismissible": false,
       "closable": false
     },
     {
