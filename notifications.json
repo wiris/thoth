@@ -21,8 +21,8 @@
     "alertType": "info",
     "visualizations": 50,
     "priority": 75,
-        "dismissible": false,
-        "closable": false
+        "dismissible": true,
+        "closable": true
   },
     {
       "id": "NOTIFICATION TEST: GIF en",
@@ -46,7 +46,7 @@
       "priority": 50,
       "testExpectedResult": "Notification contains a gif.",
         "dismissible": false,
-        "closable": false
+        "closable": true
     },
     {
       "id": "NOTIFICATION TEST: GIF es",
