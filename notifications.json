@@ -15,14 +15,12 @@
       "subscription_grace_period"
     ],
     "info": {
-      "title": "45. Information for Oxygen XML Author users",
+      "title": "Information for Oxygen XML Author users",
       "text": "If you have used previously used “MathType for Oxygen XML Author”, you need to reconfigure the External Application - Command Line  setting in Oxygen XML Author. Please follow the instructions below to use MathType for XML Editors in Oxygen XML Author."
     },
     "alertType": "info",
     "visualizations": 5,
-    "priority": 75,
-        "dismissible": true,
-    "closable": true
+    "priority": 75
   },
     {
       "id": "NOTIFICATION TEST: GIF en",
@@ -32,7 +30,7 @@
       "licenseStatuses": ["trial", "trial_grace_period", "trial_expired", "subscription", "subscription_expired", "unlicensed"],
   
       "info": {
-        "title": "45. NOTIFICATION TEST",
+        "title": "NOTIFICATION TEST",
         "text": "A gif should be displayed in the notification."
       },
   
@@ -44,9 +42,7 @@
       "alertType": "success",
       "visualizations": 35,
       "priority": 50,
-      "testExpectedResult": "Notification contains a gif.",
-         "dismissible": false,
-      "closable": false
+      "testExpectedResult": "Notification contains a gif."
     },
     {
       "id": "NOTIFICATION TEST: GIF es",
