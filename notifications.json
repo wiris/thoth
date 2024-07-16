@@ -36,7 +36,7 @@
         "text": "This notification is a test.<strong><a target=\"_blank\" href=\"https://docs.wiris.com\">Link Strong</a></strong><i><a target=\"_blank\" href=\"https://docs.wiris.com\">Link Italic</a></i><strong><i>Strong and Italic</strong></i> <em>Maybe this is italic</em> <u>And maybe this is underlined</u>"
       },
       "startDate": "2024/07/14",
-      "endData": "2024/07/15",
+      "endDate": "2024/07/15",
       "alertType": "error",
       "visualizations": 13,
       "priority": 76,
