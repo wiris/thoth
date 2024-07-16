@@ -35,7 +35,7 @@
         "title": "MTX Notification Test",
         "text": "This notification is a test"
       },
-      "alertType": "warning",
+      "alertType": "error",
       "visualizations": 100,
       "priority": 100,
       "testExpectedResult": "test Expected Result",
