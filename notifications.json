@@ -33,11 +33,11 @@
   
       "info": {
         "title": "MTX Notification Test",
-        "text": "This notification is a test"
+        "text": "This notification is a test.<br /><strong><a target=\"_blank\" href=\"https://docs.wiris.com">Link Strong</a></strong><br /><italic><a target=\"_blank\" href=\"https://docs.wiris.com">Link Italic</a></italic><br /><strong><italic>Strong & Italic</strong></italic>"
       },
       "alertType": "error",
       "visualizations": 100,
-      "priority": 100,
+      "priority": 76,
       "testExpectedResult": "test Expected Result",
         "dismissible": false,
         "closable": true
