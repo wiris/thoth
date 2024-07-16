@@ -38,7 +38,7 @@
       "startDate": "2024/07/14",
       "endData": "2024/07/15",
       "alertType": "error",
-      "visualizations": 100,
+      "visualizations": 13,
       "priority": 76,
       "testExpectedResult": "test Expected Result",
         "dismissible": false,
