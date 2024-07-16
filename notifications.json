@@ -33,7 +33,7 @@
   
       "info": {
         "title": "MTX Notification Test",
-        "text": "This notification is a test.<br /><strong><a target=\"_blank\" href=\"https://docs.wiris.com">Link Strong</a></strong><br /><italic><a target=\"_blank\" href=\"https://docs.wiris.com">Link Italic</a></italic><br /><strong><italic>Strong & Italic</strong></italic>"
+        "text": "This notification is a test.<strong><a target=\"_blank\" href=\"https://docs.wiris.com">Link Strong</a></strong><italic><a target=\"_blank\" href=\"https://docs.wiris.com">Link Italic</a></italic><strong><italic>Strong & Italic</strong></italic>"
       },
       "alertType": "error",
       "visualizations": 100,
