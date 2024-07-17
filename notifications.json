@@ -19,7 +19,7 @@
       "text": "If you have used previously used “MathType for Oxygen XML Author”, you need to reconfigure the External Application - Command Line  setting in Oxygen XML Author. Please follow the instructions below to use MathType for XML Editors in Oxygen XML Author."
     },
     "alertType": "info",
-    "visualizations": 50,
+    "visualizations": 45,
     "priority": 75,
         "dismissible": true,
         "closable": true
@@ -36,9 +36,9 @@
         "text": "This notification is a test.<strong><a target=\"_blank\" href=\"https://docs.wiris.com\">Link Strong</a></strong><i><a target=\"_blank\" href=\"https://docs.wiris.com\">Link Italic</a></i><strong><i>Strong and Italic</strong></i> <em>Maybe this is italic</em> <u>And maybe this is underlined</u>"
       },
       "startDate": "2024/07/14",
-      "endDate": "2024/07/18",
+      "endDate": "2024/07/16",
       "alertType": "error",
-      "visualizations": 5,
+      "visualizations": 25,
       "priority": 76,
       "testExpectedResult": "test Expected Result",
         "dismissible": false,
