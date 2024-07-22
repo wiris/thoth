@@ -25,23 +25,60 @@
         "closable": true
   },
     {
-      "id": "TEST MTX",
+      "id": "TEST MTX trial",
       "lang": "en",
       "products": ["desktop"],
       "solutions": ["mtfxe"],
-      "licenseStatuses": ["trial", "trial_grace_period", "trial_expired", "subscription", "subscription_expired", "unlicensed"],
+      "licenseStatuses": ["trial"],
   
       "info": {
-        "title": "MTX Notification Test",
-        "text": "This notification is a test.<strong><a target=\"_blank\" href=\"https://docs.wiris.com\">Link Strong</a></strong><i><a target=\"_blank\" href=\"https://docs.wiris.com\">Link Italic</a></i><strong><i>Strong and Italic</strong></i> <em>Maybe this is italic</em> <u>And maybe this is underlined</u>"
+        "title": "[TRIAL] MTX Notification Test",
+        "text": "Test notification by license status"
       },
-      "alertType": "error",
+      "alertType": "info",
       "visualizations": 25,
       "priority": 76,
       "testExpectedResult": "test Expected Result",
         "dismissible": false,
         "closable": true
     },
+    {
+      "id": "TEST MTX trial_grace_period",
+      "lang": "en",
+      "products": ["desktop"],
+      "solutions": ["mtfxe"],
+      "licenseStatuses": ["trial_grace_period"],
+  
+      "info": {
+        "title": "[trial_grace_period] MTX Notification Test",
+        "text": "Test notification by license status"
+      },
+      "alertType": "info",
+      "visualizations": 25,
+      "priority": 76,
+      "testExpectedResult": "test Expected Result",
+        "dismissible": false,
+        "closable": true
+    },
+    {
+      "id": "TEST MTX subscription",
+      "lang": "en",
+      "products": ["desktop"],
+      "solutions": ["mtfxe"],
+      "licenseStatuses": ["subscription"],
+  
+      "info": {
+        "title": "[subscription] MTX Notification Test",
+        "text": "Test notification by license status"
+      },
+      "alertType": "info",
+      "visualizations": 25,
+      "priority": 76,
+      "testExpectedResult": "test Expected Result",
+        "dismissible": false,
+        "closable": true
+    },
+    
     {
       "id": "NOTIFICATION TEST: GIF en",
       "lang": "en",
