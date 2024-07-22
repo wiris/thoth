@@ -78,6 +78,24 @@
         "dismissible": false,
         "closable": true
     },
+        {
+      "id": "TEST MTX subscription_grace_period",
+      "lang": "en",
+      "products": ["desktop"],
+      "solutions": ["mtfxe"],
+      "licenseStatuses": ["subscription_grace_period"],
+  
+      "info": {
+        "title": "[subscription_grace_period] MTX Notification Test",
+        "text": "Test notification by license status"
+      },
+      "alertType": "info",
+      "visualizations": 25,
+      "priority": 76,
+      "testExpectedResult": "test Expected Result",
+        "dismissible": false,
+        "closable": true
+    },
     
     {
       "id": "NOTIFICATION TEST: GIF en",
