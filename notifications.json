@@ -1,5 +1,5 @@
 [
-    {
+  {
     "id": "MATHTYPE_FOR_XML_EDITORS_NEW_RELEASE",
     "lang": "en",
     "solutions": [
@@ -21,606 +21,439 @@
     "alertType": "info",
     "visualizations": 45,
     "priority": 75,
-        "dismissible": true,
-        "closable": true
+    "dismissible": true,
+    "closable": true
   },
-    {
-      "id": "TEST MTX",
-      "lang": "en",
-      "products": ["desktop"],
-      "solutions": ["mtfxe"],
-      "licenseStatuses": [
+  {
+    "id": "TEST MTX",
+    "lang": "en",
+    "products": [
+      "desktop"
+    ],
+    "solutions": [
+      "mtfxe"
+    ],
+    "licenseStatuses": [
       "trial",
       "trial_grace_period",
       "subscription",
       "subscription_grace_period"
     ],
-  
-      "info": {
-        "title": "[TRIAL] MTX Notification Test",
-        "text": "Test notification by license status"
-      },
-      "alertType": "error",
-      "visualizations": 25,
-      "priority": 78,
-      "testExpectedResult": "test Expected Result",
-        "dismissible": false,
-        "closable": true
+    "info": {
+      "title": "[TRIAL] MTX Notification Test",
+      "text": "Test notification by license status"
     },
-    {
-      "id": "TEST MTX trial",
-      "lang": "en",
-      "products": ["desktop"],
-      "solutions": ["mtfxe"],
-      "licenseStatuses": ["trial"],
-  
-      "info": {
-        "title": "[TRIAL] MTX Notification Test",
-        "text": "Test notification by license status"
-      },
-      "alertType": "info",
-      "visualizations": 25,
-      "priority": 77,
-      "testExpectedResult": "test Expected Result",
-        "dismissible": false,
-        "closable": true
+    "alertType": "error",
+    "visualizations": 25,
+    "priority": 78,
+    "testExpectedResult": "test Expected Result",
+    "dismissible": false,
+    "closable": true
+  },
+  {
+    "id": "TEST MTX trial",
+    "lang": "en",
+    "products": [
+      "desktop"
+    ],
+    "solutions": [
+      "mtfxe"
+    ],
+    "licenseStatuses": [
+      "trial"
+    ],
+    "info": {
+      "title": "[TRIAL] MTX Notification Test",
+      "text": "Test notification by license status"
     },
-    {
-      "id": "TEST MTX trial_grace_period",
-      "lang": "en",
-      "products": ["desktop"],
-      "solutions": ["mtfxe"],
-      "licenseStatuses": ["trial_grace_period"],
-  
-      "info": {
-        "title": "[trial_grace_period] MTX Notification Test",
-        "text": "Test notification by license status"
-      },
-      "alertType": "info",
-      "visualizations": 25,
-      "priority": 76,
-      "testExpectedResult": "test Expected Result",
-        "dismissible": false,
-        "closable": true
+    "alertType": "info",
+    "visualizations": 25,
+    "priority": 77,
+    "testExpectedResult": "test Expected Result",
+    "dismissible": false,
+    "closable": true
+  },
+  {
+    "id": "TEST MTX trial_grace_period",
+    "lang": "en",
+    "products": [
+      "desktop"
+    ],
+    "solutions": [
+      "mtfxe"
+    ],
+    "licenseStatuses": [
+      "trial_grace_period"
+    ],
+    "info": {
+      "title": "[trial_grace_period] MTX Notification Test",
+      "text": "Test notification by license status"
     },
-    {
-      "id": "TEST MTX subscription",
-      "lang": "en",
-      "products": ["desktop"],
-      "solutions": ["mtfxe"],
-      "licenseStatuses": ["subscription"],
-  
-      "info": {
-        "title": "[subscription] MTX Notification Test",
-        "text": "Test notification by license status"
-      },
-      "alertType": "info",
-      "visualizations": 25,
-      "priority": 77,
-      "testExpectedResult": "test Expected Result",
-        "dismissible": false,
-        "closable": true
+    "alertType": "info",
+    "visualizations": 25,
+    "priority": 76,
+    "testExpectedResult": "test Expected Result",
+    "dismissible": false,
+    "closable": true
+  },
+  {
+    "id": "TEST MTX subscription",
+    "lang": "en",
+    "products": [
+      "desktop"
+    ],
+    "solutions": [
+      "mtfxe"
+    ],
+    "licenseStatuses": [
+      "subscription"
+    ],
+    "info": {
+      "title": "[subscription] MTX Notification Test",
+      "text": "Test notification by license status"
     },
-        {
-      "id": "TEST MTX subscription_grace_period",
-      "lang": "en",
-      "products": ["desktop"],
-      "solutions": ["mtfxe"],
-      "licenseStatuses": ["subscription_grace_period"],
-  
-      "info": {
-        "title": "[subscription_grace_period] MTX Notification Test",
-        "text": "Test notification by license status"
-      },
-      "alertType": "info",
-      "visualizations": 25,
-      "priority": 76,
-      "testExpectedResult": "test Expected Result",
-        "dismissible": false,
-        "closable": true
+    "alertType": "info",
+    "visualizations": 25,
+    "priority": 77,
+    "testExpectedResult": "test Expected Result",
+    "dismissible": false,
+    "closable": true
+  },
+  {
+    "id": "TEST MTX subscription_grace_period",
+    "lang": "en",
+    "products": [
+      "desktop"
+    ],
+    "solutions": [
+      "mtfxe"
+    ],
+    "licenseStatuses": [
+      "subscription_grace_period"
+    ],
+    "info": {
+      "title": "[subscription_grace_period] MTX Notification Test",
+      "text": "Test notification by license status"
     },
-    
-    {
-      "id": "NOTIFICATION TEST: GIF en",
-      "lang": "en",
-      "products": ["addin", "addon", "desktop"],
-      "solutions": ["word", "powerpoint", "docs", "slides", "mtfxe"],
-      "licenseStatuses": ["trial", "trial_grace_period", "trial_expired", "subscription", "subscription_expired", "unlicensed"],
-  
-      "info": {
-        "title": "NOTIFICATION TEST",
-        "text": "A gif should be displayed in the notification."
-      },
-  
-      "image": {
-          "url":"https://docs.wiris.com/calcme/es/image/uuid-48dbcf09-19a7-bc10-a246-839cab6fc9cd.gif",
-          "altText": "Wiris logo."
-      },
-      
-      "alertType": "success",
-      "visualizations": 35,
-      "priority": 50,
-      "testExpectedResult": "Notification contains a gif.",
-        "dismissible": false,
-        "closable": true
+    "alertType": "info",
+    "visualizations": 25,
+    "priority": 76,
+    "testExpectedResult": "test Expected Result",
+    "dismissible": false,
+    "closable": true
+  },
+  {
+    "id": "NOTIFICATION TEST: GIF en",
+    "lang": "en",
+    "products": [
+      "addin",
+      "addon",
+      "desktop"
+    ],
+    "solutions": [
+      "word",
+      "powerpoint",
+      "docs",
+      "slides",
+      "mtfxe"
+    ],
+    "licenseStatuses": [
+      "trial",
+      "trial_grace_period",
+      "trial_expired",
+      "subscription",
+      "subscription_expired",
+      "unlicensed"
+    ],
+    "info": {
+      "title": "NOTIFICATION TEST",
+      "text": "A gif should be displayed in the notification."
     },
-    {
-      "id": "NOTIFICATION TEST: GIF es",
-      "lang": "es",
-      "products": ["addin", "addon", "desktop"],
-      "solutions": ["word", "powerpoint", "docs", "slides", "mtfxe"],
-      "licenseStatuses": ["trial", "trial_grace_period", "trial_expired", "subscription", "subscription_expired", "unlicensed"],
-    
-      "info": {
-        "title": "NOTIFICATION TEST",
-        "text": "Un gif debería aparecer en la notificación"
-      },
-  
-      "image": {
-          "url":"https://docs.wiris.com/calcme/es/image/uuid-48dbcf09-19a7-bc10-a246-839cab6fc9cd.gif",
-          "altText": "Wiris logo."
-      },
-      
-      "alertType": "success",
-      "visualizations": 35,
-      "priority": 50,
-  
-      "testExpectedResult": "Notification contains a gif."
+    "image": {
+      "url": "https://docs.wiris.com/calcme/es/image/uuid-48dbcf09-19a7-bc10-a246-839cab6fc9cd.gif",
+      "altText": "Wiris logo."
     },
-    {
-      "id": "DEFAULT_HANDWRITING_FEATURE_CHINESE",
-      "lang": "zh",
-      "products": [
-        "addin"
-      ],
-      "solutions": [
-        "word",
-        "powerpoint"
-      ],
-      "licenseStatuses": [
-        "trial",
-        "trial_grace_period"
-      ],
-      "info": {
-        "title": "手写公式，MathType一键转换！",
-        "text": "使用手写功能，轻松输入数学公式。点击<strong><a target=\"_blank\" href=\"https://docs.wiris.com/mathtype/zh/-en--mathtype-integrations/-en--mathtype-web-interface-features/%E6%89%8B%E5%86%99%E8%BE%93%E5%85%A5.html?utm_source=fancynotification&utm_medium=mathtypems365&utm_campaign=trial&utm_content=handwritingdocumentation-addin-chinese\">此处</a></strong>，探索更多信息。"
-      },
-      "image": {
-        "url": "https://assets.officetools.wiris.kitchen/gifs/DEFAULT_HANDWRITING_FEATURE.gif",
-        "altText": "点击“前往手写模式”按钮，开始书写您的数学公式。",
-        "target": "https://docs.wiris.com/mathtype/zh/-en--mathtype-integrations/-en--mathtype-web-interface-features/%E6%89%8B%E5%86%99%E8%BE%93%E5%85%A5.html?utm_source=fancynotification&utm_medium=mathtypems365&utm_campaign=trial&utm_content=handwritingdocumentation-addin-chinese"
-      },
-      "alertType": "info",
-      "visualizations": 5,
-      "priority": 1,
-      "startDate": "2024/07/01"
+    "alertType": "success",
+    "visualizations": 35,
+    "priority": 50,
+    "testExpectedResult": "Notification contains a gif.",
+    "dismissible": false,
+    "closable": true
+  },
+  {
+    "id": "NOTIFICATION TEST: GIF es",
+    "lang": "es",
+    "products": [
+      "addin",
+      "addon",
+      "desktop"
+    ],
+    "solutions": [
+      "word",
+      "powerpoint",
+      "docs",
+      "slides",
+      "mtfxe"
+    ],
+    "licenseStatuses": [
+      "trial",
+      "trial_grace_period",
+      "trial_expired",
+      "subscription",
+      "subscription_expired",
+      "unlicensed"
+    ],
+    "info": {
+      "title": "NOTIFICATION TEST",
+      "text": "Un gif debería aparecer en la notificación"
     },
-    {
-      "id": "DEFAULT_HANDWRITING_FEATURE_CHINESE",
-      "lang": "zh",
-      "products": [
-        "addon"
-      ],
-      "solutions": [
-        "docs",
-        "slides"
-      ],
-      "licenseStatuses": [
-        "trial",
-        "trial_grace_period"
-      ],
-      "info": {
-        "title": "手写公式，MathType一键转换！",
-        "text": "使用手写功能，轻松输入数学公式。点击<strong><a target=\"_blank\" href=\"https://docs.wiris.com/mathtype/zh/-en--mathtype-integrations/-en--mathtype-web-interface-features/%E6%89%8B%E5%86%99%E8%BE%93%E5%85%A5.html?utm_source=fancynotification&utm_medium=mathtypegoogle&utm_campaign=trial&utm_content=handwritingdocumentation-addon-chinese\">此处</a></strong>，探索更多信息。"
-      },
-      "image": {
-        "url": "https://assets.officetools.wiris.kitchen/gifs/DEFAULT_HANDWRITING_FEATURE.gif",
-        "altText": "点击“前往手写模式”按钮，开始书写您的数学公式。",
-        "target": "https://docs.wiris.com/mathtype/zh/-en--mathtype-integrations/-en--mathtype-web-interface-features/%E6%89%8B%E5%86%99%E8%BE%93%E5%85%A5.html?utm_source=fancynotification&utm_medium=mathtypegoogle&utm_campaign=trial&utm_content=handwritingdocumentation-addon-chinese"
-      },
-      "alertType": "info",
-      "visualizations": 5,
-      "priority": 1,
-      "startDate": "2024/07/01"
+    "image": {
+      "url": "https://docs.wiris.com/calcme/es/image/uuid-48dbcf09-19a7-bc10-a246-839cab6fc9cd.gif",
+      "altText": "Wiris logo."
     },
-    {
-      "id": "LEARNING_LEMUR_BETA",
-      "lang": "en",
-      "products": [
-        "addon"
-      ],
-      "solutions": [
-        "docs",
-        "slides"
-      ],
-      "licenseStatuses": [
-        "trial",
-        "trial_grace_period"
-      ],
-      "info": {
-        "title": "Join the math revolution in Google Classroom!",
-        "text": "Learning Lemur Beta is here! Create unique math quizzes for your students with our new open platform. Start creating!"
-      },
-      "image": {
-        "url": "https://assets.officetools.wiris.kitchen/gifs/LEARNING_LEMUR_BETA.jpg",
-        "altText": "Learning Lemur Beta testing.",
-        "target": "https://learning-lemur.com/?utm_source=fancynotification&utm_medium=mathtypegoogle&utm_campaign=trial&utm_term=betalearninglemur&utm_content=startcreating&sf_campid=7015p000000iOM8AAM"
-      },
-      "alertType": "info",
-      "visualizations": 3,
-      "priority": 1,
-      "startDate": "2024/07/01"
+    "alertType": "success",
+    "visualizations": 35,
+    "priority": 50,
+    "testExpectedResult": "Notification contains a gif."
+  },
+  {
+    "id": "BACK_TO_SCHOOL_2024",
+    "lang": "en",
+    "products": [
+      "addin",
+      "addon"
+    ],
+    "solutions": [
+      "word",
+      "powerpoint",
+      "docs",
+      "slides"
+    ],
+    "licenseStatuses": [
+      "trial",
+      "trial_grace_period",
+      "trial_expired",
+      "subscription_grace_period",
+      "subscription_expired"
+    ],
+    "info": {
+      "title": "Time for Back to School with 25% off!",
+      "text": "Get your license with a special 25% off before September, 23rd and start the new course fully prepared with MathType"
     },
-    {
-      "id": "LEARNING_LEMUR_BETA",
-      "lang": "en",
-      "products": [
-        "addon"
-      ],
-      "solutions": [
-        "docs",
-        "slides"
-      ],
-      "licenseStatuses": [
-        "subscription",
-        "subscription_grace_period"
-      ],
-      "info": {
-        "title": "Join the math revolution in Google Classroom!",
-        "text": "Learning Lemur Beta is here! Create unique math quizzes for your students with our new open platform. Start creating!"
-      },
-      "image": {
-        "url": "https://assets.officetools.wiris.kitchen/gifs/LEARNING_LEMUR_BETA.jpg",
-        "altText": "Learning Lemur Beta testing.",
-        "target": "https://learning-lemur.com/?utm_source=fancynotification&utm_medium=mathtypegoogle&utm_campaign=licensed&utm_term=betalearninglemur&utm_content=startcreating&sf_campid=7015p000000iOM8AAM"
-      },
-      "alertType": "info",
-      "visualizations": 3,
-      "priority": 1,
-      "startDate": "2024/07/01"
+    "alertType": "info",
+    "visualizations": 5,
+    "priority": 25,
+    "startDate": "2024/08/20",
+    "endDate": "2024/09/23"
+  },
+  {
+    "id": "BACK_TO_SCHOOL_2024_LAST_DAY",
+    "lang": "en",
+    "products": [
+      "addin",
+      "addon"
+    ],
+    "solutions": [
+      "word",
+      "powerpoint",
+      "docs",
+      "slides"
+    ],
+    "licenseStatuses": [
+      "trial",
+      "trial_grace_period",
+      "trial_expired",
+      "subscription_grace_period",
+      "subscription_expired"
+    ],
+    "info": {
+      "title": "Last day! 25% for Back to School",
+      "text": "Click here to get your license with a special 25% off and start the new course fully prepared with MathType"
     },
-    {
-      "id": "LEARNING_LEMUR_BETA",
-      "lang": "es",
-      "products": [
-        "addon"
-      ],
-      "solutions": [
-        "docs",
-        "slides"
-      ],
-      "licenseStatuses": [
-        "trial",
-        "trial_grace_period"
-      ],
-      "info": {
-        "title": "¡Únete a la revolución matemática en Google Classroom!",
-        "text": "¡Learning Lemur Beta ya está aquí! Crea preguntas de matemáticas únicas para tus alumnos con nuestra nueva plataforma abierta. ¡Empieza a crear!"
-      },
-      "image": {
-        "url": "https://assets.officetools.wiris.kitchen/gifs/LEARNING_LEMUR_BETA.jpg",
-        "altText": "Learning Lemur Beta testing.",
-        "target": "https://learning-lemur.com/?utm_source=fancynotification&utm_medium=mathtypegoogle&utm_campaign=trial&utm_term=betalearninglemur&utm_content=startcreating&sf_campid=7015p000000iOM8AAM"
-      },
-      "alertType": "info",
-      "visualizations": 3,
-      "priority": 1,
-      "startDate": "2024/07/01"
+    "alertType": "info",
+    "visualizations": 5,
+    "priority": 25,
+    "startDate": "2024/09/24",
+    "endDate": "2024/09/25"
+  },
+  {
+    "id": "BACK_TO_SCHOOL_2024",
+    "lang": "es",
+    "products": [
+      "addin",
+      "addon"
+    ],
+    "solutions": [
+      "word",
+      "powerpoint",
+      "docs",
+      "slides"
+    ],
+    "licenseStatuses": [
+      "trial",
+      "trial_grace_period",
+      "trial_expired",
+      "subscription_grace_period",
+      "subscription_expired"
+    ],
+    "info": {
+      "title": "Time for Back to School with 25% off!",
+      "text": "Get your license with a special 25% off before September, 23rd and start the new course fully prepared with MathType"
     },
-    {
-      "id": "LEARNING_LEMUR_BETA",
-      "lang": "es",
-      "products": [
-        "addon"
-      ],
-      "solutions": [
-        "docs",
-        "slides"
-      ],
-      "licenseStatuses": [
-        "subscription",
-        "subscription_grace_period"
-      ],
-      "info": {
-        "title": "¡Únete a la revolución matemática en Google Classroom!",
-        "text": "¡Learning Lemur Beta ya está aquí! Crea preguntas de matemáticas únicas para tus alumnos con nuestra nueva plataforma abierta. ¡Empieza a crear!"
-      },
-      "image": {
-        "url": "https://assets.officetools.wiris.kitchen/gifs/LEARNING_LEMUR_BETA.jpg",
-        "altText": "Learning Lemur Beta testing.",
-        "target": "https://learning-lemur.com/?utm_source=fancynotification&utm_medium=mathtypegoogle&utm_campaign=licensed&utm_term=betalearninglemur&utm_content=startcreating&sf_campid=7015p000000iOM8AAM"
-      },
-      "alertType": "info",
-      "visualizations": 3,
-      "priority": 1,
-      "startDate": "2024/07/01"
+    "alertType": "info",
+    "visualizations": 5,
+    "priority": 25,
+    "startDate": "2024/08/20",
+    "endDate": "2024/09/23"
+  },
+  {
+    "id": "BACK_TO_SCHOOL_2024_LAST_DAY",
+    "lang": "es",
+    "products": [
+      "addin",
+      "addon"
+    ],
+    "solutions": [
+      "word",
+      "powerpoint",
+      "docs",
+      "slides"
+    ],
+    "licenseStatuses": [
+      "trial",
+      "trial_grace_period",
+      "trial_expired",
+      "subscription_grace_period",
+      "subscription_expired"
+    ],
+    "info": {
+      "title": "Last day! 25% for Back to School",
+      "text": "Click here to get your license with a special 25% off and start the new course fully prepared with MathType"
     },
-    {
-      "id": "EQUATION_EDITOR_PAINS_2024",
-      "lang": "en",
-      "products": [
-        "addin"
-      ],
-      "solutions": [
-        "word",
-        "powerpoint"
-      ],
-      "licenseStatuses": [
-        "trial",
-        "trial_grace_period"
-      ],
-      "info": {
-        "title": "Your feedback is valuable to us!",
-        "text": "Please answer this <a target=\"_blank\" href=\"https://wirisscience.typeform.com/to/Y6gxiyMP\">1-minute survey</a>"
-      },
-      "alertType": "info",
-      "visualizations": 5,
-      "priority": 1,
-      "startDate": "2024/05/31",
-      "endData": "2024/07/01"
+    "alertType": "info",
+    "visualizations": 5,
+    "priority": 25,
+    "startDate": "2024/09/24",
+    "endDate": "2024/09/25"
+  },
+  {
+    "id": "BACK_TO_SCHOOL_2024",
+    "lang": "zh_HANS",
+    "products": [
+      "addin",
+      "addon"
+    ],
+    "solutions": [
+      "word",
+      "powerpoint",
+      "docs",
+      "slides"
+    ],
+    "licenseStatuses": [
+      "trial",
+      "trial_grace_period",
+      "trial_expired",
+      "subscription_grace_period",
+      "subscription_expired"
+    ],
+    "info": {
+      "title": "Time for Back to School with 25% off!",
+      "text": "Get your license with a special 25% off before September, 23rd and start the new course fully prepared with MathType"
     },
-    {
-      "id": "EQUATION_EDITOR_PAINS_2024",
-      "lang": "en",
-      "products": [
-        "addin"
-      ],
-      "solutions": [
-        "word",
-        "powerpoint"
-      ],
-      "licenseStatuses": [
-        "subscription",
-        "subscription_grace_period"
-      ],
-      "info": {
-        "title": "Your feedback is valuable to us!",
-        "text": "Please answer this <a target=\"_blank\" href=\"https://wirisscience.typeform.com/to/bIVbP9mj\">1-minute survey</a>"
-      },
-      "alertType": "info",
-      "visualizations": 5,
-      "priority": 1,
-      "startDate": "2024/05/31",
-      "endData": "2024/07/01"
+    "alertType": "info",
+    "visualizations": 5,
+    "priority": 25,
+    "startDate": "2024/08/20",
+    "endDate": "2024/09/23"
+  },
+  {
+    "id": "BACK_TO_SCHOOL_2024_LAST_DAY",
+    "lang": "zh_HANS",
+    "products": [
+      "addin",
+      "addon"
+    ],
+    "solutions": [
+      "word",
+      "powerpoint",
+      "docs",
+      "slides"
+    ],
+    "licenseStatuses": [
+      "trial",
+      "trial_grace_period",
+      "trial_expired",
+      "subscription_grace_period",
+      "subscription_expired"
+    ],
+    "info": {
+      "title": "Last day! 25% for Back to School",
+      "text": "Click here to get your license with a special 25% off and start the new course fully prepared with MathType"
     },
-    {
-      "id": "EQUATION_EDITOR_PAINS_2024",
-      "lang": "zh",
-      "products": [
-        "addin"
-      ],
-      "solutions": [
-        "word",
-        "powerpoint"
-      ],
-      "licenseStatuses": [
-        "trial",
-        "trial_grace_period"
-      ],
-      "info": {
-        "title": "您的反馈对我们十分宝贵！",
-        "text": "请您抽出 1 分钟时间填写<a target=\"_blank\" href=\"https://wirisscience.typeform.com/to/pPXv1m66\">此份问卷调查</a>"
-      },
-      "alertType": "info",
-      "visualizations": 5,
-      "priority": 1,
-      "startDate": "2024/05/31",
-      "endData": "2024/07/01"
+    "alertType": "info",
+    "visualizations": 5,
+    "priority": 25,
+    "startDate": "2024/09/24",
+    "endDate": "2024/09/25"
+  },
+  {
+    "id": "BACK_TO_SCHOOL_2024",
+    "lang": "zh_HANT",
+    "products": [
+      "addin",
+      "addon"
+    ],
+    "solutions": [
+      "word",
+      "powerpoint",
+      "docs",
+      "slides"
+    ],
+    "licenseStatuses": [
+      "trial",
+      "trial_grace_period",
+      "trial_expired",
+      "subscription_grace_period",
+      "subscription_expired"
+    ],
+    "info": {
+      "title": "Time for Back to School with 25% off!",
+      "text": "Get your license with a special 25% off before September, 23rd and start the new course fully prepared with MathType"
     },
-    {
-      "id": "EQUATION_EDITOR_PAINS_2024",
-      "lang": "zh",
-      "products": [
-        "addin"
-      ],
-      "solutions": [
-        "word",
-        "powerpoint"
-      ],
-      "licenseStatuses": [
-        "subscription",
-        "subscription_grace_period"
-      ],
-      "info": {
-        "title": "您的反馈对我们十分宝贵！",
-        "text": "请您抽出 1 分钟时间填写<a target=\"_blank\" href=\"https://wirisscience.typeform.com/to/WjP4Yccc\">此份问卷调查</a>"
-      },
-      "alertType": "info",
-      "visualizations": 5,
-      "priority": 1,
-      "startDate": "2024/05/31",
-      "endData": "2024/07/01"
+    "alertType": "info",
+    "visualizations": 5,
+    "priority": 25,
+    "startDate": "2024/08/20",
+    "endDate": "2024/09/23"
+  },
+  {
+    "id": "BACK_TO_SCHOOL_2024_LAST_DAY",
+    "lang": "zh_HANT",
+    "products": [
+      "addin",
+      "addon"
+    ],
+    "solutions": [
+      "word",
+      "powerpoint",
+      "docs",
+      "slides"
+    ],
+    "licenseStatuses": [
+      "trial",
+      "trial_grace_period",
+      "trial_expired",
+      "subscription_grace_period",
+      "subscription_expired"
+    ],
+    "info": {
+      "title": "Last day! 25% for Back to School",
+      "text": "Click here to get your license with a special 25% off and start the new course fully prepared with MathType"
     },
-    {
-        "id": "EQUATION_EDITOR_PAINS_2024",
-        "lang": "en",
-        "products": [
-          "addon"
-        ],
-        "solutions": [
-          "docs",
-          "slides"
-        ],
-        "licenseStatuses": [
-          "trial",
-          "trial_grace_period"
-        ],
-        "info": {
-          "title": "Your feedback is valuable to us!",
-          "text": "Please answer this <a target=\"_blank\" href=\"https://wirisscience.typeform.com/to/ieeRuhKE\">1-minute survey</a>"
-        },
-        "alertType": "info",
-        "visualizations": 5,
-        "priority": 1,
-        "startDate": "2024/05/31",
-        "endData": "2024/07/01"
-      },
-      {
-        "id": "EQUATION_EDITOR_PAINS_2024",
-        "lang": "en",
-        "products": [
-          "addon"
-        ],
-        "solutions": [
-          "docs",
-          "slides"
-        ],
-        "licenseStatuses": [
-          "subscription",
-          "subscription_grace_period"
-        ],
-        "info": {
-          "title": "Your feedback is valuable to us!",
-          "text": "Please answer this <a target=\"_blank\" href=\"https://wirisscience.typeform.com/to/FRaJe2Xp\">1-minute survey</a>"
-        },
-        "alertType": "info",
-        "visualizations": 5,
-        "priority": 1,
-        "startDate": "2024/05/31",
-        "endData": "2024/07/01"
-      },
-      {
-        "id": "EQUATION_EDITOR_PAINS_2024",
-        "lang": "zh",
-        "products": [
-          "addon"
-        ],
-        "solutions": [
-          "docs",
-          "slides"
-        ],
-        "licenseStatuses": [
-          "trial",
-          "trial_grace_period"
-        ],
-        "info": {
-          "title": "您的反馈对我们十分宝贵！",
-          "text": "请您抽出 1 分钟时间填写<a target=\"_blank\" href=\"https://wirisscience.typeform.com/to/eQvqraxw\">此份问卷调查</a>"
-        },
-        "alertType": "info",
-        "visualizations": 5,
-        "priority": 1,
-        "startDate": "2024/05/31",
-        "endData": "2024/07/01"
-      },
-      {
-        "id": "EQUATION_EDITOR_PAINS_2024",
-        "lang": "zh",
-        "products": [
-          "addon"
-        ],
-        "solutions": [
-          "docs",
-          "slides"
-        ],
-        "licenseStatuses": [
-          "subscription",
-          "subscription_grace_period"
-        ],
-        "info": {
-          "title": "您的反馈对我们十分宝贵！",
-          "text": "请您抽出 1 分钟时间填写<a target=\"_blank\" href=\"https://wirisscience.typeform.com/to/IdB6jRqe\">此份问卷调查</a>"
-        },
-        "alertType": "info",
-        "visualizations": 5,
-        "priority": 1,
-        "startDate": "2024/05/31",
-        "endData": "2024/07/01"
-      },
-      {
-        "id": "EQUATION_EDITOR_PAINS_2024",
-        "lang": "es",
-        "products": [
-          "addin"
-        ],
-        "solutions": [
-          "word",
-          "powerpoint"
-        ],
-        "licenseStatuses": [
-          "trial",
-          "trial_grace_period"
-        ],
-        "info": {
-          "title": "Your feedback is valuable to us!",
-          "text": "Please answer this <a target=\"_blank\" href=\"https://wirisscience.typeform.com/to/Y6gxiyMP\">1-minute survey</a>"
-        },
-        "alertType": "info",
-        "visualizations": 5,
-        "priority": 1,
-        "startDate": "2024/05/31",
-        "endData": "2024/07/01"
-      },
-      {
-        "id": "EQUATION_EDITOR_PAINS_2024",
-        "lang": "es",
-        "products": [
-          "addin"
-        ],
-        "solutions": [
-          "word",
-          "powerpoint"
-        ],
-        "licenseStatuses": [
-          "subscription",
-          "subscription_grace_period"
-        ],
-        "info": {
-          "title": "Your feedback is valuable to us!",
-          "text": "Please answer this <a target=\"_blank\" href=\"https://wirisscience.typeform.com/to/bIVbP9mj\">1-minute survey</a>"
-        },
-        "alertType": "info",
-        "visualizations": 5,
-        "priority": 1,
-        "startDate": "2024/05/31",
-        "endData": "2024/07/01"
-      },
-      {
-        "id": "EQUATION_EDITOR_PAINS_2024",
-        "lang": "es",
-        "products": [
-          "addon"
-        ],
-        "solutions": [
-          "docs",
-          "slides"
-        ],
-        "licenseStatuses": [
-          "trial",
-          "trial_grace_period"
-        ],
-        "info": {
-          "title": "Your feedback is valuable to us!",
-          "text": "Please answer this <a target=\"_blank\" href=\"https://wirisscience.typeform.com/to/ieeRuhKE\">1-minute survey</a>"
-        },
-        "alertType": "info",
-        "visualizations": 5,
-        "priority": 1,
-        "startDate": "2024/05/31",
-        "endData": "2024/07/01"
-      },
-      {
-        "id": "EQUATION_EDITOR_PAINS_2024",
-        "lang": "es",
-        "products": [
-          "addon"
-        ],
-        "solutions": [
-          "docs",
-          "slides"
-        ],
-        "licenseStatuses": [
-          "subscription",
-          "subscription_grace_period"
-        ],
-        "info": {
-          "title": "Your feedback is valuable to us!",
-          "text": "Please answer this <a target=\"_blank\" href=\"https://wirisscience.typeform.com/to/FRaJe2Xp\">1-minute survey</a>"
-        },
-        "alertType": "info",
-        "visualizations": 5,
-        "priority": 1,
-        "startDate": "2024/05/31",
-        "endData": "2024/07/01"
-      }
-  ]
+    "alertType": "info",
+    "visualizations": 5,
+    "priority": 25,
+    "startDate": "2024/09/24",
+    "endDate": "2024/09/25"
+  }
+]
