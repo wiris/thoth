@@ -25,6 +25,24 @@
         "closable": true
   },
     {
+      "id": "TEST MTX",
+      "lang": "en",
+      "products": ["desktop"],
+      "solutions": ["mtfxe"],
+      "licenseStatuses": ["trial"],
+  
+      "info": {
+        "title": "[TRIAL] MTX Notification Test",
+        "text": "Test notification by license status"
+      },
+      "alertType": "error",
+      "visualizations": 25,
+      "priority": 78,
+      "testExpectedResult": "test Expected Result",
+        "dismissible": false,
+        "closable": true
+    },
+    {
       "id": "TEST MTX trial",
       "lang": "en",
       "products": ["desktop"],
@@ -37,7 +55,7 @@
       },
       "alertType": "info",
       "visualizations": 25,
-      "priority": 76,
+      "priority": 77,
       "testExpectedResult": "test Expected Result",
         "dismissible": false,
         "closable": true
@@ -73,7 +91,7 @@
       },
       "alertType": "info",
       "visualizations": 25,
-      "priority": 76,
+      "priority": 77,
       "testExpectedResult": "test Expected Result",
         "dismissible": false,
         "closable": true
