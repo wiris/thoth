@@ -29,7 +29,12 @@
       "lang": "en",
       "products": ["desktop"],
       "solutions": ["mtfxe"],
-      "licenseStatuses": ["trial"],
+      "licenseStatuses": [
+      "trial",
+      "trial_grace_period",
+      "subscription",
+      "subscription_grace_period"
+    ],
   
       "info": {
         "title": "[TRIAL] MTX Notification Test",
