@@ -40,7 +40,7 @@
       "subscription_grace_period"
     ],
     "info": {
-      "title": "[TRIAL] MTX Notification Test",
+      "title": "MTX Notification Test",
       "text": "Test notification by license status"
     },
     "alertType": "error",
