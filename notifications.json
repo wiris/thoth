@@ -533,7 +533,7 @@
         },
         "alertType": "info",
         "visualizations": 5,
-        "priority": 25,
+        "priority": 125,
         "startDate": "2024/08/19",
         "endDate": "2024/09/22 23:59"
     },
