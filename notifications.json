@@ -160,5 +160,49 @@
     "alertType": "info",
     "visualizations": 5,
     "priority": 19
+  },
+  {
+    "id": "CANVAS_LEAD_GENERATION_2024",
+    "lang": "en",
+    "products": [
+      "addon"
+    ],
+    "solutions": [
+      "docs",
+      "slides"
+    ],
+    "licenseStatuses": [
+      "subscription"
+    ],
+    "info": {
+      "title": "Using Canvas LMS? We’ve got news!",
+      "text": "MathType is fully integrated with Canvas! Enjoy a free trial— <a href=\"https://mathtypecanvas.wiris.com/?utm_source=fancynotification&utm_medium=mathtypegoogle&utm_campaign=Subscription&utm_term=leadgen2024&utm_content=learnmore\">learn more here!</a>."
+    },
+    "alertType": "info",
+    "visualizations": 5,
+    "priority": 25,
+    "startDate": "2024/10/03"
+  },
+  {
+    "id": "CANVAS_LEAD_GENERATION_2024",
+    "lang": "en",
+    "products": [
+      "addin"
+    ],
+    "solutions": [
+      "word",
+      "powerpoint"
+    ],
+    "licenseStatuses": [
+      "subscription"
+    ],
+    "info": {
+      "title": "Using Canvas LMS? We’ve got news!",
+      "text": "MathType is fully integrated with Canvas! Enjoy a free trial— <a href=\"https://mathtypecanvas.wiris.com/?utm_source=fancynotification&utm_medium=mathtypems365&utm_campaign=Subscription&utm_term=leadgen2024&utm_content=learnmore\">learn more here!</a>."
+    },
+    "alertType": "info",
+    "visualizations": 5,
+    "priority": 25,
+    "startDate": "2024/10/03"
   }
 ]
