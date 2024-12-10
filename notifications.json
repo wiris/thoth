@@ -41,7 +41,7 @@
     ],
     "info": {
       "title": "MTX Notification Test",
-      "text": "Test notification by license status"
+      "text": "Test notification"
     },
     "alertType": "error",
     "visualizations": 25,
@@ -54,11 +54,13 @@
     "id": "TEST trial",
     "lang": "en",
     "products": [
-      "desktop"
+      "desktop",
+      "addin"
     ],
     "solutions": [
       "mtfxe",
-      "addin"
+      "word",
+      "powerpoint"
     ],
     "licenseStatuses": [
       "trial"
@@ -78,11 +80,13 @@
     "id": "TEST trial_grace_period",
     "lang": "en",
     "products": [
-      "desktop"
+      "desktop",
+      "addin"
     ],
     "solutions": [
       "mtfxe",
-      "addin"
+      "word",
+      "powerpoint"
     ],
     "licenseStatuses": [
       "trial_grace_period"
@@ -102,11 +106,13 @@
     "id": "TEST subscription",
     "lang": "en",
     "products": [
-      "desktop"
+      "desktop",
+      "addin"
     ],
     "solutions": [
       "mtfxe",
-      "addin"
+      "word",
+      "powerpoint"
     ],
     "licenseStatuses": [
       "subscription"
@@ -126,17 +132,19 @@
     "id": "TEST subscription_grace_period",
     "lang": "en",
     "products": [
-      "desktop"
+      "desktop",
+      "addin"
     ],
     "solutions": [
       "mtfxe",
-      "addin"
+      "word",
+      "powerpoint"
     ],
     "licenseStatuses": [
       "subscription_grace_period"
     ],
     "info": {
-      "title": "[subscription_grace_period] MTX Notification Test",
+      "title": "[subscription_grace_period] Notification Test",
       "text": "Test notification by license status"
     },
     "alertType": "info",
