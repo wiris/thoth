@@ -1,5 +1,34 @@
 [
   {
+    "id": "DEFAULT_HANDWRITING_FEATURE",
+    "lang": "en",
+    "products": [
+      "addin"
+    ],
+    "solutions": [
+      "word",
+      "powerpoint"
+    ],
+    "licenseStatuses": [
+      "trial",
+      "trial_grace_period",
+      "subscription",
+      "subscription_grace_period"
+    ],
+    "info": {
+      "title": "You draw it, MathType converts it!",
+      "text": "Write math with the handwriting feature. Discover more <a class=\"underline\" target=\"_blank\" href=\"https://docs.wiris.com/mathtype/en/mathtype-integrations/mathtype-web-interface-features/handwritten-input.html?utm_source=fancynotification&utm_medium=mathtypems365&utm_campaign=trial&utm_content=handwritingdocumentation-addin\">here</a>!"
+    },
+    "image": {
+      "url": "https://assets.officetools.wiris.kitchen/gifs/DEFAULT_HANDWRITING_FEATURE.gif",
+      "altText": "Click on \"Go to handwritten mode\" button and handwrite your equation.",
+      "target": "https://docs.wiris.com/mathtype/en/mathtype-integrations/mathtype-web-interface-features/handwritten-input.html?utm_source=fancynotification&utm_medium=mathtypems365&utm_campaign=trial&utm_content=handwritingdocumentation-addin"
+    },
+    "alertType": "info",
+    "visualizations": 5,
+    "priority": 19
+  },
+  {
     "id": "MATHTYPE_FOR_XML_EDITORS_NEW_RELEASE",
     "lang": "en",
     "solutions": [
