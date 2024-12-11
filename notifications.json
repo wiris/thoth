@@ -11,9 +11,7 @@
     ],
     "licenseStatuses": [
       "trial",
-      "trial_grace_period",
-      "subscription",
-      "subscription_grace_period"
+      "subscription"
     ],
     "info": {
       "title": "You draw it, MathType converts it!",
