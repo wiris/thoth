@@ -109,7 +109,8 @@
     "id": "TEST trial_grace_period",
     "lang": "en",
     "products": [
-      "desktop"
+      "desktop",
+      "addin"
     ],
     "solutions": [
       "mtfxe",
@@ -160,8 +161,7 @@
     "id": "TEST subscription_grace_period",
     "lang": "en",
     "products": [
-      "desktop",
-      "addin"
+      "desktop"
     ],
     "solutions": [
       "mtfxe",
