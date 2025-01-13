@@ -1,6 +1,6 @@
 {
 	"feature": "dual-editor",
-	"defaault": false,
+	"default": false,
 	"segment_criteria": {
 		"languages": ["es"],
 		"license_statuses": ["subscription"],
