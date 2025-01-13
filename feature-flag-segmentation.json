@@ -1,0 +1,12 @@
+{
+	"feature": "dual-editor",
+	"defaault": false,
+	"segment_criteria": {
+		"languages": ["es"],
+		"license_statuses": ["subscription"],
+		"products": ["addin"],
+		"solutions": ["word"],
+		"oses": ["window"],
+		"hosts": ["desktop"]
+	}
+}
