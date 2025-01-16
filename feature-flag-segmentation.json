@@ -2,11 +2,11 @@
 	"feature": "dual-editor",
 	"default": false,
 	"segment_criteria": {
-		"languages": ["en"],
-		"license_statuses": ["subscription_grace_period"],
+		"languages": ["es"],
+		"license_statuses": ["subscription"],
 		"products": ["addin"],
 		"solutions": ["word"],
 		"oses": ["Windows"],
-		"hosts": ["PC"]
+		"hosts": ["desktop"]
 	}
 }
