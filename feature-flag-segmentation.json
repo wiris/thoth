@@ -2,7 +2,7 @@
 	"feature": "dual-editor",
 	"default": false,
 	"segment_criteria": {
-		"languages": ["zh_HANT"],
+		"languages": ["zh"],
 		"license_statuses": ["subscription"],
 		"products": ["addin"],
 		"solutions": ["word", "powerpoint"],
