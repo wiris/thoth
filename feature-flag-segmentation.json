@@ -5,7 +5,7 @@
 		"languages": ["es"],
 		"license_statuses": ["subscription"],
 		"products": ["addin"],
-		"solutions": ["word"],
+		"solutions": ["word", "powerpoint"],
 		"oses": ["Windows"],
 		"hosts": ["PC"]
 	}
