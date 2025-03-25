@@ -2,7 +2,7 @@
 	"feature": "dual-editor",
 	"default": false,
 	"segment_criteria": {
-		"languages": ["es-ES"],
+		"languages": ["es"],
 		"license_statuses": ["subscription"],
 		"products": ["addin"],
 		"solutions": ["word", "powerpoint"],
