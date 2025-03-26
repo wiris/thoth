@@ -1,11 +1,11 @@
 [{
 	"feature": "dual-editor",
-	"default": true,
+	"default": false,
 	"segment_criteria": {
 		"languages": ["zh_HANS"],
 		"license_statuses": ["subscription"],
 		"products": ["addin"],
-		"solutions": ["word", "powerpoint"],
+		"solutions": ["word"],
 		"oses": ["Windows"],
 		"hosts": ["PC"]
 	}
