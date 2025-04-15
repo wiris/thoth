@@ -2,7 +2,7 @@
 	"feature": "dual-editor",
 	"default": false,
 	"segment_criteria": {
-		"languages": ["es"],
+		"languages": ["es", "en", "zh_HANS", "zh_HANT"],
 		"license_statuses": ["subscription"],
 		"products": ["addin"],
 		"solutions": ["word"],
