@@ -1,8 +1,8 @@
 [{
 	"feature": "dual-editor",
-	"default": false,
+	"default": true,
 	"segment_criteria": {
-		"languages": ["es", "en", "zh_HANS", "zh_HANT"],
+		"languages": ["es"],
 		"license_statuses": ["subscription"],
 		"products": ["addin"],
 		"solutions": ["word"],
