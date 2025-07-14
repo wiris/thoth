@@ -6,7 +6,7 @@
 		"license_statuses": ["subscription"],
 		"products": ["addin"],
 		"solutions": ["word"],
-		"oses": ["Windows","Mac"],
+		"oses": ["Windows", "MAC"],
 		"hosts": ["PC"]
 	}
 }]
