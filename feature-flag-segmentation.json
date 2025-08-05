@@ -7,6 +7,6 @@
 		"products": ["addin"],
 		"solutions": ["word"],
 		"oses": ["Windows", "MAC"],
-		"hosts": ["PC"]
+		"hosts": ["PC", "Mac"]
 	}
 }]
