@@ -6,7 +6,7 @@
 		"license_statuses": ["subscription", "trial"],
 		"products": ["addin"],
 		"solutions": ["word"],
-		"oses": ["Windows"],
-		"hosts": ["PC"]
+		"oses": ["Windows", "MAC"],
+		"hosts": ["PC", "Mac"]
 	}
 }]
